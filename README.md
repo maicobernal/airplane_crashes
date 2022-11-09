@@ -12,7 +12,7 @@ Pueden visualizar las consignas originales en el siguiente [link](https://github
 
 ---
 
-#### Objetivo:
+### Objetivo:
 Realizar un análisis y visualización de una base de datos de accidentes aéreos. 
 
 
@@ -34,19 +34,36 @@ Se destacan como principales fabricantes mundiales:
     *Bombardier: empresa canadiense que desde el año 2020 pertenece al grupo japonés Mitshubishi.
     *Antonov: empresa estatal que perteneció a la URSS, y en este momento pertenece a Ucrania.
 
-#### 3) Normalización y limpieza de los datos
-El siguiente paso fue la normalización y limpieza de los datos de accidentes aéreos. Se puede ahondar más en el tema en el *'notebook 1'*. Se dividió 
-
-#### 4) Búsqueda de información adicional
+### 3) Búsqueda de información adicional
 
 A continuación, y para los fines de generar un análisis más profundo de la cuestión, se realizó la busqueda y ampliación de la información, extrayendo datos de las siguientes fuentes:
-    a)  [Banco Mundial:](https://datos.bancomundial.org/indicator/IS.AIR.DPRT?end=2020&start=1970&view=chart) estadísticas globales de cantidad de vuelos por año -- Archivo './data/bm/API.csv'
-    b)  Yahoo Finance Historical Data: -- Archivos localizados en carpeta './data/stock'
-        Se eligió a las [10 aerolíneas públicas](https://en.wikipedia.org/wiki/Largest_airlines_in_the_world#By_company_revenue) que tienen mayor capitalización bursatil.
 
-    c)  [Plane Crash Info](http://www.planecrashinfo.com/index.html). De aquí se extrajo las causas documentadas de accidentes aéreos.
+**a) [Banco Mundial:](https://datos.bancomundial.org/indicator/IS.AIR.DPRT?end=2020&start=1970&view=chart)** estadísticas globales de cantidad de vuelos por año -- Archivo './data/bm/API.csv'
 
-El procesamiento de los datos bursátiles se realizó en el *'notebook 2'* y el procesamiento de los datos del Banco Mundial en el *'notebook 3'*. El procesamiento de los datos adicionales de las 'causas de accidentes aéreos' forma parte del *notebook 1*. 
+**b) Yahoo Finance Historical Data**: Archivos localizados en carpeta *'./data/stock'*. Se eligió a las [10 aerolíneas públicas](https://en.wikipedia.org/wiki/Largest_airlines_in_the_world#By_company_revenue) que tienen mayor capitalización bursatil.
+
+**c) [Plane Crash Info](http://www.planecrashinfo.com/index.html)**. De aquí se extrajo las causas documentadas de accidentes aéreos y los accidentes aéreos producto de alguna actividad militar (ya sea en combate o entrenamiento). 
+
+#### 4) Normalización y limpieza de los datos
+El siguiente paso fue la normalización y limpieza de los datos de accidentes aéreos. Se puede ahondar más en el tema en el *'notebook 1'*. 
+Brevemente:
+a) Normalización de datos
+b) Cálculo de coordenadas GPS de cada ruta vía Geocoding API de Google. 
+c) First sight del texto en *summary* con Wordcloud:
+
+![](./images/wordcloud.png)
+
+A simple vista no pareciera aportar información que amerite su procesamiento. 
+
+d) Identifiación del país de origen de cada aeronave con libreria [Flydenity](https://github.com/Collen-Roller/flydenity) utilizando la codificación de la variable *registration*.
+
+e) Web scrapping de los accidentes aéreos de causa militar y creación de feature binario *civil_flights*. 
+
+f) Web scrapping de las causas documentadas de accidentes aéreos: creando un dataframe *causes* con uniqueID que identifique cada vuelo con su causa documentada (aves, sabotaje, falla técnica, etc). 
+
+g) Como último, para mejor perfomance se dividió la tabla original en tablas más pequeñas: *fatalities, flights, aircrafts, causes* 
+
+h) El procesamiento de los datos bursátiles se realizó en el *'notebook 2'* y se volcó en la tabla *stock*. El procesamiento de los datos del Banco Mundial se realizó en el *'notebook 3'* y se guardó en la tabla *historical*.
 
 #### 5) Carga de datos a MySQL
 Todos los datos procesados en estos 3 notebooks fue a posterior cargado en una base de datos en un servidor local de MySQL 8.0 vía SQLAlchemy y a continuación se realizó la conexión con PowerBI, quedando el siguiente modelo de datos: 
@@ -54,12 +71,9 @@ Todos los datos procesados en estos 3 notebooks fue a posterior cargado en una b
 
 #### 6) Visualización y análisis en Power BI
 
-Se puede visualizar en el archivo *dashboard.pbix*
+Se puede visualizar en el archivo *dashboard.pbix*. El mismo consta de varias secciones donde se profundiza acerca de la temática. 
 
 ---
 
 Son bienvenidos comentarios y sugerencias del proyecto!
-
 Saludos, 
-
-Maico. 
