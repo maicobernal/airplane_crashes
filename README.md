@@ -73,6 +73,8 @@ Todos los datos procesados en estos 3 notebooks fue a posterior cargado en una b
 
 Se puede visualizar en el archivo *dashboard.pbix*. El mismo consta de varias secciones donde se profundiza acerca de la temática. 
 
+El objetivo del dashboard es evaluar el impacto de los accidentes aéreos en la cotización de las principales aerolíneas comerciales y fabricantes de aeronaves y evaluar aspectos respecto a la seguridad de los vuelos aéreos en función del tiempo y eventos clave. 
+
 ---
 
 Son bienvenidos comentarios y sugerencias del proyecto!
