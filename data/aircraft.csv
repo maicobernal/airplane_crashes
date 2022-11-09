@@ -1,0 +1,5009 @@
+flight_id,flight_id,aircraft_type,helicopter
+0,0,Wright Flyer III,False
+1,1,Wright Byplane,False
+2,2,Dirigible,False
+3,3,Curtiss seaplane,False
+4,4,Zeppelin L-1 (airship),False
+5,5,Zeppelin L-2 (airship),False
+6,6,Zeppelin L-8 (airship),False
+7,7,Zeppelin L-10 (airship),False
+8,8,Schutte-Lanz S-L-10 (airship),False
+9,9,Zeppelin L-32 (airship),False
+10,10,Zeppelin L-31 (airship),False
+11,11,Super Zeppelin (airship),False
+12,12,Zeppelin L-34 (airship),False
+13,13,Airship,False
+14,14,Schutte-Lanz S-L-9 (airship),False
+15,15,Zeppelin L-22 (airship),False
+16,16,Zeppelin L-43 (airship),False
+17,17,Zepplin L-48 (air ship),False
+18,18,Zeppelin L-23 (airship),False
+19,19,Zeppelin L-44 (airship),False
+20,20,Zeppelin L-59 (airship),False
+21,21,Zeppelin L-70 (airship),False
+22,22,Zeppelin L-53 (airship),False
+23,23,De Havilland DH-4,False
+24,24,De Havilland DH-4,False
+25,25,De Havilland DH-4,False
+26,26,FD Type Dirigible,False
+27,27,Caproni Ca.48,False
+28,28,De Havilland DH-4,False
+29,29,Curtiss R-4LM,False
+30,30,De Havilland DH-4,False
+31,31,De Havilland DH.4,False
+32,32,de Havilland DH-4,False
+33,33,De Havilland DH-4,False
+34,34,De Havilland DH-4,False
+35,35,Curtiss R-4LM,False
+36,36,Curtiss JN-4H,False
+37,37,De Havilland DH-4,False
+38,38,De Havilland DH-4,False
+39,39,Farman F-40,False
+40,40,Armstrong-Whitworth F-K-8,False
+41,41,De Havilland DH-4,False
+42,42,Junkers JL-6,False
+43,43,Junkers F-13,False
+44,44,De Havilland DH-4,False
+45,45,Salmson 2-A-2,False
+46,46,Breguet 14,False
+47,47,De Havilland DH-4,False
+48,48,De Havilland DH-4,False
+49,49,Handley Page HP-16,False
+50,50,Breguet 14,False
+51,51,De Havilland DH-4,False
+52,52,Junkers F-13,False
+53,53,Breguet 14,False
+54,54,De Havilland DH-4,False
+55,55,Avro 504,False
+56,56,De Havilland DH-4,False
+57,57,De Havilland DH-4,False
+58,58,De Havilland DH-4De Havilland DH-4,False
+59,59,Breguet 14,False
+60,60,Royal Airship Works ZR-2 (airship),False
+61,61,Potez IX,False
+62,62,Bristol 28 Tourer,False
+63,63,Handley Page O/10,False
+64,64,Dirigible Roma (airship),False
+65,65,Aeromarine Model 85 (flying boat),False
+66,66,de Havilland DH-18 / Farman F-60 Goliath,False
+67,67,,
+68,68,Bleriot Spad 27,False
+69,69,LVG C VI,False
+70,70,Potez 29,False
+71,71,Breguet 14,False
+72,72,De Havilland DH-4,False
+73,73,de Havilland DH-9,False
+74,74,Breguet 14,False
+75,75,Breguet 14,False
+76,76,Lioré-et-Olivier H-13,False
+77,77,Breguet 14,False
+78,78,De Havilland DH-4,False
+79,79,De Havilland DH-4,False
+80,80,Farman F-60 Goliath,False
+81,81,Farman F.60 Goliath,False
+82,82,Blériot Spad 46,False
+83,83,De Havilland DH-4,False
+84,84,de Havilland DH-34,False
+85,85,Junkers F-13,False
+86,86,De Havilland DH-4,False
+87,87,Zeppelin Dixmunde (airship),False
+88,88,De Havilland DH-4,False
+89,89,De Havilland DH-4,False
+90,90,Fokker F.III,False
+91,91,Junkers F-13,False
+92,92,De Havilland DH-4,False
+93,93,Breguet 14,False
+94,94,De Havilland DH-4,False
+95,95,de Havilland DH-34B,False
+96,96,Junkers F-13,False
+97,97,Breguet 14,False
+98,98,Fokker (KLM)  F.III,False
+99,99,Lioré-et-Olivier LeO H-13,False
+100,100,Breguet 14,False
+101,101,Potez IX,False
+102,102,Dirigible ZR-1 Shenandoah (airship),False
+103,103,Spad 33,False
+104,104,De Havilland DH-4,False
+105,105,Breguet 14,False
+106,106,Farman F-60 Goliath,False
+107,107,Curtiss Carrier Pigeon,False
+108,108,Junkers F-13,False
+109,109,Breguet 14,False
+110,110,Caudron C-61,False
+111,111,Fokker F7,False
+112,112,Junkers F-13,False
+113,113,Bleriot 155,False
+114,114,Sikorsky S-25,False
+115,115,Bleriot 155,False
+116,116,Fokker FG III,False
+117,117,Handley Page W-10,False
+118,118,Breguet 14,False
+119,119,Ryan M-1,False
+120,120,Fokker F-VII,False
+121,121,Breguet 14,False
+122,122,de Havilland DH-9C,False
+123,123,SwallowSwallow,False
+124,124,Fokker FG III,False
+125,125,Douglas M-4,False
+126,126,SPCA Meteore 63,False
+127,127,Junkers F-13,False
+128,128,Fokker F-VIII,False
+129,129,Fokker Universal,False
+130,130,Fokker F-VII,False
+131,131,Fokker F7,False
+132,132,Dornier Merkur,False
+133,133,Breguet 14,False
+134,134,Fairchild FC-2,False
+135,135,Farman F-121 Jabiru,False
+136,136,Junkers F-13,False
+137,137,Douglas M-4,False
+138,138,Breguet 14,False
+139,139,Latécoère 23 (flying boat),False
+140,140,Fairchild FC-2,False
+141,141,Latecoere 25,False
+142,142,Breguet 14,False
+143,143,Breguet 14,False
+144,144,Breguet 14,False
+145,145,Boeing 40,False
+146,146,Farman F-60 Goliath,False
+147,147,Boeing 40,False
+148,148,Rohrbach Roland,False
+149,149,Latecoere 26,False
+150,150,Ford 4,False
+151,151,Junkers F-13,False
+152,152,AEGK,False
+153,153,Douglas M-4,False
+154,154,Junkers F-13,False
+155,155,Vickers 74 Vulcan,False
+156,156,Fokker (KLM) F.III,False
+157,157,Ford 4-AT-B Tri Motor,False
+158,158,Bleriot Spad 33,False
+159,159,de Havilland DH.50J,False
+160,160,Fokker Super Universal,False
+161,161,Fokker FG III,False
+162,162,Breguet 14,False
+163,163,Douglas M-4,False
+164,164,Bleriot Spad 56,False
+165,165,Latecoere 32,False
+166,166,Hamilton H-47,False
+167,167,Travel Air 4000,False
+168,168,Douglas M-4,False
+169,169,Ford 4-AT-B Tri Motor,False
+170,170,Dornier Wal,False
+171,171,Ford Tri-motor 4,False
+172,172,Junkers G-31,False
+173,173,Douglas M-4,False
+174,174,Fairchild FC-2,False
+175,175,Blériot Spad 66,False
+176,176,Fairchild FC-2,False
+177,177,Stearman C-38,False
+178,178,CMASA Wal,False
+179,179,Latecoere 26,False
+180,180,Travel Air 4000,False
+181,181,Ford 5-AT-B Tri Motor,False
+182,182,Fokker F-VIIA,False
+183,183,Ford 5-AT-B Tri-Motor / B-PW-9D,False
+184,184,Ford Tri-motor 4,False
+185,185,Fokker F-III,False
+186,186,Cams 53,False
+187,187,Fokker F-X,False
+188,188,Breguet 14,False
+189,189,Handley Page W-10,False
+190,190,Ford 5-AT-B Tri-Motor,False
+191,191,Domier Delphin III (flying boat),False
+192,192,Travel Air 4000,False
+193,193,Lockheed 5 Vega,False
+194,194,Kalinin K-4,False
+195,195,Fokker FG II,False
+196,196,Lockheed Vega,False
+197,197,Ford 5-AT-B Tri Motor,False
+198,198,de Havilland DH-66 Hercules,False
+199,199,Latecoere 25,False
+200,200,Travel Air 6000,False
+201,201,Pitcairn PA-6 Mailwing,False
+202,202,Latecoere 25-3-R,False
+203,203,Fairchild 71,False
+204,204,Short Calcutta (flying boat),False
+205,205,Stearman C-38,False
+206,206,Loening C-2C,False
+207,207,Lockheed Vega 5,False
+208,208,Junkers G-24,False
+209,209,Liore et Olivier 190,False
+210,210,Savoia Marchetti S55,False
+211,211,Stearman M-2 Speedmail,False
+212,212,Douglas M-3,False
+213,213,Arado V1,False
+214,214,Travel Air B6000,False
+215,215,Boeing 95,False
+216,216,Farman 190,False
+217,217,Ford 5-AT-C Tri Motor,False
+218,218,Latecoere 25,False
+219,219,Travel Air A6000A,False
+220,220,Pitcairn PA-6 Mailwing,False
+221,221,Farman F-63,False
+222,222,Fairchild 71,False
+223,223,Latecoere 28,False
+224,224,Ford Tri-Motor 5,False
+225,225,Dornier Wal,False
+226,226,Lockheed Vega 5,False
+227,227,Junkers F-13ge,False
+228,228,Ford 5-AT-C Tri Motor,False
+229,229,Sabca F-VII,False
+230,230,Boeing 40,False
+231,231,Royal Airship Works R-101,False
+232,232,Messerschmitt M-20B,False
+233,233,Latecoere 28,False
+234,234,de Havilland DH.80 Puss Moth,False
+235,235,Lockheed Vega,False
+236,236,Handley Page W-8,False
+237,237,Pitcairn PA-6 Mailwing,False
+238,238,Junkers G-24,False
+239,239,Boeing 40,False
+240,240,Loening C-W Air Yaht,False
+241,241,Fokker F-VII,False
+242,242,Boeing 40,False
+243,243,Desoutter II,False
+244,244,Fokker Universal F-14,False
+245,245,Latecoere 32,False
+246,246,Avro 10,False
+247,247,Fokker F10A Trimotor,False
+248,248,Messerschmitt M-20,False
+249,249,Boeing 40,False
+250,250,Junkers W-34,False
+251,251,Boeing 95,False
+252,252,Fokker F-VIIB,False
+253,253,Lockheed Vega 2,False
+254,254,Dornier Merkur,False
+255,255,Lockheed Vega,False
+256,256,Lasco Lascowl,False
+257,257,Pitcairn PA-6 Mailwing,False
+258,258,Fokker F-VII,False
+259,259,Ford 5-AT-C Tri Motor,False
+260,260,Lockheed Vega,False
+261,261,Fokker F-VIIb-3m,False
+262,262,Boeing 40,False
+263,263,Heinkel HE-2,False
+264,264,Dornier Wal,False
+265,265,Lockheed Orion 9,False
+266,266,De Havilland DH.80,False
+267,267,Boeing 40,False
+268,268,Stinson,False
+269,269,Boeing 40,False
+270,270,Lockheed Vega 5,False
+271,271,Fokker F-VIIb-3M,False
+272,272,CAMS 56,False
+273,273,Fairchild Pilgrim 100A,False
+274,274,Stinson SM-2A,False
+275,275,Stinson SM-6000B,False
+276,276,Fairchild,False
+277,277,Boeing 40,False
+278,278,Stearman C-3MB,False
+279,279,Latecoere 28,False
+280,280,Stinson SM-6000B,False
+281,281,Fokker F-10A,False
+282,282,Northrop Alpha 3,False
+283,283,Farman F-190,False
+284,284,Boeing 95,False
+285,285,Stearman C-3MB,False
+286,286,Boeing 40,False
+287,287,Boeing 40,False
+288,288,Ford 5-AT-C Tri Motor,False
+289,289,CAMS 53,False
+290,290,Junkers G-23,False
+291,291,Fokker F-10,False
+292,292,Liore-et-Olivier 213,False
+293,293,De Havilland DH-80,False
+294,294,Latecoere 28,False
+295,295,Ford Tri-motor 5,False
+296,296,Junkers W-33,False
+297,297,Junkers F-13,False
+298,298,Travel Air 6000,False
+299,299,Ford 5,False
+300,300,Boeing 40,False
+301,301,De Havilland DH-60,False
+302,302,CAMS 53,False
+303,303,Curtiss Condor 18,False
+304,304,Stearman 4,False
+305,305,Stearman 4,False
+306,306,Ford 5-AT-D,False
+307,307,Fairchild FC-2W,False
+308,308,Lockheed Orion 9,False
+309,309,Armstrong Whitworth Argosy II,False
+310,310,Junkers F-13,False
+311,311,Goodyear-Zeppelin U.S.S. Akron (airship),False
+312,312,Cams 53-1,False
+313,313,Junkers W-34,False
+314,314,Latecoere 28-1,False
+315,315,Pitcairns PA-6,False
+316,316,Sikorsky S-38B (flying boat),False
+317,317,CMASA Wal (flying boat),False
+318,318,Ford 5-AT-B Tri Motor,False
+319,319,Farman F-306,False
+320,320,Boeing 247,False
+321,321,Farman F-301,False
+322,322,Boeing 247,False
+323,323,Northrop Delta,False
+324,324,Stinson,False
+325,325,Kalinin K-7,False
+326,326,Boeing 247,False
+327,327,Focke-Wulf A-17,False
+328,328,Junkers W-34,False
+329,329,Avro 10,False
+330,330,Dewoitine D-332,False
+331,331,Breguet 280T,False
+332,332,Boeing 247,False
+333,333,Latécoère 28,False
+334,334,Fairchild Pilgrim 100A,False
+335,335,Sikorsky S-38 Flying Boat,False
+336,336,Ford 5-AT-C Tri-Motor,False
+337,337,Sikorsky S-38BB,False
+338,338,Wibault 282T,False
+339,339,Liore-et-Olivier 213,False
+340,340,Curtiss Condor T-32,False
+341,341,Ford 5-AT-C Tri-Motor,False
+342,342,Dornier Merkur,False
+343,343,Lockheed Orion,False
+344,344,Lockheed Vega,False
+345,345,Curtiss AT-32C Condor,False
+346,346,Latecoere 26,False
+347,347,Sikorsky S-38B,False
+348,348,Stinson  SM-6000B,False
+349,349,de havilland 89 Dragon Rapide,False
+350,350,de Havilland DH-50A,False
+351,351,de Havilland DH-86,False
+352,352,De Havilland DH-61,False
+353,353,Stinson SM-6000-B,False
+354,354,de Havilland DH-86,False
+355,355,Junkers F-13,False
+356,356,Lockheed Vega 5C,False
+357,357,Ford 4-AT-E Tri-motor,False
+358,358,Douglas DC-2-115A,False
+359,359,Lockheed Orion 9D,False
+360,360,Tupolev ANT-9,False
+361,361,Wapiti,False
+362,362,Consolidated Fleetster,False
+363,363,Junkers JU-52/3m,False
+364,364,Goodyear-Zeppelin U.S.S. Macon (airship),False
+365,365,Rochrbach Roland,False
+366,366,de Havilland Dragon 1,False
+367,367,Junkers F-13,False
+368,368,Farman F-300,False
+369,369,Fokker F-12,False
+370,370,Lockheed Vega,False
+371,371,Douglas DC-2-112,False
+372,372,Tupolev ANT-20 / I-5,False
+373,373,Ford model 4-AT-E,False
+374,374,Boeing 221,False
+375,375,Stinson SM6000B Tri-motor,False
+376,376,,
+377,377,Ford Tri-Motor / Ford Tri-Motor,False
+378,378,Fokker F-XXII,False
+379,379,General 102-E,False
+380,380,Douglas DC-2,False
+381,381,de Havilland DH-84 Dragon,False
+382,382,Junkers W-34,False
+383,383,Savoia-Marchetti S-66,False
+384,384,Sikorsky S-38B,False
+385,385,Stinson Model A,False
+386,386,Lockheed Orion 9E Explorer float plane,False
+387,387,"Waco, model YLC",False
+388,388,Boeing 247,False
+389,389,Ford Tri-Motor,False
+390,390,de Havilland DH-86,False
+391,391,Boeing 247D,False
+392,392,Junkers F-13,False
+393,393,Curtiss AT-32C Condor,False
+394,394,Boeing B-247-D,False
+395,395,Latécoère 28-1,False
+396,396,Lockheed Vega,False
+397,397,Short S-17 Kent,False
+398,398,Latecoere 28,False
+399,399,Caudron C-630 Simoun,False
+400,400,Savoia-Marchetti SM73,False
+401,401,Heinkel He-70,False
+402,402,Short S-8 Calcutta flying boat,False
+403,403,Junkers JU-52,False
+404,404,Douglas DC-2-120,False
+405,405,Junkers JU-52,False
+406,406,CAMS 53,False
+407,407,Vultee V-1,False
+408,408,Latecoere 301 (flying boat),False
+409,409,Dormier Do-J-Iif Bos Wal flying boat,False
+410,410,Ford 5-AT-D Tri-Motor,False
+411,411,Fairchild FC-2,False
+412,412,Ford 5-AT-B Tri Motor,False
+413,413,Stinson Model A,False
+414,414,Douglas DC-2-112,False
+415,415,Sikorsky S-42A  Flying Boat,False
+416,416,OFM F-VIIb/3m,False
+417,417,Junkers JU-52,False
+418,418,Fokker F-VII,False
+419,419,General Aviation GA-43,False
+420,420,De Havilland DH-60 Moth,False
+421,421,Fokker F-XXII,False
+422,422,Junkers JU-160,False
+423,423,Junkers JU-52/3m,False
+424,424,Spartan Cruiser,False
+425,425,Tupolev ANT-9,False
+426,426,Saro A-19 Cloud,False
+427,427,Wibault 280,False
+428,428,Lockheed 9 Orion,False
+429,429,Lockheed 10B Electra,False
+430,430,Junkers F-13,False
+431,431,De Havilland DH-86,False
+432,432,Short S-17 Kent,False
+433,433,Stinson SM 6000B,False
+434,434,CRDA CANT Z-506,False
+435,435,Boulton and Paul P-71,False
+436,436,Lockheed  5 Vega,False
+437,437,Lockheed Vega 5C,False
+438,438,Lockheed Orion,False
+439,439,Blackburn B-2,False
+440,440,Junkers JU-52,False
+441,441,Junkers JU-52/3m,False
+442,442,Fokker F-XII,False
+443,443,Junkers JU-52/3m,False
+444,444,Antonov AN-9,False
+445,445,Latécoère 300 (float plane.,False
+446,446,Douglas DC-2-115E,False
+447,447,Boeing 247D,False
+448,448,Lockheed 10 Electra,False
+449,449,Douglas DC-2-112,False
+450,450,Lockheed 10 Electra,False
+451,451,Douglas DC-2,False
+452,452,Boeing 247D,False
+453,453,Lockheed 10E Electra,False
+454,454,Boeing 247D,False
+455,455,Sabca S-73,False
+456,456,Douglas DC-3A,False
+457,457,Stinson Model A,False
+458,458,Heinkel He-111V2,False
+459,459,Short  S-23 (flying boat),False
+460,460,Douglas DC-2-112,False
+461,461,Junkers JU-52/3m,False
+462,462,Zeppelin LZ-129,False
+463,463,Heinkel He-70,False
+464,464,Sirkorsky S-43 (flying boat),False
+465,465,Travel Air 6000,False
+466,466,Lockheed 10E Electra,False
+467,467,Douglas DC-2-115L,False
+468,468,Savoia-Marchetti SM73,False
+469,469,Sikorsky S-43,False
+470,470,Douglas DC-2,False
+471,471,Sikorsky S-43,False
+472,472,Douglas DC-2,False
+473,473,Douglas DC-2,False
+474,474,Stinson SR-7 Reliant,False
+475,475,Short Empire flying boat,False
+476,476,Douglas DC-3,False
+477,477,Douglas DC-3,False
+478,478,Dewoitine D-333,False
+479,479,Lockheed 10 Electra,False
+480,480,Heinkel He-111,False
+481,481,Lockhed 10 Electra,False
+482,482,Junkers JU-52/3m,False
+483,483,Junkers JU-52,False
+484,484,Junkers JU-52,False
+485,485,Short Empire Flying Boat,False
+486,486,Short S-23 (flying boat),False
+487,487,Potez 621,False
+488,488,Wibault 283-T12,False
+489,489,Junkers JU-38,False
+490,490,Lockheed 14H Super Electra,False
+491,491,Sikorsky S-42 (flying boat),False
+492,492,Stinson Reliant SR-9,False
+493,493,Consolidated PBY-2 / Consolidated PBY-2,False
+494,494,V6 (airship),False
+495,495,Lockheed 10 Electra,False
+496,496,Lioré-et-Olivier H-242,False
+497,497,Cant Z-506,False
+498,498,Junkers JU.52,False
+499,499,Douglas DC-2-112,False
+500,500,Potez 621,False
+501,501,De Havilland DH-60,False
+502,502,Dewoitine D-338,False
+503,503,Junkers JU-52,False
+504,504,Lockheed Vega 5B,False
+505,505,Lockheed 10 Electra,False
+506,506,Lockheed 14-H2 Super Electra,False
+507,507,Junkers JU-52/3m,False
+508,508,Douglas DST-A-207A,False
+509,509,Fairchild 51,False
+510,510,Heinkel 116,False
+511,511,De Havilland DH-85,False
+512,512,Douglas DC-2,False
+513,513,Lockheed 14 Super Electra,False
+514,514,Savoia Marchetti S-66,False
+515,515,Douglas DC-2,False
+516,516,Lockheed 14H Super Electra,False
+517,517,Armstrong-Withworth Atlanta,False
+518,518,Martin M-130 (flying boat),False
+519,519,Ford Tri-motor F-VIII,False
+520,520,Douglas DF-151,False
+521,521,Lockheed 10E Electra,False
+522,522,Savoia-Marchetti SM73,False
+523,523,Junkers JU-52/3m,False
+524,524,Lockheed 14 Super Electra,False
+525,525,Macchi C-94,False
+526,526,Douglas DC-2,False
+527,527,Unknown / Unknown,False
+528,528,Ford Tri-motor,False
+529,529,De Havilland DH-84,False
+530,530,Dornier DO.18 (float plane),False
+531,531,Junkers JU-52/3m,False
+532,532,Savbia-Marchetti  S-73P,False
+533,533,Douglas DC-2-112,False
+534,534,Lockheed 14 Electra,False
+535,535,de Havilland DH-86,False
+536,536,Douglas DC-3,False
+537,537,Lockheed 14 Electra,False
+538,538,Junkers JU90V2,False
+539,539,Short Empire Flying Boat,False
+540,540,Douglas DC 3-A-SB-3-G-14,False
+541,541,Lockheed 10E Electra,False
+542,542,Nakajima A-T2,False
+543,543,Lockheed 14-WF62 Super Electra,False
+544,544,Short S23 ‘C’ Class flying boat,False
+545,545,Douglas DC-2-115B,False
+546,546,Junkers JU-52/3m,False
+547,547,Lockheed 14-H Super Electra,False
+548,548,Lockheed 14 Electra,False
+549,549,Short S-23 (flying boat),False
+550,550,Fairchild 71(amphibious),False
+551,551,Junkers JU-52/3m,False
+552,552,Junkers JU-52,False
+553,553,Junkers JU-86,False
+554,554,Boeing 307 Stratoliner,False
+555,555,Douglas DC-2-112,False
+556,556,Caudron C.635 Simoun,False
+557,557,Short S-23 Empire Flying Boat,False
+558,558,Dewoitine D-338,False
+559,559,Curtiss-Wright C-14 Osprey,False
+560,560,Douglas DC-2,False
+561,561,Koolhoven FK.43,False
+562,562,de Havilland DH.89 Dragon Rapide,False
+563,563,Junkers JU86 Z-2,False
+564,564,Junkers JU-52/3m,False
+565,565,Sikorsky S43 (flying boat),False
+566,566,Lockheed 10 Electra,False
+567,567,De Havilland D-84,False
+568,568,Junkers JU-52/3m,False
+569,569,Douglas DC-3,False
+570,570,Junkers W-34,False
+571,571,Airspeed Oxford,False
+572,572,Junkers JU-52,False
+573,573,Lockheed 14 Super Electra,False
+574,574,Savoia-Marchetti SM83,False
+575,575,Lockheed 14 Super Electra,False
+576,576,Savoia-Marchetti SM-75,False
+577,577,Boeing 247D,False
+578,578,Handley Page HP-42,False
+579,579,Savoia Marchetti SM 73,False
+580,580,Lockheed 14 Super Electra,False
+581,581,Douglas DC-5,False
+582,582,Junkers JU-52/3mge,False
+583,583,Dewoitine D-338,False
+584,584,Dewoitine D-338,False
+585,585,Douglas DC-2-115H,False
+586,586,Lockheed Hudson A16-97,False
+587,587,Lockheed 10 Electra,False
+588,588,Douglas DC-3,False
+589,589,Douglas DC-3,False
+590,590,Lockheed 10 Electra,False
+591,591,Douglas DC-2,False
+592,592,Douglas DC-3,False
+593,593,Junkers Ju-52/3m,False
+594,594,Douglas DC-3,False
+595,595,Junkers Ju53/2m,False
+596,596,Junkers JU-90A-1,False
+597,597,Farman F-224,False
+598,598,Douglas DC-3A,False
+599,599,Savoia-Marchetti SM.75,False
+600,600,Savoia-Marchetti SM-83,False
+601,601,Savoia-Marchetti SM-75,False
+602,602,Junkers JU-52/3m,False
+603,603,Ford 5-AT Tri-Motor,False
+604,604,Douglas DC-3-3,False
+605,605,Lockheed 14-H2 Super Electra,False
+606,606,Douglas DC-3,False
+607,607,Junkers JU-52/3m,False
+608,608,Lockheed 18 Lodestar,False
+609,609,de Havilland DH-84 Dragon,False
+610,610,Douglas DC-3,False
+611,611,Mitsubishi MC-20,False
+612,612,Macchi C.100,False
+613,613,Consolidated LB-30A Liberator,False
+614,614,Consolidated LB-30A Liberator,False
+615,615,Lockheed 18 LodeStar,False
+616,616,de Havilland DH.80 Puss Moth,False
+617,617,Consolidated 32-2 Liberator I,False
+618,618,Bloch 220,False
+619,619,Sikorsky S-42B (flying boat),False
+620,620,Junkers JU-53/3m,False
+621,621,Douglas DC-3,False
+622,622,Douglas DC-3,False
+623,623,Tupolev ANT-6,False
+624,624,,
+625,625,Tupolev ANT-6,False
+626,626,Short S-23 Empire Flying Boat,False
+627,627,Douglas DC-3,False
+628,628,Lockheed Hudson,False
+629,629,Grumman G-21 Goose,False
+630,630,Short S-23 (flying boat),False
+631,631,Consolidated Liberator,False
+632,632,Douglas DC-2,False
+633,633,deHavilland DH-86,False
+634,634,Short S-23 (flying boat),False
+635,635,Douglas DC-3,False
+636,636,Consolidated B-24 Liberator,False
+637,637,Douglas DC-2-221,False
+638,638,Lockheed 14 Electra,False
+639,639,Douglas DST-A-207A,False
+640,640,Douglas DC-3-A-269,False
+641,641,Savoia-Marchetti SM-75,False
+642,642,Douglas C-49E,False
+643,643,Lockheed Hudson,False
+644,644,Lockheed Hudson,False
+645,645,Liore et Olivier H-246 Air Boat,False
+646,646,Siebel Si-204,False
+647,647,Lockheed 14 Electra,False
+648,648,Short Sunderland,False
+649,649,Short S-30 (flying boat),False
+650,650,Dewoitine D-342,False
+651,651,Lockheed 18 Loadstar,False
+652,652,Douglas C-47,False
+653,653,Douglas C-39-DO  (DC-2),False
+654,654,Sirkorsky 44A (flying boat),False
+655,655,GVF PS-84,False
+656,656,Junkers JU-52/3m,False
+657,657,Douglas DC-3 / Lockheed B-34,False
+658,658,Boeing 247,False
+659,659,Handley Page HP-57 Halifax,False
+660,660,Grazhdansky Vozdushnyi Flot PS-84,False
+661,661,Tupolev A.N.T. 20bis,False
+662,662,Douglas DC-3A,False
+663,663,Junkers JU-52/3m,False
+664,664,Lockheed 14-H2 Super Electra,False
+665,665,Short S-26 (flying boat),False
+666,666,Douglas C-54A,False
+667,667,Consolidated C-87,False
+668,668,Martin M-130 (flying boat),False
+669,669,Douglas DC-3A,False
+670,670,Consolidated 32-3 Liberator II,False
+671,671,Boeing XB-29,False
+672,672,Boeing B-314 (flying boat),False
+673,673,Douglas C-53,False
+674,674,Douglas C-53,False
+675,675,Douglas C-47-DL,False
+676,676,Lockheed C-56B Lodestar,False
+677,677,Short S-23,False
+678,678,Douglas DC-3,False
+679,679,Douglas C-47A-DL,False
+680,680,Douglas C-47 Skytrain (DC-3),False
+681,681,B-17C Flying Fortress,False
+682,682,Lockheed Hudson VI,False
+683,683,Lockheed Hudson VI,False
+684,684,Consolidated Liberator B24 C,False
+685,685,Short S-25 Sunderland 3 (flying boat),False
+686,686,Douglas DC-3,False
+687,687,Consolidated B-24,False
+688,688,Douglas C-47-DL,False
+689,689,Douglas C-53,False
+690,690,Savoia-Marchetti SM.75,False
+691,691,Junkers JU-52/3m,False
+692,692,Douglas DC-3,False
+693,693,Boeing B-17F / Boeing B-17F,False
+694,694,Douglas C-53D-DO,False
+695,695,Douglas C-53,False
+696,696,Douglas DC3-G102,False
+697,697,Consolidated B-24,False
+698,698,Douglas DC-3,False
+699,699,Douglas C-47-DL,False
+700,700,Short Sunderland 3,False
+701,701,,
+702,702,Douglas C-53,False
+703,703,Douglas C-47,False
+704,704,Lockheed L-18-56 Lodestar,False
+705,705,Lockheed 18-56 Lodestar,False
+706,706,Douglas C-47,False
+707,707,Douglas C-47A-60-DL,False
+708,708,Consolidated B-24 / Consolidated B-24,False
+709,709,Junkers JU-52/3m,False
+710,710,Douglas DC-3,False
+711,711,Lockheed 14-H2 Super Electra,False
+712,712,Douglas C-47,False
+713,713,Junkers JU-52/3m,False
+714,714,Consolidated B-24 Liberator,False
+715,715,Pilgrim 100B,False
+716,716,Junkers JU-52/3m,False
+717,717,Douglas DC-3,False
+718,718,Consolidated Liberator,False
+719,719,Douglas C-47,False
+720,720,Douglas DC-3,False
+721,721,Douglas C-47A,False
+722,722,Douglas C-47A,False
+723,723,Douglas C-47A-DL,False
+724,724,Douglas C-47,False
+725,725,Douglas C-47,False
+726,726,Lockheed 10C Electra,False
+727,727,Douglas A-26B Invader,False
+728,728,R4D-5,False
+729,729,Douglas C-54A-DO (DC-4),False
+730,730,Douglas C-47A-DK,False
+731,731,Consolidated Catalina PB2Y-3R,False
+732,732,Douglas C-47A-DL,False
+733,733,Sikorsky S-42 (flying boat),False
+734,734,Consolidated PB4Y-1,False
+735,735,Consolidated B-24H,False
+736,736,Douglas C-54A-DC (DC-4),False
+737,737,Lockheed 18-56 Loadstar,False
+738,738,Lockheed 18 Lodestar,False
+739,739,Junkers JU52/3m,False
+740,740,C-47 Dakota DT-941,False
+741,741,Consolidated B-24 Liberator,False
+742,742,Douglas C-47A-90-DL,False
+743,743,Lockheed 18 Lodestar,False
+744,744,Focke-Wulf FW 200,False
+745,745,Douglas C-47,False
+746,746,Junkers JU-52/3m,False
+747,747,Short S-23 (flying boat),False
+748,748,Short S.23 Empire Flying Boat,False
+749,749,Junkers JU-52/3m,False
+750,750,Junkers JU-52/3m,False
+751,751,Consolidated B24H,False
+752,752,Douglas DC-3,False
+753,753,Douglas C-47 Skytrain (DC-3),False
+754,754,,
+755,755,Lockheed Hudson,False
+756,756,Douglas C-47A-DL,False
+757,757,Lockheed 18 LodeStar,False
+758,758,Ford 5-AT-B Tri-Motor,False
+759,759,Focke-Wulf FW 200,False
+760,760,Douglas C-47,False
+761,761,Douglas DC-3,False
+762,762,Avro 683 Lancaster,False
+763,763,Lisunov LI-2,False
+764,764,UC-64A Noorduyn Norseman,False
+765,765,Douglas C-47,False
+766,766,Martin M-130 (flying boat),False
+767,767,Douglas DC-3,False
+768,768,Douglas C-47,False
+769,769,Douglas C-47,False
+770,770,Consolidated Liberator,False
+771,771,Stinson Model A,False
+772,772,Douglas C-47-DL,False
+773,773,Douglas C-47 Dakota,False
+774,774,Douglas R4D-6,False
+775,775,Lockheed 18 Loadstar,False
+776,776,Junkers 52/3m,False
+777,777,Douglas DC-3,False
+778,778,Curtiss C-46A,False
+779,779,Douglas C-47A-90-DL,False
+780,780,Douglas C-47,False
+781,781,Douglas DC-3,False
+782,782,Douglas DC-3,False
+783,783,Junkers JU-53/3m,False
+784,784,Douglas C-47-DL,False
+785,785,Focke-Wulf FW 200,False
+786,786,B17G Flying Fortress,False
+787,787,Lockheed 18 Lodestar,False
+788,788,Douglas C-54E-DO (DC-4),False
+789,789,Curtiss-Wright C-46D-CU,False
+790,790,Avro Lancaster,False
+791,791,Douglas C-47B-DK,False
+792,792,Douglas C-47B-dK,False
+793,793,Douglas C-47,False
+794,794,de Havilland DH-86A,False
+795,795,Consolidated LB-30A Liberator,False
+796,796,,
+797,797,Boeing TB-29A Super Fortress,False
+798,798,Consolidated LB-30A Liberator,False
+799,799,Douglas C-47,False
+800,800,Douglas DC-3-201C /  Army A-26,False
+801,801,North American B-25D bomber,False
+802,802,Boeing 247D,False
+803,803,Sikorsky S-43 (flying boat),False
+804,804,Douglas DC-2-243,False
+805,805,Douglas DC-3,False
+806,806,Douglas C-47A,False
+807,807,Douglas C-47B-DK,False
+808,808,Douglas C-47B-5-DK,False
+809,809,Curtiss C-46D,False
+810,810,Lockheed 18 Lodestar,False
+811,811,Consolidated LB-40-A Liberator,False
+812,812,Short Stirling IV,False
+813,813,Consolidated LB-30-A Liberator,False
+814,814,Curtiss-Wright C-46F-CU,False
+815,815,Douglas C-47,False
+816,816,Douglas C-47B,False
+817,817,Douglas C-47B,False
+818,818,Faucett F-19,False
+819,819,Douglas C-47 Skytrain (DC-3),False
+820,820,Curtiss-Wright C-46A-CK,False
+821,821,Douglas C-47A-DK,False
+822,822,Douglas C-54G,False
+823,823,Budd RB-1 Conestoga,False
+824,824,Martin PBM-3S  / Martin PBM-5,False
+825,825,Douglas C-47A-DL,False
+826,826,Boeing B-17G,False
+827,827,Douglas C-54,False
+828,828,Short Stirling,False
+829,829,Douglas C-48,False
+830,830,Douglas C-47 Dakota-DK,False
+831,831,Consolidated LB-30A Liberator,False
+832,832,Consolidated LB-30A Liberator,False
+833,833,Five Grumman TBM Avengers,False
+834,834,Martin PBM Mariner,False
+835,835,Douglas C-47,False
+836,836,Douglas C-47B,False
+837,837,Lockheed 18 Lodestar,False
+838,838,Douglas DC-3,False
+839,839,Douglas DC-3,False
+840,840,Douglas DC-3,False
+841,841,Douglas C-47,False
+842,842,Lisunov Li-2,False
+843,843,Douglas C-47 Dakota,False
+844,844,Douglas DC-3-201E,False
+845,845,Douglas DC-3 Dakota,False
+846,846,Douglas C-47B,False
+847,847,Douglas DC-3-194H,False
+848,848,Douglas C-47,False
+849,849,Consolidated 32-2 Liberator II,False
+850,850,Douglas DC-3-227B,False
+851,851,Junkers JU-52/3m,False
+852,852,Douglas DC-3 (C-47DL),False
+853,853,,
+854,854,,
+855,855,Douglas C-47B,False
+856,856,Avro 691 Lancastrian 1,False
+857,857,de Hvilland 89A Dragon Rapide,False
+858,858,Vickers Wellington bomber,False
+859,859,,
+860,860,Lockheed 14 Super Electra,False
+861,861,Douglas C-47A,False
+862,862,PBY4-2 Privateer / PB4Y-2 Privateer,False
+863,863,Douglas DC-3,False
+864,864,Junkers JU-52/3m,False
+865,865,Douglas C-54-DO (DC-4),False
+866,866,Douglas C-54D-DC (DC-4),False
+867,867,Douglas C-47 Dakota,False
+868,868,Douglas C-47B,False
+869,869,Junkers Ju-52/3m,False
+870,870,Boeing B17G,False
+871,871,Lockheed L-049 Constellation,False
+872,872,Curtiss C-46,False
+873,873,Curtiss C-46D-10-CU,False
+874,874,Douglas C-47,False
+875,875,Boeing B-17G / Boeing B-17G,False
+876,876,Douglas C-47 Dakota,False
+877,877,Fairchild Pilgrim 100A,False
+878,878,Douglas C-47A-10-DK,False
+879,879,Lockheed 18-56 Lodestar,False
+880,880,Douglas C-47A,False
+881,881,Avro 691 Lancastrian 1,False
+882,882,Douglas C-47-DL,False
+883,883,Avro Anson,False
+884,884,Supermarine Stranraer (flying boat),False
+885,885,Douglas DC-3 (C-53D-DO),False
+886,886,Douglas DC-3,False
+887,887,Douglas DC-3 (C-47-A5-DL),False
+888,888,Avro 685 York I,False
+889,889,Douglas C-47A,False
+890,890,Douglas C-47A Dakota,False
+891,891,Douglas C-47-DL,False
+892,892,Douglas DC-4-1009,False
+893,893,Avro Lancaster,False
+894,894,Curtiss Wright C-46,False
+895,895,Douglas C-47B-25-DK,False
+896,896,de Havilland 89A Dragon Rapide,False
+897,897,Douglas DC-3A-228D,False
+898,898,Douglas C-54E-5-DO,False
+899,899,Avro 685 York 1,False
+900,900,Fairey Firefly MK1,False
+901,901,Douglas DC-4,False
+902,902,Junkers Ju-52/3m,False
+903,903,Douglas DC-3,False
+904,904,Douglas C-47B,False
+905,905,Junkers JU-52/3m,False
+906,906,AAC-1 Toucan,False
+907,907,Douglas C-47,False
+908,908,Douglas DC-3 (C-53D-DO),False
+909,909,Douglas C-53D-DO (DC-3),False
+910,910,Douglas DC-3,False
+911,911,Douglas C-47A-90 DL (DC-3),False
+912,912,Douglas C-47,False
+913,913,Douglas DC-3 (C-47A-90-DL),False
+914,914,Vickers 620 Viking 1,False
+915,915,Lisunov Li-2,False
+916,916,Curtiss-Wright C-46F-CU,False
+917,917,Curtiss-Wright R5C-1,False
+918,918,Douglas DC-3 (C-47-B-1-DK),False
+919,919,Douglas C-47A,False
+920,920,Avro  685 York I,False
+921,921,Douglas DC-3 ( C-53D-DO),False
+922,922,Curtiss C-47,False
+923,923,Douglas DC-3,False
+924,924,Douglas C-47,False
+925,925,Douglas C-47A,False
+926,926,Lockheed 049 Consellation,False
+927,927,Douglas DC-3 (C-50A-DO),False
+928,928,Sikorsky S-43B (flying boat),False
+929,929,Curtis C-46,False
+930,930,Douglas DC-3,False
+931,931,Douglas C-47A-1-DK,False
+932,932,Douglas DC-4 (C-54A-DO),False
+933,933,Douglas DC-3,False
+934,934,Lockheed C-60 Lodestar,False
+935,935,Douglas DC-3 ( C-47-DO),False
+936,936,Douglas C-47 / Douglas DC-3,False
+937,937,Douglas DC-3,False
+938,938,Douglas C-47A,False
+939,939,Douglas C- C47A-30DK,False
+940,940,Curtiss C-46,False
+941,941,Douglas DC-3C,False
+942,942,Douglas DC-3,False
+943,943,Douglas C-54B-15-DO,False
+944,944,Curtiss C-46E,False
+945,945,Douglas DC-4,False
+946,946,Savoia-Marchetti SM-95,False
+947,947,Douglas C-47,False
+948,948,Douglas C-47B,False
+949,949,Doublas C-47,False
+950,950,Douglas C-47B,False
+951,951,Douglas C-47-DL,False
+952,952,Douglas DC-3 (C-47A-90-DL),False
+953,953,Lockheed 18 Lodestar,False
+954,954,Avro York C1,False
+955,955,Douglas C-47A,False
+956,956,Avro 685 York I,False
+957,957,Douglas DC-3 (C-47DL) /Vultee BT-13,False
+958,958,Lockheed 18 Loadstar,False
+959,959,Lockheed 18 Loadstar,False
+960,960,Lockheed L-049 Constellation,False
+961,961,Douglas DC-47,False
+962,962,Douglas C-54B,False
+963,963,Douglas C-54D-DC (DC-4),False
+964,964,Douglas DC-3,False
+965,965,Douglas C-54B-15-DO,False
+966,966,Junkers Ju-52,False
+967,967,Avro 691 Lancastrian,False
+968,968,Douglas DC-4 (C-54-DO),False
+969,969,Lockheed 049-46-21 Constellation,False
+970,970,Li-2,False
+971,971,Junkers JU-52/3m,False
+972,972,Douglas DC-3,False
+973,973,Junkers Ju-52/3m,False
+974,974,Avro 685 York,False
+975,975,Avro 685 York I,False
+976,976,Douglas C-47,False
+977,977,Avro 691 Lancastrian 3,False
+978,978,Consolidated PBY-5A Catalina,False
+979,979,Douglas DC-3C,False
+980,980,Douglas DC-3F,False
+981,981,Lisunov Li-2,False
+982,982,Curtiss C-46E,False
+983,983,Short Sandringham 5 (flying boat),False
+984,984,Short Sandringham (flying boat),False
+985,985,Douglas DC-4,False
+986,986,Boeing 314A,False
+987,987,Bristol 170 Freighter I,False
+988,988,Douglas DC-3,False
+989,989,Douglas DC-6,False
+990,990,Douglas DC-4-1009,False
+991,991,Douglas DC-4A,False
+992,992,Douglas C-47B,False
+993,993,Douglas DC-3,False
+994,994,Douglas DC-6,False
+995,995,Junkers Ju-52/3m,False
+996,996,Lockheed L-049-46-26 Constellation,False
+997,997,Bristol 170 Freighter XI,False
+998,998,Lisunov Li-2,False
+999,999,Douglas DC-3,False
+1000,1000,Douglas DC-3C,False
+1001,1001,Lisunov LI-2,False
+1002,1002,Douglas C-47B,False
+1003,1003,Douglas C-54A,False
+1004,1004,Douglas C-54D-DC (DC-4),False
+1005,1005,Douglas C-47-DK,False
+1006,1006,Ilyushin IL-12,False
+1007,1007,Short  S-29 Stirling V,False
+1008,1008,Douglas DC-3 (C-47),False
+1009,1009,Douglas DC-2-172,False
+1010,1010,Douglas DC-3D,False
+1011,1011,Vickers 610 Viking 1B,False
+1012,1012,Douglas DC-3,False
+1013,1013,Douglas DC-3,False
+1014,1014,Douglas DC-3,False
+1015,1015,Douglas DC-3-201F,False
+1016,1016,Curtiss C-46,False
+1017,1017,Douglas DC-3 (C-47B-DK),False
+1018,1018,Avro 688 Tudor I,False
+1019,1019,Lockheed L-649 Constellation,False
+1020,1020,Douglas DC-3,False
+1021,1021,Douglas DC-3,False
+1022,1022,Douglas C-47-DL,False
+1023,1023,Latecoere 631 (flying boat),False
+1024,1024,Douglas DC-3,False
+1025,1025,Douglas C-47A,False
+1026,1026,Douglas C-47,False
+1027,1027,Junkers Ju-52/3m,False
+1028,1028,Douglas DC-3,False
+1029,1029,Avro Anson,False
+1030,1030,Douglas DC-4,False
+1031,1031,Douglas DC-4 (C-54G-1-DO),False
+1032,1032,Douglas DC-3,False
+1033,1033,Douglas DC-3 (C47-DL),False
+1034,1034,Vickers 604 Viking 1B,False
+1035,1035,Vickers Viking 1B & Soviet YAK-3 fighter,False
+1036,1036,Douglas DC-4,False
+1037,1037,Lockheed L-049-46 Constellation,False
+1038,1038,Lockheed Hudson IIIA,False
+1039,1039,Lisnov Li-2,False
+1040,1040,de Havilland Dove 1,False
+1041,1041,Douglas DC-4-1009,False
+1042,1042,Douglas DC-3-455,False
+1043,1043,Curtiss C-46E,False
+1044,1044,Douglas C-47A,False
+1045,1045,Douglas C-47,False
+1046,1046,Handley Page Halifax C-8,False
+1047,1047,de Havilland DH-89A Dragon Rapide,False
+1048,1048,Douglas DC-6,False
+1049,1049,PBY Catalina,False
+1050,1050,Douglas DC-3,False
+1051,1051,Fiat G.212CP,False
+1052,1052,Douglas DC-6 / RAF York,False
+1053,1053,Douglas DC-3,False
+1054,1054,Douglas C-47A,False
+1055,1055,Consolidated OA-10 Catalina,False
+1056,1056,Douglas DC-3,False
+1057,1057,Short Sandringham 2 (flying boat),False
+1058,1058,Curtiss C-46D-20-CU,False
+1059,1059,Avro 691 Lancastrian (flying boat),False
+1060,1060,Latecoere 631 (flying boat),False
+1061,1061,Douglas C-47B,False
+1062,1062,Douglas C-47A,False
+1063,1063,Martin 202,False
+1064,1064,Douglas DC-3 (Douglas C-47A-10-DK),False
+1065,1065,Douglas DC-3,False
+1066,1066,Lisunov LI-2,False
+1067,1067,Short Sandringham 6 (flying boat),False
+1068,1068,Ilyushin Il12,False
+1069,1069,Lockheed 049-46-25 Constellation,False
+1070,1070,Lockheed 10A Electra,False
+1071,1071,Lisunov Li-2,False
+1072,1072,Douglas C-54A,False
+1073,1073,Boeing B-29A Superfortress,False
+1074,1074,Douglas DC-3,False
+1075,1075,Douglas DC-3,False
+1076,1076,de Havilland DH-89A Dragon Rapide,False
+1077,1077,Lisunov Li-2,False
+1078,1078,Douglas DC-3,False
+1079,1079,Curtiss C-46,False
+1080,1080,Douglas C-47,False
+1081,1081,Douglas DC-3,False
+1082,1082,Douglas C-47,False
+1083,1083,Douglas DC-3,False
+1084,1084,Douglas C-54B-5-DO,False
+1085,1085,Douglas DC-3 (C-47-DL),False
+1086,1086,Douglas DC-3DST,False
+1087,1087,Douglas DC-3,False
+1088,1088,Douglas DC-3 (C-47A-DL),False
+1089,1089,Avro 685 York 1,False
+1090,1090,Douglas C-47A,False
+1091,1091,Lockheed 18 Lodestar,False
+1092,1092,Douglas C-54 Skymaster,False
+1093,1093,Douglas DC-3,False
+1094,1094,Avro 688 Tudor 4B,False
+1095,1095,Boeing B-29A Superfortress,False
+1096,1096,Douglas DC-3C,False
+1097,1097,Lockheed L-749 / Cessna 140,False
+1098,1098,Avro Anson,False
+1099,1099,Douglas C-54A-1-DO Skymaster,False
+1100,1100,Consolidated PBY-5A Catalina,False
+1101,1101,Vickers 628 Viking 1B,False
+1102,1102,Douglas DC-3,False
+1103,1103,Douglas DC-3 / Avro Anson,False
+1104,1104,Douglas C-47,False
+1105,1105,Douglas DC-3,False
+1106,1106,Lockheed 18 Lodestar,False
+1107,1107,Avro 685 York I,False
+1108,1108,Lockheed 18 Lodestar,False
+1109,1109,Lisunov Li-2,False
+1110,1110,FIAT G-212CP,False
+1111,1111,Bristol 170 Freighter 31 Mark II,False
+1112,1112,Douglas DC-3,False
+1113,1113,Ilyushin IL-12,False
+1114,1114,Douglas DC-3,False
+1115,1115,Douglas C-47B,False
+1116,1116,Curtiss C-46D-5-CU,False
+1117,1117,Lockheed 749-79-33 Constellation,False
+1118,1118,Douglas C-47A-20-DL,False
+1119,1119,Curtiss C-46E-1-CS,False
+1120,1120,Lockheed L-749-79-33 Constellation,False
+1121,1121,Hawker Hunter,False
+1122,1122,Curtiss C-46F-1-CU,False
+1123,1123,Ilyushin IL-12,False
+1124,1124,Douglas DC-3 -201D/ F-6-F- 5 Hellcat,False
+1125,1125,Curtiss C-46D-10-CU,False
+1126,1126,Douglas DC-3,False
+1127,1127,Bristol 170 Freighter 21,False
+1128,1128,Douglas C-47B,False
+1129,1129,Douglas C-47,False
+1130,1130,Douglas DC-3 (C-54A-DO),False
+1131,1131,Douglas DC-3,False
+1132,1132,Consolidated Canso (amphibian),False
+1133,1133,Douglas C-47B-5-DK,False
+1134,1134,Douglas DC-3,False
+1135,1135,Douglas DC-3,False
+1136,1136,Douglas C-54A-1-DO,False
+1137,1137,Curtiss C-46E-1-CS,False
+1138,1138,Lockheed 749-79-33 Constellation,False
+1139,1139,Douglas C-54B / P-38,False
+1140,1140,Douglas DC-3,False
+1141,1141,Tempest,False
+1142,1142,Douglas C-47A,False
+1143,1143,Douglas DC-3,False
+1144,1144,Douglas DC-6,False
+1145,1145,Douglas DC-4,False
+1146,1146,Douglas DC-3 (C-47-DL),False
+1147,1147,Douglas DC-3,False
+1148,1148,Curtiss C-46D-CU,False
+1149,1149,Curtiss C-46D-CU,False
+1150,1150,Douglas DC-3-313A,False
+1151,1151,Douglas DC-3,False
+1152,1152,Douglas DC-3,False
+1153,1153,Douglas C-47A-60-DL,False
+1154,1154,Douglas C-54A-DO,False
+1155,1155,Lisunov Li-2,False
+1156,1156,Casa 352,False
+1157,1157,Douglas C-47,False
+1158,1158,Douglas C-47A-50-DL,False
+1159,1159,Douglas DC-3,False
+1160,1160,Douglas C-54D-DC (DC-4),False
+1161,1161,Douglas DC-3,False
+1162,1162,Douglas C-47A-15-DK,False
+1163,1163,Martin 202,False
+1164,1164,Bristol 170 Freighter 21,False
+1165,1165,Avro 689 Tudor 5,False
+1166,1166,Douglas DC-3,False
+1167,1167,Latecoere 631 (sea plane),False
+1168,1168,Douglas C-47A,False
+1169,1169,Vickers 610 Viking 1B,False
+1170,1170,Douglas C-47 (DC-3),False
+1171,1171,Douglas C-54D,False
+1172,1172,Douglas C-47DL,False
+1173,1173,Boeing B-29,False
+1174,1174,Curtiss C-46D,False
+1175,1175,Douglas C-47,False
+1176,1176,Curtiss C-46F-1-CU,False
+1177,1177,Douglas DC-3,False
+1178,1178,Curtiss C-46-F-1-CU,False
+1179,1179,Douglas DC-3-178,False
+1180,1180,Douglas DC-4-1009,False
+1181,1181,Douglas DC-4,False
+1182,1182,Douglas DC-4,False
+1183,1183,Douglas DC-4,False
+1184,1184,Douglas DC-4-1009,False
+1185,1185,Douglas C-54G,False
+1186,1186,Douglas DC-3,False
+1187,1187,Douglas DC-3,False
+1188,1188,Douglas DC-3,False
+1189,1189,Curtiss C-46 Commando,False
+1190,1190,Douglas C-47D,False
+1191,1191,Lockheed 049 Constellation,False
+1192,1192,Bristol 170 Freighter 21,False
+1193,1193,Lockheed 18 LodeStar,False
+1194,1194,Ilyushin IL-12,False
+1195,1195,Boeing B-29MR,False
+1196,1196,Douglas DC-6,False
+1197,1197,Douglas C-47B,False
+1198,1198,Lockheed 749A Constellation,False
+1199,1199,Douglas DC-3,False
+1200,1200,Douglas DC-3,False
+1201,1201,Douglas R5D-3,False
+1202,1202,Douglas DC-3,False
+1203,1203,Avro Ninteen I,False
+1204,1204,Douglas C-54D-DC (DC-4),False
+1205,1205,Douglas DC-3,False
+1206,1206,Martin 202,False
+1207,1207,Douglas C-47A,False
+1208,1208,Vickers 610 Viking-1B,False
+1209,1209,Lockheed 749 Constellation,False
+1210,1210,Martin 202,False
+1211,1211,Douglas C-54B-1-DC,False
+1212,1212,Douglas DC-3,False
+1213,1213,Douglas DC-3,False
+1214,1214,Douglas DC-3,False
+1215,1215,Douglas C-47A,False
+1216,1216,Douglas DC-3,False
+1217,1217,Douglas C-54A,False
+1218,1218,Douglas DC-3,False
+1219,1219,Douglas DC-3,False
+1220,1220,Douglas DC-3,False
+1221,1221,Douglas DC-3,False
+1222,1222,Douglas C-47-DL,False
+1223,1223,Douglas C54E-DO (DC-4),False
+1224,1224,Douglas DC-3,False
+1225,1225,Douglas DC-3,False
+1226,1226,de Havilland Dove 1,False
+1227,1227,Douglas DC-3,False
+1228,1228,Douglas DC-4-1009,False
+1229,1229,Martin 202,False
+1230,1230,Savoia Marchetti SM-95,False
+1231,1231,Douglas DC-3,False
+1232,1232,Short Sunderland 9 (flying boat),False
+1233,1233,Douglas DC-3,False
+1234,1234,Douglas C-54,False
+1235,1235,Douglas DC-4,False
+1236,1236,Curtiss C-46A,False
+1237,1237,Douglas DC-3,False
+1238,1238,Douglas DC-4,False
+1239,1239,Douglas C-47,False
+1240,1240,Douglas DC-3,False
+1241,1241,Douglas C-124A Globemaster,False
+1242,1242,Lisunov LI-2,False
+1243,1243,Douglas DC-3,False
+1244,1244,Douglas C-47A-75-DL Dakota 3,False
+1245,1245,Douglas DC-3,False
+1246,1246,Douglas DC-3,False
+1247,1247,Douglas C-47B-DK,False
+1248,1248,Douglas DC-3,False
+1249,1249,Douglas DC-4 /Beechcraft SMB-1,False
+1250,1250,Douglas DC-3,False
+1251,1251,Convair B-36D,False
+1252,1252,Vickers 639 Viking 1,False
+1253,1253,Douglas DC-3,False
+1254,1254,Fairchild C-82,False
+1255,1255,Douglas DC-3D,False
+1256,1256,Douglas C-47A,False
+1257,1257,Lockheed 049 Constellation,False
+1258,1258,Junkers 52/3m,False
+1259,1259,Douglas DC-6B,False
+1260,1260,Vickers Valetta C-1,False
+1261,1261,Douglas C-47B,False
+1262,1262,Douglas DC-3,False
+1263,1263,de Havilland DHA-3 Drover II,False
+1264,1264,Douglas C-47A,False
+1265,1265,Douglas C-54A,False
+1266,1266,Douglas DC-3,False
+1267,1267,Curtiss C-46A,False
+1268,1268,,
+1269,1269,Douglas DC-3D,False
+1270,1270,Douglas DC-3,False
+1271,1271,Douglas DC-6B,False
+1272,1272,Douglas DC-3,False
+1273,1273,Douglas DC-3,False
+1274,1274,Boeing 377 Stratocruiser 10-34,False
+1275,1275,Douglas C-47A-30-DK Dakota III,False
+1276,1276,Fairchild C-119C-15-FA Flying Boxcar,False
+1277,1277,Curtiss C-46D-15-CU,False
+1278,1278,Douglas DC-3,False
+1279,1279,Douglas DC-3,False
+1280,1280,Boeing C-97A Stratofreighter,False
+1281,1281,Consolidated PBY-5A Catalina,False
+1282,1282,Douglas DC-3,False
+1283,1283,Douglas C-47,False
+1284,1284,Martin 202,False
+1285,1285,Fairchild C-82 Packet,False
+1286,1286,Lisunov Li-2P,False
+1287,1287,Ilyushin IL-12,False
+1288,1288,Douglas DC-3,False
+1289,1289,Douglas DC-3,False
+1290,1290,Douglas DC-4,False
+1291,1291,DC-2-243,False
+1292,1292,Douglas DC-3A,False
+1293,1293,de Havilland DH-84 Dragon,False
+1294,1294,Curtiss Wright C-46F,False
+1295,1295,SNCASE Languedoc,False
+1296,1296,Lisunov LI-2,False
+1297,1297,Curtiss C-46A-50-CU,False
+1298,1298,Curtiss C 46F-CU,False
+1299,1299,Douglas C-47D,False
+1300,1300,Douglas C-47A,False
+1301,1301,Junkers JU-52/3m,False
+1302,1302,Douglas DC-3,False
+1303,1303,Douglas DC-4,False
+1304,1304,Convair CV-240-0,False
+1305,1305,Douglas DC-3,False
+1306,1306,Boeing B-29,False
+1307,1307,Douglas DC-6,False
+1308,1308,Vickers 614 Viking 1,False
+1309,1309,Douglas DC-3,False
+1310,1310,Consolidated  32 Liberator II,False
+1311,1311,Douglas DC-3A,False
+1312,1312,SNCASE Languedoc,False
+1313,1313,Douglas C-47A-35-DL,False
+1314,1314,Boeing B-29 / Boeing B-29,False
+1315,1315,Douglas C-47-DL,False
+1316,1316,Douglas DC-6,False
+1317,1317,Lockheed 18 Lodestar,False
+1318,1318,,
+1319,1319,Douglas DC-3,False
+1320,1320,Douglas DC-3,False
+1321,1321,Curtiss C-46F-1-CU,False
+1322,1322,Martin 202,False
+1323,1323,Douglas C-47A,False
+1324,1324,Douglas DC-4,False
+1325,1325,Curtiss C-46F-1CU,False
+1326,1326,Boeing 377-10-26 Stratocruiser,False
+1327,1327,Douglas DC-3,False
+1328,1328,Douglas C-47A,False
+1329,1329,Douglas DC-3,False
+1330,1330,Douglas DC-3,False
+1331,1331,Curtiss C-46A,False
+1332,1332,Handley Page HP-81 Hermes IV,False
+1333,1333,Douglas DC-3,False
+1334,1334,Airspeed AS-65 Consul,False
+1335,1335,Boeing B-50 Superfortress,False
+1336,1336,Avro Shackleton MR-1,False
+1337,1337,Fairchild packet (C119 flying boxcar),False
+1338,1338,Boeing 377 Stratocruiser,False
+1339,1339,Douglas DC-3,False
+1340,1340,Handley Page HP-81 Hermes 4A,False
+1341,1341,Bristol 170 Freighter,False
+1342,1342,Douglas DC-2-115B,False
+1343,1343,de Havilland 110,False
+1344,1344,Curtiss C-46,False
+1345,1345,Douglas C-47A,False
+1346,1346,Ilyushin IL-12,False
+1347,1347,Avro Shackleton MR-1,False
+1348,1348,Douglas DC-3,False
+1349,1349,Curtiss-Wright C-46D-CU,False
+1350,1350,Boeing KC-97G Stratofreighter,False
+1351,1351,Douglas C-54B-1-DC,False
+1352,1352,Fairchild C-119C,False
+1353,1353,Fairchild C-119C,False
+1354,1354,Fairchild C-119C,False
+1355,1355,Fairchild C-119C-23-FA Flying Boxcar,False
+1356,1356,Douglas C-124A Globemaster,False
+1357,1357,Douglas C-54G (DC-4),False
+1358,1358,Lisunov Li-2,False
+1359,1359,Douglas DC-4,False
+1360,1360,Douglas C-124A Globemaster,False
+1361,1361,Curtiss C-46D,False
+1362,1362,Douglas DC-3,False
+1363,1363,Douglas DC-3,False
+1364,1364,Douglas DC-3,False
+1365,1365,Douglas DC-3,False
+1366,1366,Vickers Viking 610-1B,False
+1367,1367,Douglas C-54B-10-DO,False
+1368,1368,Curtiss C-46,False
+1369,1369,Vickers Valetta Mk1 / Avero Lancaster,False
+1370,1370,Douglas DC-3,False
+1371,1371,Avro 685 York 1,False
+1372,1372,Douglas C-47B-15-DK,False
+1373,1373,Douglas C-54A-5-DC,False
+1374,1374,Curtiss-Wright C-46,False
+1375,1375,Douglas DC-6,False
+1376,1376,de Havilland DH106 Comet 1A,False
+1377,1377,Curtiss C-46F,False
+1378,1378,Convair CV-240-7,False
+1379,1379,Douglas DC-3,False
+1380,1380,Convair RB-36H,False
+1381,1381,Boeing B-29 Superfortress,False
+1382,1382,Douglas DC-4  (C-54-10-DO),False
+1383,1383,de Havilland DH-114 Heron 1B,False
+1384,1384,Vickers 616 Viking 1B,False
+1385,1385,Junkers JU-5/-3m,False
+1386,1386,Doublas Dc-3,False
+1387,1387,Lockheed 18-56 LodeStar,False
+1388,1388,Douglas C-47A,False
+1389,1389,Douglas DC-3 (C-47-DL),False
+1390,1390,Douglas DC-3,False
+1391,1391,Douglas DC-6B,False
+1392,1392,de Havilland DH106 Comet 1,False
+1393,1393,Vickers Valetta T-3,False
+1394,1394,Douglas DC-3,False
+1395,1395,Consolidated PBY-5A Catalina,False
+1396,1396,Douglas DC-3,False
+1397,1397,Douglas DC-3,False
+1398,1398,Convair CV-240-4,False
+1399,1399,Li-2 / Li-2T,False
+1400,1400,Ilyushin IL-2,False
+1401,1401,Douglas DC-3,False
+1402,1402,Lockheed 18 Loadstar,False
+1403,1403,Douglas DC-3,False
+1404,1404,Lockheed 049-46-21 Constellation,False
+1405,1405,Douglas C-124A Globemaster II,False
+1406,1406,Douglas DC-6A,False
+1407,1407,Fairchild R4Q-2,False
+1408,1408,Ilyushin IL-12,False
+1409,1409,Lockheed L- 749A Constellation,False
+1410,1410,Douglas DC-3,False
+1411,1411,Convair B-36,False
+1412,1412,Curtiss C-46A,False
+1413,1413,Lockheed 749A Constellation,False
+1414,1414,Douglas DC-3,False
+1415,1415,Douglas C-47A,False
+1416,1416,Douglas C-47A,False
+1417,1417,Convair CV-240-0,False
+1418,1418,Douglas DC-3,False
+1419,1419,Curtiss C-46F-1-CU,False
+1420,1420,Convair CV-240-12,False
+1421,1421,Douglas C-47B,False
+1422,1422,Lockheed 749A Constellation,False
+1423,1423,Douglas C-46A-CU ( DC-3),False
+1424,1424,Ilyushin IL-12,False
+1425,1425,Douglas DC-6,False
+1426,1426,Li-2,False
+1427,1427,Douglas DC-3,False
+1428,1428,Avro Shackleton MR-2,False
+1429,1429,Bristol 170 Freighter 21,False
+1430,1430,Douglas DC-3,False
+1431,1431,Curtiss C-46D,False
+1432,1432,VC-Viking,False
+1433,1433,Boeing B-29,False
+1434,1434,Convair CV-240,False
+1435,1435,Douglas DC-3,False
+1436,1436,Douglas DC-3,False
+1437,1437,Douglas DC-3,False
+1438,1438,Vickers Valetta,False
+1439,1439,de Havilland DH106 Comet 1,False
+1440,1440,Douglas DC-3,False
+1441,1441,Douglas C-47 Skytrain (DC-3),False
+1442,1442,F-88 Sabre Jet,False
+1443,1443,Douglas DC-6,False
+1444,1444,Douglas DC-3A,False
+1445,1445,Curtiss-Wright C46D-CU,False
+1446,1446,Douglas C-47,False
+1447,1447,Avro Shackleton MR-2,False
+1448,1448,Douglas DC-3,False
+1449,1449,Convair CV-240,False
+1450,1450,Douglas C-47A-DL,False
+1451,1451,C-46,False
+1452,1452,Lockheed 749A-79-33 Constellation,False
+1453,1453,Douglas C-47A,False
+1454,1454,Fairchild C-110F,False
+1455,1455,Douglas DC-3,False
+1456,1456,Douglas DC-3,False
+1457,1457,Douglas C-54A,False
+1458,1458,de Havilland DH106 Comet 1,False
+1459,1459,Canadair C-4-1 Northstar / Harvard Mark II,False
+1460,1460,Douglas DC-3,False
+1461,1461,Lockheed 18 Lodestar,False
+1462,1462,Douglas DC-3,False
+1463,1463,Douglas C-47A-30-DK,False
+1464,1464,Douglas DC-3,False
+1465,1465,Douglas DC-3,False
+1466,1466,Douglas C-47A,False
+1467,1467,Curtiss C-46A,False
+1468,1468,Douglas C-47-DL,False
+1469,1469,Convair CV-240-4,False
+1470,1470,Lockheed C-28,False
+1471,1471,Douglas DC-4,False
+1472,1472,Douglas DC-2,False
+1473,1473,Lockheed 749A-79 Constellation,False
+1474,1474,Douglas DC-3,False
+1475,1475,Bristol 170 Freighter 21E,False
+1476,1476,Douglas DC-3,False
+1477,1477,Douglas DC-6B,False
+1478,1478,Lisunov LI-2,False
+1479,1479,Convair RB-36H,False
+1480,1480,Lockheed 1049C-55-81 S Constellation,False
+1481,1481,Douglas DC-3,False
+1482,1482,Vickers 634 Viking,False
+1483,1483,Ilyushin IL-12,False
+1484,1484,Douglas C-47A-DL,False
+1485,1485,Ilyushin IL -12,False
+1486,1486,Lockheed R7V-1,False
+1487,1487,Vickers 720 Viscount,False
+1488,1488,Douglas DC-3,False
+1489,1489,Douglas DC-3,False
+1490,1490,Douglas DC-3,False
+1491,1491,Douglas C-47A,False
+1492,1492,Douglas DC-6B,False
+1493,1493,Douglas C-47A,False
+1494,1494,Douglas DC-3,False
+1495,1495,Boeing B377-10-28 Stratocruiser,False
+1496,1496,Ilyushin II-14,False
+1497,1497,Douglas C47,False
+1498,1498,Avro Shackleton M-2 / Avro Shakleton M-2,False
+1499,1499,Martin 202A / DC-3,False
+1500,1500,Grumman G-73 Mallard,False
+1501,1501,Convair CV-340,False
+1502,1502,Consolidated PBY-5 Catalina,False
+1503,1503,Douglas DC-3,False
+1504,1504,Bristol 170 Freighter 21E,False
+1505,1505,Douglas DC-6,False
+1506,1506,Martin 404,False
+1507,1507,Douglas DC-3,False
+1508,1508,de Havilland DH.104 Dove,False
+1509,1509,Douglas DC-3,False
+1510,1510,Lockheed 18 LodeStar,False
+1511,1511,Douglas DC-3,False
+1512,1512,Douglas C-47A,False
+1513,1513,Convair CV-240-0,False
+1514,1514,Douglas R6D-1 (C-118B),False
+1515,1515,Boeing 377 Stratocruiser 10-26,False
+1516,1516,Curtiss C-46A,False
+1517,1517,Douglas DC-6,False
+1518,1518,Lockheed 749A Constellation,False
+1519,1519,de Havilland DH-114 Heron 1B,False
+1520,1520,Douglas DC-3,False
+1521,1521,Douglas C-47-DL,False
+1522,1522,Avro 685 York C-1,False
+1523,1523,Douglas C-54A,False
+1524,1524,Lockheed 049-46-21 Constellation,False
+1525,1525,Curtiss C-46,False
+1526,1526,Douglas DC-2-243,False
+1527,1527,Convair CV-340-32,False
+1528,1528,Lockheed 049 Constellation,False
+1529,1529,Convair CV-240-0,False
+1530,1530,Aeroflot,False
+1531,1531,Fairchild C119G / Fairchild C119G,False
+1532,1532,Douglas DC-3,False
+1533,1533,Douglas C-47A,False
+1534,1534,Douglas DC-3,False
+1535,1535,Douglas DC-3,False
+1536,1536,Latecoere 631 (flying boat),False
+1537,1537,Bristol 170 Freighter 31,False
+1538,1538,Canadair C-4 Argonaut,False
+1539,1539,Douglas C-54A,False
+1540,1540,Avro 685 York C-1,False
+1541,1541,Douglas C54A,False
+1542,1542,Douglas DC-4,False
+1543,1543,Convair CV-340-58,False
+1544,1544,Douglas DC-6B,False
+1545,1545,Douglas MC-54M,False
+1546,1546,Douglas C-54,False
+1547,1547,Douglas C124-DL Globemaster II,False
+1548,1548,Boeing RB-52B,False
+1549,1549,Douglas DC-3,False
+1550,1550,Li-2,False
+1551,1551,Curtiss C-46A,False
+1552,1552,Douglas DC-3,False
+1553,1553,Lockheed 749C-79-12 Constellation,False
+1554,1554,Douglas C-47,False
+1555,1555,Douglas DC-3,False
+1556,1556,Douglas DC-3,False
+1557,1557,Douglas C-47,False
+1558,1558,Bristol 170 Freighter 31,False
+1559,1559,Douglas C-47-DL,False
+1560,1560,Douglas R5D2,False
+1561,1561,Avro 685 York C-1,False
+1562,1562,Douglas DC-6B,False
+1563,1563,Douglas DC-3,False
+1564,1564,Douglas C-47B,False
+1565,1565,Douglas DC-3,False
+1566,1566,Douglas C-47B,False
+1567,1567,Douglas C-47A,False
+1568,1568,Douglas C-47A,False
+1569,1569,Martin 404,False
+1570,1570,Boeing 377 Stratocruiser 10-30,False
+1571,1571,Aero Commander  520,False
+1572,1572,Consolidated PBY-5A Catalina,False
+1573,1573,Avro 685 York C-1,False
+1574,1574,Douglas DC-3,False
+1575,1575,CF-100 Mark 4B,False
+1576,1576,Douglas C-47-DL (DC-3),False
+1577,1577,Douglas DC-3,False
+1578,1578,Lockheed 1049E-55 Super Constellation,False
+1579,1579,Canadair C-4 Argonaut,False
+1580,1580,Douglas DC-7 / Lockheed S Constellation,False
+1581,1581,Vickers Viscount,False
+1582,1582,Douglas C-118A,False
+1583,1583,Convair CV-440-11,False
+1584,1584,Douglas DC-3,False
+1585,1585,Douglas DC-3,False
+1586,1586,Douglas DC-6B,False
+1587,1587,Curtiss C-46A-45-CU,False
+1588,1588,Douglas DC-3 / Cessna 170B,False
+1589,1589,Stinson AT-19,False
+1590,1590,Douglas C188-B,False
+1591,1591,Boeing  377 Stratocruiser,False
+1592,1592,Douglas DC-3,False
+1593,1593,Curtiss C-46,False
+1594,1594,Handley Page HP-1 Hermes,False
+1595,1595,de Havilland DH-114 Heron 2B,False
+1596,1596,Douglas C-54A-10-DC,False
+1597,1597,Douglas DC-3,False
+1598,1598,Douglas DC-6B,False
+1599,1599,Ilyushin IL-12B,False
+1600,1600,Lockheed 749-79-34 Constellation,False
+1601,1601,Consolidated PBY-5A Catalina,False
+1602,1602,Canadair DC-4M-2 Northstar,False
+1603,1603,Vickers 708 Viscount,False
+1604,1604,Convair CV-340-58,False
+1605,1605,Douglas DC-3,False
+1606,1606,Lockheed C-121C Super Constellation,False
+1607,1607,Convair CV-240-0,False
+1608,1608,Vickers 615 Viking 1B,False
+1609,1609,Douglas DC-3,False
+1610,1610,SNCASE SE.2010 Armagnac,False
+1611,1611,Douglas DC-7B / U.S. Air Force F-89J,False
+1612,1612,Douglas DC-6A,False
+1613,1613,Douglas C-124C,False
+1614,1614,Douglas C-54B,False
+1615,1615,Curtiss C-46D-15--CU,False
+1616,1616,Blackburn Beverley C Mark 1,False
+1617,1617,Douglas DC-3,False
+1618,1618,Vickers Viscount 701,False
+1619,1619,Douglas C-47-A-75-DL Skytrain,False
+1620,1620,Douglas DC-3,False
+1621,1621,Boeing C-97C,False
+1622,1622,Curtiss C-46A-45-CU,False
+1623,1623,Douglas DC-3,False
+1624,1624,Douglas DC-3,False
+1625,1625,Consolidated B-24J,False
+1626,1626,Vickers Valetta C-Mk.1,False
+1627,1627,Lockheed Super Constellation,False
+1628,1628,Vickers Viking 1B,False
+1629,1629,Douglas C-47A,False
+1630,1630,Bristol 170 Freighter,False
+1631,1631,Douglas DC-4,False
+1632,1632,Douglas DC-3,False
+1633,1633,Vickers 615 Viking 1B,False
+1634,1634,Ilyushin P-14,False
+1635,1635,Douglas C-47B,False
+1636,1636,Douglas C-47A,False
+1637,1637,Douglas DC-3,False
+1638,1638,L-Hudson,False
+1639,1639,Douglas DC-3,False
+1640,1640,Lockheed L-414 Hudson,False
+1641,1641,Lockheed 1049C Super Constellation,False
+1642,1642,Douglas C-47A-90 (DC-3),False
+1643,1643,Convair CV-240,False
+1644,1644,Douglas DC-4,False
+1645,1645,Ilyushin IL-14P,False
+1646,1646,Douglas DC-3,False
+1647,1647,Douglas DC-3,False
+1648,1648,Douglas DC-3,False
+1649,1649,Douglas DC-3,False
+1650,1650,Convair CV-440-62,False
+1651,1651,Let Aero 45S,False
+1652,1652,de Havilland DH-114 Heron,False
+1653,1653,Ilyushin IL-12,False
+1654,1654,Curtiss C-46A-45-CU,False
+1655,1655,Douglas C-47A,False
+1656,1656,Vickers 802 Viscount,False
+1657,1657,Douglas DC-3,False
+1658,1658,Fairchild C-82A,False
+1659,1659,Douglas DC-4,False
+1660,1660,Ilushin Il-14,False
+1661,1661,Bristol Britannia 175,False
+1662,1662,Boeing - 377-10-29 Stratocruiser,False
+1663,1663,Short Solent 3 (flying boat),False
+1664,1664,de Havilland DH-114 Heron 2D,False
+1665,1665,Bristol 170 Freighter 31,False
+1666,1666,Douglas DC-4,False
+1667,1667,Douglas C-47A,False
+1668,1668,de Havilland Canada DHC-3 Otter,False
+1669,1669,Ilyushin IL-12,False
+1670,1670,Avro 685 York C-1,False
+1671,1671,Lockheed WV-2,False
+1672,1672,Short Sunderland,False
+1673,1673,Fairchild C-82A,False
+1674,1674,Douglas DC-3,False
+1675,1675,Douglas DC-4,False
+1676,1676,Douglas C-118A / Lockheed P2V-5F,False
+1677,1677,Airspeed Ambassador AS-57,False
+1678,1678,Douglas VC-47A,False
+1679,1679,Consolidated PBY-5A  Catalina,False
+1680,1680,Douglas DC-6B,False
+1681,1681,Lockheed WV-2,False
+1682,1682,Bristol 170 Freighter 21,False
+1683,1683,Vickers 628 Viking 1B,False
+1684,1684,Fairchild R4Q / Dougas AD-6 skyraider,False
+1685,1685,Lockheed 18 Lodestar,False
+1686,1686,Douglas DC-3,False
+1687,1687,Douglas DC-7-C,False
+1688,1688,Douglas C-124C / Fairchild C-119C,False
+1689,1689,Junkers JU-52/3m,False
+1690,1690,Vickers Viscount 745D,False
+1691,1691,Douglas DC-3,False
+1692,1692,de Havilland DH-114 Heron 2D,False
+1693,1693,Douglas DC-7 / F-100F,False
+1694,1694,Convair CV-240-7,False
+1695,1695,Douglas C-47A,False
+1696,1696,Douglas DC-7C,False
+1697,1697,Vickers Viscount 745D / T-33A,False
+1698,1698,Avro 685 York C-1,False
+1699,1699,Curtiss C-46D,False
+1700,1700,Douglas DC-3,False
+1701,1701,Boeing 377 Stratocruiser 10-26,False
+1702,1702,Lockheed 749A Constellation,False
+1703,1703,Douglas DC-3,False
+1704,1704,Ilyushin IL-12,False
+1705,1705,Convair CV-440-59,False
+1706,1706,Douglas C-47A,False
+1707,1707,Boeing KC-135A,False
+1708,1708,Douglas C-47A,False
+1709,1709,Vickers Viscount 748D,False
+1710,1710,Douglas DC-4,False
+1711,1711,Douglas DC-3,False
+1712,1712,Lockheed 1049H Super Constellation,False
+1713,1713,Convair CV-240-2,False
+1714,1714,Tupolev TU-104-A,False
+1715,1715,Lockheed C-130A-II Hercules,False
+1716,1716,Douglas C-124C Globemaster,False
+1717,1717,Vickers 621 Viking 1,False
+1718,1718,Curtiss C-46A-CU,False
+1719,1719,Aeroflot,False
+1720,1720,Boeing B-52 / Boeing B-52,False
+1721,1721,Lockheed L-1049H Super Constellation,False
+1722,1722,Lockheed C-130A Hercules,False
+1723,1723,Ilyushin IL-12,False
+1724,1724,Avro 685 York I,False
+1725,1725,Fairchild C-123 Provider,False
+1726,1726,Lockheed 1049E Super Constellation,False
+1727,1727,Douglas C-47A,False
+1728,1728,Tupolev TU-104A,False
+1729,1729,Lockheed WV-2 Super Constellation,False
+1730,1730,Vickers Viscount 701C,False
+1731,1731,Vickers Viscount 755D,False
+1732,1732,Douglas C-47-DL,False
+1733,1733,Douglas DC-3,False
+1734,1734,Martin Mariner,False
+1735,1735,Curtiss C-46F,False
+1736,1736,SNCASE Languedoc,False
+1737,1737,Ilyushin IL-14,False
+1738,1738,Bristol 175 Britannia 312,False
+1739,1739,Douglas DC-6B,False
+1740,1740,Saab Scandia,False
+1741,1741,Douglas DC-3,False
+1742,1742,Douglas DC-3,False
+1743,1743,Lockheed L 1049G Super Constillation,False
+1744,1744,Curtiss C-46F,False
+1745,1745,Curtiss C-46A-50-CU,False
+1746,1746,Ilyushin IL-14P,False
+1747,1747,Curtiss C-46D-15-CU,False
+1748,1748,Convair CV-240-2,False
+1749,1749,Avro 688,False
+1750,1750,Douglas DC-3,False
+1751,1751,Beechcraft Bonanza 35,False
+1752,1752,Lockheed  188A Electra,False
+1753,1753,Vickers Viscount 794D,False
+1754,1754,Curtiss C-46A,False
+1755,1755,Vickers Viscount 763,False
+1756,1756,Douglas C-47A,False
+1757,1757,Bristol 170 Freighter 21E,False
+1758,1758,Nord 2501 Noratlas,False
+1759,1759,Douglas DC-3,False
+1760,1760,Curtiss C-46A,False
+1761,1761,Curtiss C-46F-1-CU,False
+1762,1762,Avro 688 Super Trader,False
+1763,1763,Douglas DC-3,False
+1764,1764,Douglas DC-3,False
+1765,1765,Vickers Viscount 745D,False
+1766,1766,Lockheed C-69 Constellation,False
+1767,1767,Curtiss C-46A,False
+1768,1768,Douglas DC-3,False
+1769,1769,Curtiss C-46A-50-CU,False
+1770,1770,Curtiss C-46,False
+1771,1771,Boeing RC-135E,False
+1772,1772,Noorduyn Norseman,False
+1773,1773,Douglas DC-4,False
+1774,1774,Lockheed 1649A Starliner,False
+1775,1775,North American F-100D-25NA,False
+1776,1776,Avro 685 York,False
+1777,1777,Douglas DC-3,False
+1778,1778,Vickers 815 Viscount,False
+1779,1779,Boeing 707-123,False
+1780,1780,Douglas DC-3,False
+1781,1781,de Havilland DH-106 Comet 4,False
+1782,1782,Curtiss C-46A,False
+1783,1783,Douglas DC-3,False
+1784,1784,Douglas DC-4,False
+1785,1785,Saab Scandia 90A-1,False
+1786,1786,Douglas C-54B,False
+1787,1787,Douglas DC-7C,False
+1788,1788,Lockheed 188A Electra,False
+1789,1789,Aero Commander AC 520,False
+1790,1790,Ilyushin IL-14P,False
+1791,1791,Douglas C-47A-DL,False
+1792,1792,Douglas DC-3,False
+1793,1793,Douglas DC-3,False
+1794,1794,Douglas C-54A,False
+1795,1795,Antonov AN-10,False
+1796,1796,Douglas DC-7B,False
+1797,1797,Douglas DC-4,False
+1798,1798,Lockheed L-1049H Super Constellation,False
+1799,1799,Martin 202,False
+1800,1800,Curtiss C-46A,False
+1801,1801,Ilyushin IL-18,False
+1802,1802,Consolidated PBY-5A Catalina,False
+1803,1803,Vickers 785D Viscount,False
+1804,1804,Vickers Viscount 827 / Fokker T-21,False
+1805,1805,Douglas C-47A,False
+1806,1806,Douglas DC-3,False
+1807,1807,Douglas C-47A,False
+1808,1808,Douglas DC-6B,False
+1809,1809,de Havilland Canada U-1A Otter,False
+1810,1810,Vickers Viscount 745D,False
+1811,1811,Sud Aviation Caravelle 1,False
+1812,1812,Lockheed 1049E Super Constellation,False
+1813,1813,de Havilland DH-114 Heron 2D,False
+1814,1814,Douglas DC-4,False
+1815,1815,Douglas DC-3 / USN R4-D6,False
+1816,1816,Antonov 10A,False
+1817,1817,Douglas DC-7C,False
+1818,1818,Consolidated PBY-5A Catalina,False
+1819,1819,Douglas DC-3,False
+1820,1820,Lockheed 188C Electra,False
+1821,1821,Curtiss C-46,False
+1822,1822,Curtiss C-46A-40-CU,False
+1823,1823,Douglas DC-3,False
+1824,1824,Douglas DC-4,False
+1825,1825,Douglas C-124C Globemaster,False
+1826,1826,Curtiss C-46,False
+1827,1827,Fairchild F-27 / Cessna 310,False
+1828,1828,Douglas C-54B,False
+1829,1829,Douglas DC-3,False
+1830,1830,Douglas DC-4-1009,False
+1831,1831,Curtiss C-46,False
+1832,1832,Convair CV-880,False
+1833,1833,Ilyushin IL-14P,False
+1834,1834,Fokker F-27 Friendship 100,False
+1835,1835,Lockheed 749A-79-32 Constellation,False
+1836,1836,Convair CV-340-62,False
+1837,1837,Goodyear ZPG-3W (airship),False
+1838,1838,Douglas DC-3,False
+1839,1839,Douglas C-47B-DK,False
+1840,1840,Douglas DC-7C,False
+1841,1841,Douglas DC-3,False
+1842,1842,de Havilland DH-89 Dragon Rapide,False
+1843,1843,Fairchild C-119G,False
+1844,1844,Ilushin IL-14,False
+1845,1845,Sikorsky S-58C helicopter,True
+1846,1846,Convair CV-240-4,False
+1847,1847,Douglas C-47,False
+1848,1848,Ilyushin IL-18B,False
+1849,1849,Avro Lancaster 1,False
+1850,1850,Vickers 634 Viking 1B,False
+1851,1851,Lockheed 1049G Super Constellation,False
+1852,1852,Ilyushin IL-14P,False
+1853,1853,Douglas DC-6,False
+1854,1854,Douglas DC-6AB,False
+1855,1855,Douglas R5D-3,False
+1856,1856,Noorduyn Norseman,False
+1857,1857,Vickers Viscount 837,False
+1858,1858,Douglas DC-3 (C-53-DO),False
+1859,1859,Vickers Viscount 739B,False
+1860,1860,Lockheed 188A Electra,False
+1861,1861,de Havilland DH-114 Heron 2,False
+1862,1862,Curtiss C-46F,False
+1863,1863,Tupolev Tu-104A,False
+1864,1864,Douglas C-54A-DC,False
+1865,1865,Douglas DC-3,False
+1866,1866,Curtiss C-46F-1-CU,False
+1867,1867,Douglas C-47A,False
+1868,1868,Fairchild F-27A,False
+1869,1869,Douglas DC-3,False
+1870,1870,Ilyushin 14M,False
+1871,1871,Curtiss C-46A-60-CK,False
+1872,1872,Avro 691 Lancastrian IV,False
+1873,1873,MD DC-8-11 / Lockheed  1049 S Const,False
+1874,1874,Convair C-131D (CV-340-79),False
+1875,1875,Douglas DC-3,False
+1876,1876,Ilyushin IL-18A,False
+1877,1877,Avia 14,False
+1878,1878,Douglas DC-3,False
+1879,1879,McDonnell Douglas DC-8-21,False
+1880,1880,Lockheed WV-2 Super Constellation,False
+1881,1881,Douglas DC-3,False
+1882,1882,Douglas C-118A Liftmaster,False
+1883,1883,Boeing 707-123,False
+1884,1884,Douglas DC-3,False
+1885,1885,Boeing B-707-320,False
+1886,1886,Douglas DC-3,False
+1887,1887,Douglas C-47DL,False
+1888,1888,Ilyushin IL-18,False
+1889,1889,Douglas DC-3,False
+1890,1890,C-47(DC-3),False
+1891,1891,Lockheed 1649A Starliner,False
+1892,1892,Douglas C-124A-DL,False
+1893,1893,Handley Page Hastings C-2,False
+1894,1894,McDonnell Douglas DC-8-53,False
+1895,1895,Lockheed L-188C Electra,False
+1896,1896,Douglas DC-4,False
+1897,1897,Douglas C-54B-1-DC,False
+1898,1898,Curtiss C-46A,False
+1899,1899,Ilyushin IL-14P,False
+1900,1900,Tupolev TU-104B,False
+1901,1901,McDonnell Douglas DC-8-12,False
+1902,1902,Ilyushin IL-18B,False
+1903,1903,Douglas DC-6,False
+1904,1904,Douglas DC-6A,False
+1905,1905,Douglas DC-3,False
+1906,1906,Vickers Viking 3B,False
+1907,1907,de Havilland Canada DHC-3 Otter,False
+1908,1908,Lockheed 049 Constellation,False
+1909,1909,Douglas DC-3,False
+1910,1910,Douglas C-47A (DC-3),False
+1911,1911,Douglas DC-3,False
+1912,1912,Douglas DC-6B,False
+1913,1913,Sud-Aviation Caravelle III,False
+1914,1914,Lockheed 188C  Electra,False
+1915,1915,Douglas DC-6B,False
+1916,1916,Fokker F-27 Friendship 100,False
+1917,1917,Douglas DC-3,False
+1918,1918,Handley Page Hastings C-2,False
+1919,1919,Bristol 170 Freighter 31M,False
+1920,1920,Douglas DC-7C,False
+1921,1921,Lockheed C-69 Constellation,False
+1922,1922,Lockheed L-749A Constellation,False
+1923,1923,Aero Commander 680F,False
+1924,1924,,
+1925,1925,Douglas C-54 Skymaster,False
+1926,1926,de Havilland Comet 4,False
+1927,1927,Vickers Viscount 720,False
+1928,1928,Boeing 720-030B,False
+1929,1929,Fairchild C-119G / Fairchild C-119,False
+1930,1930,Curtiss C-46,False
+1931,1931,Ilyushin IL-18B,False
+1932,1932,de Havilland Comet 4B,False
+1933,1933,Grumman G-21A Goose,False
+1934,1934,Douglas DC-3,False
+1935,1935,Ilyushin IL-18B,False
+1936,1936,Douglas DC-3,False
+1937,1937,Curtiss C-46D,False
+1938,1938,Antonov AN-10A,False
+1939,1939,Douglas DC-3,False
+1940,1940,Fairchild F-27,False
+1941,1941,Douglas C-47A,False
+1942,1942,Boeing B-707-123B,False
+1943,1943,Douglas DC-7C,False
+1944,1944,Douglas DC-3,False
+1945,1945,Lockheed C-130A Hercules,False
+1946,1946,Douglas DC-6B,False
+1947,1947,Fairchild F-27,False
+1948,1948,Lockheed 1049H Super Constellation,False
+1949,1949,Lockheed 1049H Super Constellation,False
+1950,1950,Nord 2501 Noratlas,False
+1951,1951,Ilyushin IL-14,False
+1952,1952,Douglas C-47,False
+1953,1953,Douglas C-47,False
+1954,1954,Douglas C-47A-1,False
+1955,1955,Douglas C-47A,False
+1956,1956,Douglas C-47,False
+1957,1957,Convair CV-240-0,False
+1958,1958,Consolidated Catalina,False
+1959,1959,Douglas DC-3,False
+1960,1960,Lockheed C-130A Hercules,False
+1961,1961,Boeing B-707-124,False
+1962,1962,Lockheed C121J,False
+1963,1963,Li-2,False
+1964,1964,Boeing B-707-328,False
+1965,1965,Tupolev Tu-104B,False
+1966,1966,Boeing B-707-328,False
+1967,1967,Antonov AN-10A,False
+1968,1968,Tupolev TU-104A,False
+1969,1969,Ilyushin IL-14,False
+1970,1970,McDonnell Douglas DC-8-43,False
+1971,1971,Douglas DC-4,False
+1972,1972,Douglas C-47A,False
+1973,1973,Douglas C-47,False
+1974,1974,de Havilland Comet 4C,False
+1975,1975,Bristol Britannia 314,False
+1976,1976,Antonov An-10A,False
+1977,1977,Douglas DC-3,False
+1978,1978,Douglas DC-3,False
+1979,1979,McDonnell Douglas DC-8-33,False
+1980,1980,Douglas DC-3,False
+1981,1981,Douglas DC-3,False
+1982,1982,Lockheed P2V-7,False
+1983,1983,Tupolev TU-104A,False
+1984,1984,Lockheed 18 Lodestar,False
+1985,1985,Douglas C-47A,False
+1986,1986,Avia 14,False
+1987,1987,Boeing KC-135A,False
+1988,1988,Aeroflot,False
+1989,1989,Douglas C-47 Skytrain,False
+1990,1990,Douglas C-47A,False
+1991,1991,Lockheed 1049H-82 Super Constellation,False
+1992,1992,Vickers 757 Viscount,False
+1993,1993,Avia 14,False
+1994,1994,Fokker F-27 Friendship 100,False
+1995,1995,Convair CV-440 -62,False
+1996,1996,Convair CV-340/440,False
+1997,1997,Tupolev TU-104B,False
+1998,1998,Douglas DC-3,False
+1999,1999,Vickers 828 Viscount,False
+2000,2000,Vickers Viscount 745D,False
+2001,2001,Douglas C-54D,False
+2002,2002,Ilyushin IL-18D,False
+2003,2003,Saab Scandia / Cessna 310,False
+2004,2004,Boeing B-707-441,False
+2005,2005,Douglas DC-7B,False
+2006,2006,Douglas C-47,False
+2007,2007,Lockheed 049-46-21 Constellation,False
+2008,2008,Lockheed 1049H Super Constellation,False
+2009,2009,Vickers Viscount 804,False
+2010,2010,KB-50,False
+2011,2011,Convair CV-240-2,False
+2012,2012,Channel Air Bridge,False
+2013,2013,Boeing B307-1 Stratoliner,False
+2014,2014,Beechcraft AT-11 Kansan,False
+2015,2015,Lisunov LI-2,False
+2016,2016,Convair CV-240-0,False
+2017,2017,Fairchild F-27,False
+2018,2018,Curtiss C-46F,False
+2019,2019,Vickers Viscount 812,False
+2020,2020,Lockheed P-3A Orion,False
+2021,2021,Vickers Viscount 754D / Douglas C-47,False
+2022,2022,Lockheed 1049H Super Constellation,False
+2023,2023,Antonov An-10A,False
+2024,2024,Boeing B-720-051B,False
+2025,2025,Twin Apache,False
+2026,2026,Douglas DC-7,False
+2027,2027,Douglas DC-3,False
+2028,2028,Ilyushin IL-18V,False
+2029,2029,Piper PA-24-250 Comanche,False
+2030,2030,Avro 685 York C1,False
+2031,2031,Douglas DC-6B,False
+2032,2032,de Havilland Comet 4C,False
+2033,2033,H-21B,False
+2034,2034,Douglas DC-3,False
+2035,2035,Ilyushin IL-18,False
+2036,2036,Vickers Viscount 759D,False
+2037,2037,Convair CV-340-59,False
+2038,2038,Douglas DC-6B,False
+2039,2039,Douglas DC-3,False
+2040,2040,Douglas DC-7CF,False
+2041,2041,Douglas C-47,False
+2042,2042,Douglas DC-3,False
+2043,2043,Douglas C-47A,False
+2044,2044,VEB 14P,False
+2045,2045,Fairchild C-119,False
+2046,2046,Douglas DC-3,False
+2047,2047,Martin 404,False
+2048,2048,Douglas DC-3,False
+2049,2049,Tupolev TU-104B,False
+2050,2050,Douglas C-47,False
+2051,2051,Curtiss C-46F,False
+2052,2052,de Havilland Comet 4C,False
+2053,2053,Douglas DC-3,False
+2054,2054,Catalina Flying Boat,False
+2055,2055,Vickers Viscount 708,False
+2056,2056,Curtiss C-46F-1-CU,False
+2057,2057,de Havilland DH-114 Heron,False
+2058,2058,Tupolev Tu-124,False
+2059,2059,Ilyushin Il-14P,False
+2060,2060,Boeing KC-135A / Boeing KC-135A,False
+2061,2061,Curtiss C-46 Commando,False
+2062,2062,Sud-Aviation Caravelle III,False
+2063,2063,Vickers Viscount 768D,False
+2064,2064,Vickers Viking 1B,False
+2065,2065,Douglas C-133A,False
+2066,2066,Douglas C-74,False
+2067,2067,Boeing Vetrol 107 II helicopter,True
+2068,2068,Antonov AN-12,False
+2069,2069,Ilyushin IL-14,False
+2070,2070,BAC One-Eleven 200AB,False
+2071,2071,Douglas DC-3,False
+2072,2072,McDonnell Douglas DC-8F-54F,False
+2073,2073,Curtis C-46A-20-CU,False
+2074,2074,Boeing B-707-121,False
+2075,2075,Douglas C-54A,False
+2076,2076,Vickers 634 Viking 1B,False
+2077,2077,Douglas DC-6B,False
+2078,2078,Douglas DC-3,False
+2079,2079,Douglas C-47A,False
+2080,2080,Beech D18S,False
+2081,2081,Douglas DC-3,False
+2082,2082,Ilyushin IL-14,False
+2083,2083,Douglas DC-3,False
+2084,2084,McDonnell Douglas DC-8-21,False
+2085,2085,Convair CV-240-0,False
+2086,2086,Bristol Britannia 312,False
+2087,2087,Lockheed 049 Constellation,False
+2088,2088,Fairchild C-119,False
+2089,2089,Douglas DC-3,False
+2090,2090,Douglas DC-3,False
+2091,2091,Douglas DC-4,False
+2092,2092,Douglas DC-3C,False
+2093,2093,Piper PA-23,False
+2094,2094,Vickers Viscount 785D,False
+2095,2095,Douglas C-54A-10-DC,False
+2096,2096,Douglas DC-3,False
+2097,2097,Sud Aviation Caravelle 3,False
+2098,2098,Cessna 185,False
+2099,2099,Fairchild C-119G / Fairchild C-119G,False
+2100,2100,Fairchild F-27A,False
+2101,2101,Douglas C-54,False
+2102,2102,Lockheed P-2E Neptune,False
+2103,2103,Boeing C-135B,False
+2104,2104,de Havilland Canada DHC-3 Otter,False
+2105,2105,Douglas C-47-DL (DC-3),False
+2106,2106,Douglas C-47A,False
+2107,2107,Curtiss C-46-CU,False
+2108,2108,Douglas DC-3,False
+2109,2109,Caravelle VIR,False
+2110,2110,Vickers Viscount 745D,False
+2111,2111,Boeing 720,False
+2112,2112,Douglas DC-7B,False
+2113,2113,Beechcraft 35-B33 Debonair,False
+2114,2114,Douglas C-47A-25-DK,False
+2115,2115,Ilyushin IL-18B,False
+2116,2116,Douglas C-47,False
+2117,2117,Vickers Viscount 710C,False
+2118,2118,Douglas C-47A,False
+2119,2119,Lockheed L-749A-79 Constellation,False
+2120,2120,Douglas DC-6B,False
+2121,2121,Ilyushin IL-14,False
+2122,2122,Ilyushin IL-18,False
+2123,2123,Douglas A-3D Skywarrior,False
+2124,2124,Beechcraft C45G,False
+2125,2125,Fairchild F-27A,False
+2126,2126,Lockheed P-3A,False
+2127,2127,Convair CV-440,False
+2128,2128,Boeing B-707-331,False
+2129,2129,Douglas DC-4,False
+2130,2130,Douglas DC-3,False
+2131,2131,Fairchild C-123,False
+2132,2132,Douglas DC-3,False
+2133,2133,Douglas DC-3,False
+2134,2134,Lockheed L-1049H Super Constellation,False
+2135,2135,Curtiss C-46,False
+2136,2136,Curtis C-46A,False
+2137,2137,Lisunov LI-2,False
+2138,2138,Ilyushin IL-18B,False
+2139,2139,Boeing KC-135A,False
+2140,2140,Curtiss C-46,False
+2141,2141,Douglas C-124C,False
+2142,2142,Douglas DC-6B,False
+2143,2143,Douglas DC-7B,False
+2144,2144,Ilyushin IL-14P,False
+2145,2145,Curtiss C-46A,False
+2146,2146,Li-2,False
+2147,2147,Tupolev Tu-124V,False
+2148,2148,Douglas DC-3,False
+2149,2149,Handley Page HPR-7 Herald 211,False
+2150,2150,Douglas DC--3,False
+2151,2151,Antonov AN-24,False
+2152,2152,Douglas C-47,False
+2153,2153,Canadair CP-107 MK-2,False
+2154,2154,Douglas C-47,False
+2155,2155,Convair CV-440-62,False
+2156,2156,Handley Page Dart Herald 207,False
+2157,2157,Douglas C-47B,False
+2158,2158,Douglas DC-6A,False
+2159,2159,Lockheed 1049G-55 Super Constellation,False
+2160,2160,Boeing B-720-040B,False
+2161,2161,Noorduyn Norseman,False
+2162,2162,Bell UH-1D / Bell UH1D (helicopters),True
+2163,2163,Boeing C-135A,False
+2164,2164,Boeing B-707-321B,False
+2165,2165,Boeing B-707-124,False
+2166,2166,Handley Page Hastings C Mark 1,False
+2167,2167,Antonov AN-12,False
+2168,2168,Douglas DC-6B,False
+2169,2169,EC-121H (Super Constellation),False
+2170,2170,de Havilland 106A,False
+2171,2171,Douglas C-47,False
+2172,2172,Douglas C-54D,False
+2173,2173,Curtiss C-46A,False
+2174,2174,Boeing B-727-22,False
+2175,2175,Vickers 804 Viscount,False
+2176,2176,Lockheed KC-130F,False
+2177,2177,Aero Commander 680,False
+2178,2178,Douglas DC-3A,False
+2179,2179,Douglas DC-3,False
+2180,2180,Douglas DC-3,False
+2181,2181,Transportes Aéreos Orientales,False
+2182,2182,Boeing B-707-121B,False
+2183,2183,Beechcraft C-45H,False
+2184,2184,Fokker F-27 Friendship 200,False
+2185,2185,Douglas DC-3 / Piper PA-18A,False
+2186,2186,Boeing 307 Stratoliner B-1,False
+2187,2187,Douglas DC-3,False
+2188,2188,Vickers Vanguard 951,False
+2189,2189,Douglas C-47A,False
+2190,2190,Douglas C-54,False
+2191,2191,Boeing B-727-23,False
+2192,2192,Douglas C-47DL,False
+2193,2193,Tupolev TU-124,False
+2194,2194,Boeing B-727-22,False
+2195,2195,Learjet 23,False
+2196,2196,Douglas C-53-DO (DC-3A),False
+2197,2197,Boeing B-707-131B / L1049C Constellation,False
+2198,2198,Douglas DC-3,False
+2199,2199,Fairchild C-123C,False
+2200,2200,Douglas DC-3A,False
+2201,2201,Douglas DC-3 / Douglas DC-3,False
+2202,2202,Ilyushin IL-14P,False
+2203,2203,DC3(C47),False
+2204,2204,Antonov AN-2,False
+2205,2205,Douglas DC-6-54B,False
+2206,2206,Boeing B52 Stratofortress/Boeing KC 135A,False
+2207,2207,Douglas DC-3,False
+2208,2208,Boeing B-707-437,False
+2209,2209,Fairchild C-123B,False
+2210,2210,Convair CV-440-0,False
+2211,2211,Boeing B-727-81,False
+2212,2212,Fokker F-27 Friendship 200,False
+2213,2213,Sud Aviation SE-210 Caravelle VIN,False
+2214,2214,Tupolev Tu-114,False
+2215,2215,Ilyushin II-14,False
+2216,2216,Douglas DC-6B,False
+2217,2217,McDonnell Douglas DC-8-43,False
+2218,2218,Boeing B-707-436,False
+2219,2219,Douglas DC-6A,False
+2220,2220,Grumman G-21A,False
+2221,2221,Antonov AN-24B,False
+2222,2222,Curtiss C-46F,False
+2223,2223,Lockheed 188C Electra,False
+2224,2224,Ilyushin IL-14,False
+2225,2225,Lockheed 749A Constellation,False
+2226,2226,Boeing CH47A (helicopter),True
+2227,2227,Curtis C-46E-1-CS Commando,False
+2228,2228,Douglas DC-3,False
+2229,2229,Douglas DC-8-52,False
+2230,2230,Curtiss C-46D,False
+2231,2231,de Havilland 104-6A,False
+2232,2232,Lockheed C-130B Hercules,False
+2233,2233,Beechcraft H50,False
+2234,2234,Curtiss C-46D,False
+2235,2235,BAC One-Eleven 203AE,False
+2236,2236,Ilyushin IL-14,False
+2237,2237,Curtiss C-46F-1-CU,False
+2238,2238,Chance Vought F-8E,False
+2239,2239,Grumman G-21 Goose,False
+2240,2240,Bristol Britannia 102,False
+2241,2241,Sud Aviation SE-210 Caravelle,False
+2242,2242,Douglas DC-3,False
+2243,2243,Douglas DC-4,False
+2244,2244,Vickers Viscount 832,False
+2245,2245,McDonnell Douglas DC-9-14,False
+2246,2246,de Havilland Canada CV-2B Caribou,False
+2247,2247,Bell 204B helicopter,True
+2248,2248,Lockheed EC-121H,False
+2249,2249,NAMC-YS-11-111,False
+2250,2250,Boeing 727-21,False
+2251,2251,Martin 404,False
+2252,2252,Douglas DC-3,False
+2253,2253,Ilyushin IL-18B,False
+2254,2254,Douglas C-47D,False
+2255,2255,Consolidated  PBY-5A Catalina,False
+2256,2256,Tupolev TU-114B,False
+2257,2257,Lockheed L-1649A Starliner,False
+2258,2258,Douglas C-47A-80-DL,False
+2259,2259,Canadair CL-44D4-1,False
+2260,2260,Douglas DC-3,False
+2261,2261,Antonov AN-24,False
+2262,2262,Antonov AN-12,False
+2263,2263,Lockheed L-188C Electra,False
+2264,2264,Douglas DC-6,False
+2265,2265,Fokker F-27 Friendship 100,False
+2266,2266,Convair CV-580,False
+2267,2267,McDonnell Douglas DC-8-33,False
+2268,2268,AT L98 Carvair,False
+2269,2269,MD Douglas DC-9-15 / Beechcraft Baron-55,False
+2270,2270,Douglas C-47J,False
+2271,2271,Fairchild F-27,False
+2272,2272,de Havilland Canada DHC-6 Twin Otter 100,False
+2273,2273,Ilyushin IL-14P,False
+2274,2274,Vickers Viscount 818,False
+2275,2275,McDonnell Douglas DC-8-51,False
+2276,2276,Lockheed 18 Lodestar,False
+2277,2277,Douglas DC-4,False
+2278,2278,Lockheed C-130B,False
+2279,2279,Bristol Britannia 175,False
+2280,2280,Douglas DC-3,False
+2281,2281,Fokker F-27 Friendship 400,False
+2282,2282,de Havilland DH-104 / Piper PA-28,False
+2283,2283,Curtiss C-46T,False
+2284,2284,Douglas DC-8-54F,False
+2285,2285,Douglas C54A,False
+2286,2286,Canadair C-4 Argonaut,False
+2287,2287,Douglas DC-3,False
+2288,2288,Douglas DC-3A-197D,False
+2289,2289,Bristol 170 Freighter 31E,False
+2290,2290,Douglas C-47,False
+2291,2291,Lockheed C-130B,False
+2292,2292,BAC One Eleven 204AF,False
+2293,2293,Bell UH-1B / Sikorsky CH53A helicopters,True
+2294,2294,Douglas DC-3,False
+2295,2295,Sud Aviation SE-210 Caravelle III,False
+2296,2296,Fokker F-27 Friendship 100,False
+2297,2297,Boeing B-727-22 / Cessna 310,False
+2298,2298,Douglas DC-4-1009,False
+2299,2299,Douglas DC-3,False
+2300,2300,Douglas DC-3,False
+2301,2301,Ilyushin IL-18,False
+2302,2302,Lockheed C130B,False
+2303,2303,de Havilland Comet 4B,False
+2304,2304,Douglas DC-3,False
+2305,2305,Handley Page HPR-7 Herald 214,False
+2306,2306,Sud Aviation Caravelle 10R,False
+2307,2307,Convair CV-880-22M-3,False
+2308,2308,Boeing B-707-131,False
+2309,2309,Ilyushin IL-18B,False
+2310,2310,Convair CV-880-22-1,False
+2311,2311,de Havilland Canada C-7A Caribou,False
+2312,2312,Douglas DC-3,False
+2313,2313,Douglas DC-C-54A,False
+2314,2314,Beechcraft 18H,False
+2315,2315,Douglas C-47A,False
+2316,2316,Douglas DC-3,False
+2317,2317,Antonov AN-24B,False
+2318,2318,Antonov An-24B,False
+2319,2319,Sikorsky CH-53A (helicopter),True
+2320,2320,Douglas C-54P,False
+2321,2321,Douglas DC-3,False
+2322,2322,de Havilland DH-114 Heron 1B,False
+2323,2323,Boeing B-707-138B,False
+2324,2324,Antonov AN-12BP,False
+2325,2325,Boeing B-727-92C,False
+2326,2326,Douglas DC-3,False
+2327,2327,Ilyushin IL-18D,False
+2328,2328,Fairchild C-123K,False
+2329,2329,Boeing B-707-328C,False
+2330,2330,Fairchild F-27,False
+2331,2331,Douglas DC6B,False
+2332,2332,Vickers Viscount 803,False
+2333,2333,McDonnell Douglas DC-9 and Cessna 150F,False
+2334,2334,MiG-15 UTI,False
+2335,2335,Boeing B-707-465,False
+2336,2336,Douglas DC-3,False
+2337,2337,Douglas DC-3,False
+2338,2338,Bell UH-1H / Bell UH-1H (helicopter),True
+2339,2339,Boeing B-707-344C,False
+2340,2340,Lockheed Martin L-100-10,False
+2341,2341,Lockheed L188A Electra,False
+2342,2342,Lockheed C-130B Hercules,False
+2343,2343,Sikorsky S-61L helicopter,True
+2344,2344,Convair CV-990-30A-5,False
+2345,2345,Boeing B-707-321C,False
+2346,2346,Piaggio PD-808,False
+2347,2347,Bell UH-1H / Bell UH-1H / Bell UH-1H,False
+2348,2348,Douglas DC-3 (C-47-DL),False
+2349,2349,Airspeed AS.57 Ambassador 2,False
+2350,2350,Convair CV-340-68B,False
+2351,2351,Boeing 707-329C,False
+2352,2352,Curtiss C-46C,False
+2353,2353,Curtiss C-46D,False
+2354,2354,McDonnell Douglas DC-8,False
+2355,2355,Convair CV-580 / Cessna 150,False
+2356,2356,Vickers Viscount 739A,False
+2357,2357,Fairchild-Hiller FH-227B,False
+2358,2358,Sikorsky S-61L helicopter,True
+2359,2359,Antonov AN-24V,False
+2360,2360,Hawker Siddeley HS-748-215-2,False
+2361,2361,de Havilland Canada DHC-3 Otter,False
+2362,2362,Ilyushin IL-18,False
+2363,2363,Cessna 402 / Piper PA-28,False
+2364,2364,Sud-Aviation Caravelle 3,False
+2365,2365,Douglas C-54B,False
+2366,2366,Britten-Norman BN-2 Islander,False
+2367,2367,Avia 14-40,False
+2368,2368,Douglas C-47A-25,False
+2369,2369,Douglas C-47D,False
+2370,2370,Fairchild-Hiller FH227C,False
+2371,2371,McDonnell Douglas DC-8-62,False
+2372,2372,de Havilland Canada DHC-6 Twin Otter 200,False
+2373,2373,Curtiss C-46D-20-CU,False
+2374,2374,Fairchild F-27B,False
+2375,2375,Boeing B-707-321B,False
+2376,2376,Convair CV-580,False
+2377,2377,Lockheed L-100 Hercules,False
+2378,2378,Boeing 707-321CF,False
+2379,2379,Douglas DC-3,False
+2380,2380,Convair CV-580,False
+2381,2381,Douglas DC-3,False
+2382,2382,Vickers Viscount 720,False
+2383,2383,Bell 205A,False
+2384,2384,Douglas DC-3D,False
+2385,2385,Boeing B-727-113C,False
+2386,2386,Convair CV-580,False
+2387,2387,McDonnell Douglas DC-8-62,False
+2388,2388,Douglas C-47 Skytrain (DC-3),False
+2389,2389,Boeing B-727-22QC,False
+2390,2390,Douglas DC-3,False
+2391,2391,Handley Page Dart Herald 201,False
+2392,2392,de Havilland DH-114 Heron 2D,False
+2393,2393,Douglas DC-4,False
+2394,2394,de Havilland DHC-6,False
+2395,2395,McDonnell Douglas DC-9-32,False
+2396,2396,Ilyushin IL-18D,False
+2397,2397,Douglas DC-3,False
+2398,2398,Antonov AN-24V,False
+2399,2399,Boeing Vertol CH47C (helicopter),True
+2400,2400,Curtiss C-46F,False
+2401,2401,Vickers 757 Viscount,False
+2402,2402,Lockheed EC-121M,False
+2403,2403,Curtiss C-46,False
+2404,2404,Fokker F-27 Friendship 100,False
+2405,2405,Douglas DC-3,False
+2406,2406,Boeing Vertol CH47A (helicopter),True
+2407,2407,Curtiss C-46F,False
+2408,2408,Douglas C-47,False
+2409,2409,Fokker F-27 Friendship 600,False
+2410,2410,Boeing B-727-64,False
+2411,2411,Boeing RC-135E,False
+2412,2412,Ilyushin IL-14M / Antonov An-12BP,False
+2413,2413,Ilyushin IL-14,False
+2414,2414,Beechcraft B-99,False
+2415,2415,Douglas DC-3,False
+2416,2416,de Havilland Canada DHC-6 Twin Otter 200,False
+2417,2417,De Havilland DH-104 Dove,False
+2418,2418,Sud Aviation SE-210 Caravelle 6N,False
+2419,2419,Boeing 707-331C,False
+2420,2420,Antonov An-24B,False
+2421,2421,Lockheed L-1049H Super Constellation,False
+2422,2422,Pilatus Pc-6C,False
+2423,2423,Douglas C-47B,False
+2424,2424,Ilyushin IL-18,False
+2425,2425,Antonov AN-2,False
+2426,2426,Cessna 172H,False
+2427,2427,Ilyushin IL-14P,False
+2428,2428,Douglas C-47,False
+2429,2429,Douglas DC-3,False
+2430,2430,Douglas DC-3,False
+2431,2431,MD Douglas DC-9-31/Piper Cherokee PA-28,False
+2432,2432,BAC One-Eleven 402AP,False
+2433,2433,Douglas DC-3,False
+2434,2434,Convair CV-640,False
+2435,2435,Douglas DC-4 / USAF F-4E,False
+2436,2436,Boeing B-727-64,False
+2437,2437,Douglas DC-6B,False
+2438,2438,Boeing C-97,False
+2439,2439,Grumman C-2A,False
+2440,2440,Antonov An-24B,False
+2441,2441,Douglas C-47B,False
+2442,2442,Antonov An-12TB,False
+2443,2443,Fairchild-Hiller FH-227B,False
+2444,2444,BAC VC-10-1101,False
+2445,2445,Boeing B-707-328B,False
+2446,2446,Lockheed 18-08 Lodestar,False
+2447,2447,Antonov An-12PL,False
+2448,2448,Douglas DC-6B,False
+2449,2449,Ilyushin 14P,False
+2450,2450,Douglas DC-6B,False
+2451,2451,Douglas C-47A-25-DK,False
+2452,2452,Convair CV-990-30A-5,False
+2453,2453,Douglas C-47,False
+2454,2454,Douglas DC-3,False
+2455,2455,Douglas DC-4,False
+2456,2456,Fokker F-27 Friendship 200,False
+2457,2457,Convair CV-240-2,False
+2458,2458,Antonov AN-24,False
+2459,2459,De Havilland Dove,False
+2460,2460,Tupolev TU-124,False
+2461,2461,Antonov AN-24V,False
+2462,2462,Hawker Siddeley HS-748 1,False
+2463,2463,Ilyushin IL-18V,False
+2464,2464,de Havilland Canada DHC-6 Twin Otter 100,False
+2465,2465,Douglas DC-3 (C-47-DL),False
+2466,2466,McDonnell Douglas DC-9-32,False
+2467,2467,Douglas DC-3,False
+2468,2468,Convair CV-990-30A-6,False
+2469,2469,Handley Page Jetstream 1,False
+2470,2470,Fairchild-Hiller FH-227B,False
+2471,2471,Lockheed EC-121P,False
+2472,2472,Piper PA-32,False
+2473,2473,Antonov AN-24V,False
+2474,2474,Aerospatiale Caravelle 3,False
+2475,2475,Ilyushin IL-14P,False
+2476,2476,Hawker Siddeley HS-748-209,False
+2477,2477,Fairchild C-119G,False
+2478,2478,de Havilland Canada DHC-6 Twin Otter 100,False
+2479,2479,McDonnell Douglas DC-9-33CF,False
+2480,2480,Convair CV-240,False
+2481,2481,Vickers 785D Viscount,False
+2482,2482,Fokker F-27 Friendship 100,False
+2483,2483,Gates Learjet 23,False
+2484,2484,Antonov AN-10,False
+2485,2485,de Havilland DH-114 Heron 1B,False
+2486,2486,Martin 404,False
+2487,2487,Tupolev TU-104A,False
+2488,2488,Fokker F-27 Friendship 100,False
+2489,2489,Fokker F-27 Friendship 400M,False
+2490,2490,Douglas DC-3,False
+2491,2491,de Havilland Comet 4,False
+2492,2492,McDonnell Douglas DC-8-63,False
+2493,2493,Antonov AN-22,False
+2494,2494,McDonnell Douglas DC-8-63AF,False
+2495,2495,Lockheed P-3A Orion,False
+2496,2496,Fokker F-27 Friendship 200,False
+2497,2497,Lockheed 188A Electra,False
+2498,2498,NAMC YS-11A-219,False
+2499,2499,Boeing Vertol CH47B (helicopter),True
+2500,2500,Fokker F-27 Friendship 400,False
+2501,2501,Britten-Norman BN-2A Islander,False
+2502,2502,Tupolev Tu-124,False
+2503,2503,Tupolev TU-124,False
+2504,2504,Yakovlev YAK-40,False
+2505,2505,McDonnell Douglas DC-8-63CF,False
+2506,2506,Fokker F-27 Friendship 300,False
+2507,2507,Douglas DC-3-DST,False
+2508,2508,Martin 404,False
+2509,2509,Lockheed C-130E,False
+2510,2510,Aero Commander 500-B,False
+2511,2511,Douglas DC-3,False
+2512,2512,Lockheed L-100-20 Hercules,False
+2513,2513,Curtiss C-46D,False
+2514,2514,McDonnell Douglas DC-9-31,False
+2515,2515,Fairchild C-123K,False
+2516,2516,McDonnell Douglas DC-8-63CF,False
+2517,2517,Fairchild C-123K,False
+2518,2518,Canadair CL-44J,False
+2519,2519,Douglas DC-3,False
+2520,2520,BAC One-Eleven  424EU,False
+2521,2521,Boeing B-727-2A7,False
+2522,2522,Fokker F-27 Friendship 200,False
+2523,2523,Nord 262E,False
+2524,2524,Ilyushin IL-18B,False
+2525,2525,de Havilland Comet 4C,False
+2526,2526,Boeing B-707-323 / Cessna 150,False
+2527,2527,Ilyushin IL-18,False
+2528,2528,Curtiss-Wright C-46,False
+2529,2529,Nord 262A-34,False
+2530,2530,Antonov AN-12B,False
+2531,2531,Fokker F-27 Friendship 500,False
+2532,2532,Vickers Viscount 749,False
+2533,2533,Antonov AN-10,False
+2534,2534,Curtiss C-46,False
+2535,2535,Douglas DC-3,False
+2536,2536,Boeing B-720-047B,False
+2537,2537,Antonov An-10,False
+2538,2538,Douglas C-47A,False
+2539,2539,Beechcraft C35,False
+2540,2540,Curtiss C-46A-55-CK,False
+2541,2541,Tupolev TU-134A,False
+2542,2542,Curtiss C-46,False
+2543,2543,Aero Commander 680E,False
+2544,2544,McDonnell Douglas DC-9-31 / F4-B,False
+2545,2545,Convair CV-580,False
+2546,2546,Boeing - EC-135N,False
+2547,2547,Douglas DC-6,False
+2548,2548,Douglas DC-3,False
+2549,2549,NAMC YS-11A-227,False
+2550,2550,Douglas DC-3,False
+2551,2551,Boeing 707-321CF,False
+2552,2552,Tupolev TU-104B,False
+2553,2553,Nord 2501 Noratlas,False
+2554,2554,Boeing B-727-281 / Air Force F86F,False
+2555,2555,Boeing B-747-121,False
+2556,2556,Boeing Vertol CH-47A (helicopter),True
+2557,2557,Piper PA-31,False
+2558,2558,Ilyushin IL-18D,False
+2559,2559,Boeing B-727-193,False
+2560,2560,BAC One-Eleven 515FB,False
+2561,2561,Douglas DC-3,False
+2562,2562,Tupolev TU-134A,False
+2563,2563,Antonov An-14,False
+2564,2564,Douglas DC-3,False
+2565,2565,Vickers Vanguard 951,False
+2566,2566,Tupolev TU-104B,False
+2567,2567,Cessna 402,False
+2568,2568,Douglas C-47A,False
+2569,2569,Beech E18S,False
+2570,2570,Douglas C-47,False
+2571,2571,Beechcraft B99,False
+2572,2572,Lockheed C-130K Hercules,False
+2573,2573,Vickers Viscount 828,False
+2574,2574,Antonov AN-24,False
+2575,2575,Sud Aviation SE-210 Caravelle III,False
+2576,2576,Boeing Vertol CH-47C,False
+2577,2577,Antonov AN-24,False
+2578,2578,Douglas DC-9-31 /Cessna 206,False
+2579,2579,Fokker F-27 Friendship 200,False
+2580,2580,HAL-748-224 Srs.2,False
+2581,2581,Ilyushin IL-18B,False
+2582,2582,Lockheed 188A Electra,False
+2583,2583,Hawker Siddeley HS-748-230 Srs. 2A,False
+2584,2584,Sud-Aviation Caravelle VI-R,False
+2585,2585,Vickers Viscount 837,False
+2586,2586,Douglas C-47,False
+2587,2587,McDonnell Douglas DC-9-32,False
+2588,2588,Douglas DC-6,False
+2589,2589,de Havilland Canada C-7A Caribou,False
+2590,2590,Fairchild F-27,False
+2591,2591,Douglas DC-4,False
+2592,2592,Fairchild-Hiller FH-227-B,False
+2593,2593,Aerospatiale Caravelle Super 10B,False
+2594,2594,McDonnell Douglas DC-9-32,False
+2595,2595,NAMC YS-11A-211,False
+2596,2596,Fokker F-27 Friendship 200,False
+2597,2597,Bell 47J-2,False
+2598,2598,BAC Super VC-10 1154,False
+2599,2599,Douglas C-47D,False
+2600,2600,Pilatus PC6CH2,False
+2601,2601,Yakovlev YAK-40,False
+2602,2602,McDonnell Douglas DC-8-43,False
+2603,2603,Douglas C-47B,False
+2604,2604,Boeing Vertol CH47A (helicopter),True
+2605,2605,Antonov An-26,False
+2606,2606,Antonov AN-10A,False
+2607,2607,Fokker F-27 Friendship 200,False
+2608,2608,de Havilland Canada DHC-6 Twin Otter,False
+2609,2609,Lockheed 049 Constellation,False
+2610,2610,Bell 205A,False
+2611,2611,McDonnell Douglas DC-9-14,False
+2612,2612,Curtiss C-46A,False
+2613,2613,Curtiss C-46D,False
+2614,2614,Boeing Vertol CH-47 (helicopter),True
+2615,2615,McDonnell Douglas DC-8-53,False
+2616,2616,Convair CV-880-22M-21,False
+2617,2617,Hawker Siddeley Trident 1C,False
+2618,2618,de Havilland DH-114 Heron 2B,False
+2619,2619,Convair CV-580/De Hav. Twin Otter 100,False
+2620,2620,Boeing 737-200,False
+2621,2621,McDonnell Douglas DC-8-52,False
+2622,2622,Sikorsky CH-53D (helicopter),True
+2623,2623,de Havilland Canada DHC-6 Twin Otter 100,False
+2624,2624,Sud-Aviation SE210 Caravelle,False
+2625,2625,Douglas DC-3 / Douglas DC-3,False
+2626,2626,Fokker F-27 Friendship 100,False
+2627,2627,Lockheed C-130E,False
+2628,2628,Ilyushin IL-62,False
+2629,2629,Douglas DC-3 (C-47A-DK),False
+2630,2630,Douglas C-47-DL,False
+2631,2631,de Havilland Canada DHC-4 Caribou,False
+2632,2632,Ilyushin IL-18,False
+2633,2633,Shorts SC-7 Skyvan 3-300,False
+2634,2634,Curtiss C-46A-40-CU,False
+2635,2635,Douglas DC-3,False
+2636,2636,Douglas C-47,False
+2637,2637,F-86 Sabrejet,False
+2638,2638,Douglas C-54D-1-DC,False
+2639,2639,Ilyushin IL-18B,False
+2640,2640,Douglas DC-3,False
+2641,2641,Fairchild-Hiller FH-227D/LCD,False
+2642,2642,Ilyushin IL-62,False
+2643,2643,Cessna 310C,False
+2644,2644,NAMC YS-11A-202,False
+2645,2645,Britten-Norman BN-2A-6 Islander,False
+2646,2646,Vickers Viscount 724,False
+2647,2647,Fokker F-27 Friendship 200,False
+2648,2648,Boeing Vertol CH-47 (helicopter),True
+2649,2649,Ilyushin IL-14P,False
+2650,2650,Beech G18S,False
+2651,2651,McDonnell Douglas DC-8-62,False
+2652,2652,Convair CV-990-30A-5 Coronado,False
+2653,2653,Fokker F-27 Friendship 400,False
+2654,2654,Boeing B-737-222,False
+2655,2655,Convair CV-880 / McDonnell DC-9-31,False
+2656,2656,de Havilland Canada DHC-6 Twin Otter 300,False
+2657,2657,Fokker F-28 Fellowship 1000,False
+2658,2658,Lockheed L-1011 TriStar 1,False
+2659,2659,Douglas DC-7CF,False
+2660,2660,Boeing 707-321C,False
+2661,2661,Vickers 802 Viscount,False
+2662,2662,Antonov An-24B,False
+2663,2663,Boeing B-707-3D3C,False
+2664,2664,Douglas DC-6A,False
+2665,2665,Ilyushin IL-18D,False
+2666,2666,Tupolev TU-154,False
+2667,2667,Bell 206B,False
+2668,2668,Douglas DC-3,False
+2669,2669,Boeing B-727-224,False
+2670,2670,Ilyushin IL-18,False
+2671,2671,Yakovlev YAK-40,False
+2672,2672,de Havilland Canada DHC-6 Twin Otter 100,False
+2673,2673,Ilyushin IL-18V,False
+2674,2674,MD Douglas DC-9-32/Convair CV-990A,False
+2675,2675,HAL-748-224,False
+2676,2676,Douglas C-54D,False
+2677,2677,Vickers Vanguard 952,False
+2678,2678,Lockheed P-3C / Convair CV-990-30A-5,False
+2679,2679,de Havilland Canada DHC-6 Twin Otter 100,False
+2680,2680,Ilyushin IL-18B,False
+2681,2681,Tupolev TU-104A,False
+2682,2682,Douglas C-47A,False
+2683,2683,Douglas DC-3,False
+2684,2684,Boeing B-737-2A8,False
+2685,2685,Sud Aviation SE-210 Caravelle VIN,False
+2686,2686,Tupolev TU-144,False
+2687,2687,Boeing 707-327C,False
+2688,2688,McDonnell Douglas DC-9-15,False
+2689,2689,Tupolev TU-134A,False
+2690,2690,Ilyushin IL-14,False
+2691,2691,Tupolev TU-124V,False
+2692,2692,Boeing B-707-345C,False
+2693,2693,Boeing B-707-321B,False
+2694,2694,Fairchild-Hiller FH-227B,False
+2695,2695,Volpar C45G,False
+2696,2696,McDonnell Douglas DC-9-31,False
+2697,2697,Sud-Aviation Caravelle 10-R,False
+2698,2698,Norman BN-2A-6,False
+2699,2699,Antonov AN-24V,False
+2700,2700,Douglas DC-3,False
+2701,2701,Lockheed L-188A Electra,False
+2702,2702,Lockheed C-141A,False
+2703,2703,Boeing B-707-331B,False
+2704,2704,McDonnell Douglas DC-8-63F,False
+2705,2705,Aerospatiale Caravelle 6N,False
+2706,2706,Beechcraft E18S,False
+2707,2707,Convair 600,False
+2708,2708,Douglas DC-3A,False
+2709,2709,Tupolev TU-104B,False
+2710,2710,Antonov AN-12V,False
+2711,2711,Tupolev TU-104B,False
+2712,2712,NAMC YS-11A-211,False
+2713,2713,Handley Page HPR-7 Herald 101,False
+2714,2714,Boeing B-707-321C,False
+2715,2715,McDonnell Douglas DC-10-10,False
+2716,2716,Douglas DC-3,False
+2717,2717,Tupolev TU-104B,False
+2718,2718,Tupolev TU-124,False
+2719,2719,Boeing B-707-321B,False
+2720,2720,Boeing Vertol CH-47 (helilcopter),False
+2721,2721,Sud-Aviation Caravelle VI-N,False
+2722,2722,Tupolev TU-124,False
+2723,2723,Douglas DC-3,False
+2724,2724,Fokker F-28 Fellowship 1000,False
+2725,2725,Beechcraft 99A,False
+2726,2726,Curtiss C-46F,False
+2727,2727,Antonov AN-24V,False
+2728,2728,Hawker Siddeley HS 748-260,False
+2729,2729,Douglas C-54,False
+2730,2730,Douglas DC-3A,False
+2731,2731,Fokker F-28 Fellowship 1000,False
+2732,2732,Boeing B-707-321B,False
+2733,2733,Boeing B-747,False
+2734,2734,Transall C-160D,False
+2735,2735,Mc Donnell Dougals DC-9,False
+2736,2736,Curtiss C-46A-45-CU,False
+2737,2737,McDonnell Douglas DC-10-10,False
+2738,2738,Antonov An-24,False
+2739,2739,Convair CV-440,False
+2740,2740,Aerospatiale Caravelle 10B3,False
+2741,2741,Douglas DC-4,False
+2742,2742,Boeing B-707-321C,False
+2743,2743,Ilyushin IL-18B,False
+2744,2744,Beechcraft 99,False
+2745,2745,Douglas C-47,False
+2746,2746,Douglas DC-6A,False
+2747,2747,Lockheed L-100-30 Hercules,False
+2748,2748,Yakovlev YAK-40,False
+2749,2749,Bristol 170 Freighter 31E,False
+2750,2750,Vickers Viscount 785D,False
+2751,2751,Boeing 307B-1 Stratoliner,False
+2752,2752,Fairchild Hiller FH1100,False
+2753,2753,Douglas DC-4,False
+2754,2754,Fairchild C-123K,False
+2755,2755,Douglas DC-3,False
+2756,2756,Ilyushin IL-18B,False
+2757,2757,Douglas C-47-DL,False
+2758,2758,Vickers Viscount 749,False
+2759,2759,Lockheed C-130H,False
+2760,2760,Fokker F-27 Friendship 600,False
+2761,2761,Boeing B-707-331B,False
+2762,2762,McDonnell Douglas DC-9-31,False
+2763,2763,Boeing B-727-121C,False
+2764,2764,Douglas DC-3,False
+2765,2765,Lockheed L-100 Hercules,False
+2766,2766,Beechcraft 95-B55,False
+2767,2767,Antonov An-2 / Mil Mi-8T,False
+2768,2768,Douglas C-47A-30,False
+2769,2769,Boeing B-747-130,False
+2770,2770,Douglas DC-3,False
+2771,2771,Cessna 500 Citation I,False
+2772,2772,Boeing B-727-231,False
+2773,2773,Boeing B-727-251,False
+2774,2774,Antonov An-2 / Antonov An-12,False
+2775,2775,McDonnell Douglas DC-8-55F,False
+2776,2776,Grumman G-21,False
+2777,2777,Boeing Vertol CH-47 (helicopter),True
+2778,2778,Yakovlev 40,False
+2779,2779,McDonnell Douglas DC-9-14,False
+2780,2780,Antonov AN-24RV,False
+2781,2781,Lockheed 18 LodeStar,False
+2782,2782,Fairchild C-123K,False
+2783,2783,Douglas DC-3,False
+2784,2784,de Hav Can. DHC-6 Tw Otter 100/ Cessna,False
+2785,2785,Ilyushin IL-18V,False
+2786,2786,Antonov AN-12,False
+2787,2787,Fokker F-28 Fellowship 1000,False
+2788,2788,Douglas DC-3-313,False
+2789,2789,Douglas DC-3C,False
+2790,2790,Hawker Siddeley HS-748 2,False
+2791,2791,Transall C-160,False
+2792,2792,Douglas DC-6BF,False
+2793,2793,Canadair CL-44,False
+2794,2794,Embraer 110C Bandeirante,False
+2795,2795,Douglas DC-4,False
+2796,2796,Fokker F-27 Friendship 400M,False
+2797,2797,de Havilland Canada DHC-6 Twin Otter 100,False
+2798,2798,Antonov An-2,False
+2799,2799,Lockheed C-141A (L.300),False
+2800,2800,Lockheed C-5A Galaxy,False
+2801,2801,Sikorsky CH-53C (helicopter),True
+2802,2802,BAC One-Eleven 524FF,False
+2803,2803,Hawker Siddeley HS-748-235 Srs. 2A,False
+2804,2804,Boeing B-727-225,False
+2805,2805,Beechcraft E18S,False
+2806,2806,Lockheed L-188AF Electra,False
+2807,2807,Yakovlev YAK-40,False
+2808,2808,Vickers 837 Viscount,False
+2809,2809,Boeing B-707-321C,False
+2810,2810,Douglas DC-47,False
+2811,2811,Boeing B-727-224,False
+2812,2812,Ilyushin IL-14M,False
+2813,2813,Yakovlev YAK-40,False
+2814,2814,Ilyushin IL-62,False
+2815,2815,Fairchild F-27B,False
+2816,2816,Tupolev TU-134,False
+2817,2817,Douglas C-47-DL,False
+2818,2818,Fokker F-28 Fellowship 1000,False
+2819,2819,Tupolev TU-154B,False
+2820,2820,Boeing 727-24C,False
+2821,2821,Yakovlev Yak-40,False
+2822,2822,de Havilland DH114 Heron 2E,False
+2823,2823,Convair CV-440-12,False
+2824,2824,McDonnell Douglas DC-9-32,False
+2825,2825,Bell 212,False
+2826,2826,Antonov AN-24,False
+2827,2827,Douglas DC-3,False
+2828,2828,Antonov AN-24,False
+2829,2829,Antonov AN-24B,False
+2830,2830,Lockheed C-130 Hercules,False
+2831,2831,Piper PA-23-250 Aztec,False
+2832,2832,Mitsubishi MU-2B,False
+2833,2833,Boeing B-720B-023B,False
+2834,2834,Lear Jet 24A,False
+2835,2835,Tupolev TU-124,False
+2836,2836,Britten-Norman BN-2A-21 Islander,False
+2837,2837,Douglas C-47,False
+2838,2838,Hawker Siddeley HS-748-246,False
+2839,2839,Antonov AN-24,False
+2840,2840,Embraer 110C Bandeirante,False
+2841,2841,Douglas DC-6A,False
+2842,2842,Douglas DC-6,False
+2843,2843,Tupolev TU-104A,False
+2844,2844,Grumman G-21A seaplane,False
+2845,2845,Ilyushin II-14P,False
+2846,2846,IAI Arava 201,False
+2847,2847,Ilyushin IL-18E,False
+2848,2848,Cessna 207,False
+2849,2849,Douglas DC-3,False
+2850,2850,Boeing B-727-81,False
+2851,2851,Hawker Siddeley HS-748 2,False
+2852,2852,Bell 205 A-1 helicopter,True
+2853,2853,Boeing B-727-95,False
+2854,2854,Britten-Norman BN-2A-21 Islander,False
+2855,2855,Boeing B-747-131F,False
+2856,2856,Antonov AN-24,False
+2857,2857,BAC One-Eleven 527FK,False
+2858,2858,Tupolev TU-154A,False
+2859,2859,Lockheed 188A Electra,False
+2860,2860,GAF Nomad N-22B,False
+2861,2861,Airbus A300,False
+2862,2862,Douglas C-47,False
+2863,2863,Ilyushin IL-18L,False
+2864,2864,Boeing 707-373,False
+2865,2865,Douglas C-54E,False
+2866,2866,Vickers Viscount 785D,False
+2867,2867,Sud Aviation SE 210 Caravelle III,False
+2868,2868,Lockheed C-141A (L.300),False
+2869,2869,Hughes 369HS,False
+2870,2870,Lockheed C-130H,False
+2871,2871,Antonov AN-24 / Yakovlev Yak-40,False
+2872,2872,McDonnell Douglas DC-9-31 / Trident 3B,False
+2873,2873,Boeing B-727-2F2,False
+2874,2874,Boeing KC-135A,False
+2875,2875,Douglas DC-7CF,False
+2876,2876,McDonnell Douglas DC-8-43,False
+2877,2877,Boeing B-707-31,False
+2878,2878,Sud-Aviation Caravelle VI-N,False
+2879,2879,Embraer 110C Bandeirante,False
+2880,2880,Fokker F-27 Friendship 100,False
+2881,2881,Douglas DC-3,False
+2882,2882,NAMC YS-11A-500,False
+2883,2883,Tupolev TU-104B,False
+2884,2884,de Havilland Canada DHC-6 Twin Otter 300,False
+2885,2885,Yakovlev 40,False
+2886,2886,Antonov AN-24RV,False
+2887,2887,Ilyushin IL-14M,False
+2888,2888,Boeing B-707-366C,False
+2889,2889,Douglas C-54A-1-DO,False
+2890,2890,Gates Learjet 24B,False
+2891,2891,Douglas DC-8,False
+2892,2892,Tupolev TU-104A,False
+2893,2893,de Havilland Canada DHC-6 Twin Otter 300,False
+2894,2894,Vickers Viscount 838,False
+2895,2895,Bristol 170 Freighter 31M,False
+2896,2896,Avia 14T,False
+2897,2897,Ilyushin IL-18V,False
+2898,2898,Douglas DC-3,False
+2899,2899,Douglas DC-3,False
+2900,2900,Lockheed C-130H,False
+2901,2901,McDonnell Douglas DC-8-63CF,False
+2902,2902,Boeing B-747-121 / Boeing B-747-206B,False
+2903,2903,de Havilland Canada DHC-6 Twin Otter 300,False
+2904,2904,Yakovlev YAK-40,False
+2905,2905,McDonnell Douglas DC-9-31,False
+2906,2906,Douglas DC-3-3A,False
+2907,2907,Antonov An-24,False
+2908,2908,Convair CV-440,False
+2909,2909,Sikorsky CH-53D (helicopter),True
+2910,2910,Antonov An-12BP,False
+2911,2911,Boeing 707-321C,False
+2912,2912,Sikorsky S61L,False
+2913,2913,Ilyushin IL-62M,False
+2914,2914,Embraer C-95 Bandeirante,False
+2915,2915,Embraer 110C Bandeirante,False
+2916,2916,Lockheed EC-130Q,False
+2917,2917,Lockheed L-188AF Electra,False
+2918,2918,Antonov AN-24,False
+2919,2919,Antonov AN-26,False
+2920,2920,Ilyushin IL-14M,False
+2921,2921,Douglas DC-3,False
+2922,2922,Douglas DC-6B,False
+2923,2923,Douglas C-47,False
+2924,2924,Bell 206B JetRanger,False
+2925,2925,Convair CV-880,False
+2926,2926,Shorts SC-7 Skyvan 3-200,False
+2927,2927,Canadair CL-44D4-2,False
+2928,2928,Vickers Viscount 764D,False
+2929,2929,de Havilland Canada DHC-6 Twin Otter 200,False
+2930,2930,de Havilland Canada DHC-6 Twin Otter 300,False
+2931,2931,Douglas DC-7BF,False
+2932,2932,Boeing - EC-135K,False
+2933,2933,Tupolev TU-134,False
+2934,2934,McDonnell Douglas DC-8-62H,False
+2935,2935,Convair CV-300,False
+2936,2936,Sikorksky CH-53 (helicopter),True
+2937,2937,Britten-Norman BN-2A-8 Trislander,False
+2938,2938,Boeing 707-360C,False
+2939,2939,Boeing B-727-282,False
+2940,2940,BAC One-Eleven 420EL,False
+2941,2941,Nord 2501 Noratlas,False
+2942,2942,Tupolev TU-154B,False
+2943,2943,Boeing B-737-2H6,False
+2944,2944,SNIAS SA330J,False
+2945,2945,Antonov AN-24,False
+2946,2946,Lockheed P-3B Orion,False
+2947,2947,Douglas DC-3,False
+2948,2948,Douglas DC-8-54F,False
+2949,2949,Aerospatiale Caravelle 10R,False
+2950,2950,Britten-Norman BN-2A Islander,False
+2951,2951,Piper PA-31-350 Navajo,False
+2952,2952,Vickers Viscount 764 D,False
+2953,2953,Boeing B-747-237B,False
+2954,2954,Douglas DC-3,False
+2955,2955,Embraer 110P Bandeirante,False
+2956,2956,Douglas C-47A-DL,False
+2957,2957,Beechcraft 99,False
+2958,2958,Boeing B-737-275,False
+2959,2959,Aero Commander 500A,False
+2960,2960,McDonnell Douglas DC-10-10,False
+2961,2961,Fokker F-28 Fellowship 1000 / MiG-21,False
+2962,2962,British Aerospace 748 2A,False
+2963,2963,Tupolev TU-134,False
+2964,2964,Cessna T207A,False
+2965,2965,Fokker F-27 Friendship 200,False
+2966,2966,Bell 212,False
+2967,2967,Grumman G-21,False
+2968,2968,Boeing B-707-321B,False
+2969,2969,Douglas C-118A,False
+2970,2970,Boeing B-727-235,False
+2971,2971,Tupolev TU-154B,False
+2972,2972,Beech Queen Air A80,False
+2973,2973,Sikorsky S-61N,False
+2974,2974,McDonnell Douglas DC-9-32,False
+2975,2975,Curtiss C-46,False
+2976,2976,de Havilland Canada DHC-6 Twin Otter 300,False
+2977,2977,Piper PA-31-350 Chieftain,False
+2978,2978,Ilyushin IL-18,False
+2979,2979,de havilland Canada Twin Otter 200,False
+2980,2980,Vickers Viscount 782D,False
+2981,2981,Soloy 12EJ3,False
+2982,2982,de Havilland Canada DHC-6 Twin Otter 100,False
+2983,2983,de Havilland DHC-2,False
+2984,2984,Fokker F-27 Friendship 200,False
+2985,2985,Boeing B-727-214 / Cessna 172,False
+2986,2986,Douglas C-47A-1-DK,False
+2987,2987,Fokker F-27 Friendship 600,False
+2988,2988,Douglas R6D-1 (DC-6),False
+2989,2989,Yakovlev YAK-40,False
+2990,2990,Bell 205-1,False
+2991,2991,Britten Norman BN-2A Trislander,False
+2992,2992,Antonov AN-24B,False
+2993,2993,Douglas DC-3,False
+2994,2994,McDonnell Douglas DC-8-Super 63CF,False
+2995,2995,de Havilland Canada DHC-6 Twin Otter 300,False
+2996,2996,Antonov An-12,False
+2997,2997,Douglas C-47A,False
+2998,2998,de Havilland DHC-2,False
+2999,2999,de Havilland Canada DHC-6 Twin Otter 300,False
+3000,3000,Cessna 421 Golden Eagle,False
+3001,3001,Boeing B-737-2A8,False
+3002,3002,McDonnell Douglas DC-9-32,False
+3003,3003,McDonnell Douglas DC-8-61,False
+3004,3004,Antonov AN-24N,False
+3005,3005,Nord 262A-44,False
+3006,3006,Fokker F-27 Friendship 500,False
+3007,3007,Boeing B-707-326C,False
+3008,3008,Embraer 110C Bandeirante,False
+3009,3009,Vickers Viscount 748D,False
+3010,3010,Nord 262,False
+3011,3011,Fokker F-27 Friendship 500,False
+3012,3012,Douglas DC-3,False
+3013,3013,Beech BE-70,False
+3014,3014,Aerospatiale Nord 262A-33,False
+3015,3015,Hawker Siddeley Trident 2E,False
+3016,3016,Boeing B-727-2D3,False
+3017,3017,Tupolev TU-104B,False
+3018,3018,Ilyushin IL-18D,False
+3019,3019,Fairchild F-27,False
+3020,3020,Grumman G-21 Goose,False
+3021,3021,Sikorsky S61-L,False
+3022,3022,Vickers Viscount 785D,False
+3023,3023,de Havilland Canada DHC-4A Caribou,False
+3024,3024,McDonnell Douglas DC-10-10,False
+3025,3025,de Havilland Canada DHC-5D Buffalo,False
+3026,3026,de Havilland DHC-6-200,False
+3027,3027,Hindustan Aeronautics 748-2M,False
+3028,3028,de Havilland Canada DHC-6 Twin Otter 300,False
+3029,3029,Fokker F-28 Fellowship 1000,False
+3030,3030,Britten Norman BN-2A Trislander,False
+3031,3031,Cessna 402B,False
+3032,3032,Boeing 707-327C,False
+3033,3033,de Havilland DH-114 Heron,False
+3034,3034,Hawker Siddeley HS-748-1,False
+3035,3035,Cessna  501 Citation,False
+3036,3036,LET 410M turbojet,False
+3037,3037,Hindustan Aeronautics 748 2-224,False
+3038,3038,Tupolev TU-134A / Tupolev Tu-134A,False
+3039,3039,Antonov AN-12,False
+3040,3040,Tupolev TU-124,False
+3041,3041,Antonov AN-24,False
+3042,3042,Boeing 707-324C,False
+3043,3043,Douglas DC-7,False
+3044,3044,McDonnell Douglas DC-9-32,False
+3045,3045,Britten Norman BN-7A lslander,False
+3046,3046,Boeing KC-135A,False
+3047,3047,de Havilland Canada DHC-6 Twin Otter 200,False
+3048,3048,McDonnell Douglas DC-8-62,False
+3049,3049,Piper PA-31,False
+3050,3050,Antonov An-2TP,False
+3051,3051,McDonnell Douglas DC-10-10,False
+3052,3052,Boeing B-727,False
+3053,3053,Yakovlev YAK-40,False
+3054,3054,Lockheed L-188CF Electra,False
+3055,3055,Boeing B-707-340C,False
+3056,3056,McDonnell Douglas DC-10-30,False
+3057,3057,Grumman G-21 Goose,False
+3058,3058,Antonov AN-26,False
+3059,3059,Martin 404,False
+3060,3060,Douglas DC-4 (C-54),False
+3061,3061,de Havilland Canada DHC-5 Buffalo,False
+3062,3062,Fokker F-28 Fellowship 1000,False
+3063,3063,GAF Nomad 22B,False
+3064,3064,Britten Norman BN Islander,False
+3065,3065,Cessna 441 Conquest,False
+3066,3066,Cessna 185A,False
+3067,3067,Boeing B-727-86,False
+3068,3068,CASA 212 Aviocar 100,False
+3069,3069,Fairchild FH-227H,False
+3070,3070,Yakovlev YAK-40,False
+3071,3071,Sikorsky S-62A,False
+3072,3072,Beechcraft Super King Air 200,False
+3073,3073,Fairchild C-119G,False
+3074,3074,Boeing B-707-309C,False
+3075,3075,Ilyushin IL-62,False
+3076,3076,Lockheed C-130H,False
+3077,3077,Piper PA-28-180,False
+3078,3078,Sikorsky S-76,False
+3079,3079,Boeing B-727-27C,False
+3080,3080,Antonov An-24B,False
+3081,3081,Lockheed EC-130E Hercules,False
+3082,3082,Boeing B-727-64,False
+3083,3083,Hawker Siddeley HS-748-2,False
+3084,3084,Fairchild F-27J,False
+3085,3085,Yakovlev YAK-40,False
+3086,3086,Yakovlev YAK-40,False
+3087,3087,Swearingen 226TC Metro II,False
+3088,3088,McDonnell Douglas DC-9-15,False
+3089,3089,Tupolev TU-154B,False
+3090,3090,Douglas DC-8-43F,False
+3091,3091,Bell 205A-1 helicopter,True
+3092,3092,Tupolev TU-154B-1,False
+3093,3093,Lockheed 1011-200 TriStar,False
+3094,3094,Vickers Viscount 812,False
+3095,3095,Lockheed L-100-20 Hercules,False
+3096,3096,Douglas C-47,False
+3097,3097,Douglas DC-3,False
+3098,3098,Lockheed Hercules C-130,False
+3099,3099,Lockheed C-130E,False
+3100,3100,de Havilland DHC-5 Buffalo,False
+3101,3101,Antonov AN-12V,False
+3102,3102,Lockheed C-141A,False
+3103,3103,Boeing B-747-2B5B,False
+3104,3104,Douglas C-47A-35-DL,False
+3105,3105,Douglas DC-7B,False
+3106,3106,Piper PA-42 Cheyenne,False
+3107,3107,Aerospatiale Caravelle 6R,False
+3108,3108,Lockheed L-1011-200,False
+3109,3109,Lockheed C-130E Hercules,False
+3110,3110,Beechcraft 99A,False
+3111,3111,Tupolev TU-104A,False
+3112,3112,Lockheed 1339,False
+3113,3113,Sikorsky S-62A,False
+3114,3114,Embraer 110P Bandeirante,False
+3115,3115,Lockheed MC-130E-Y,False
+3116,3116,Dassault-Breguet Atlantique,False
+3117,3117,Boeing RC-135S,False
+3118,3118,Antonov AN-24B,False
+3119,3119,Douglas C-47A,False
+3120,3120,Learjet 23,False
+3121,3121,Hadley Page 137Jetstream I / Cessna 206,False
+3122,3122,Douglas C-47A-5-DK,False
+3123,3123,Antonov An-2TP,False
+3124,3124,Boeing EC-135N,False
+3125,3125,BAC One-Eleven 529FR,False
+3126,3126,Lockheed L-100-20 Hercules,False
+3127,3127,Convair CV-440-11,False
+3128,3128,de Havilland Canada DHC-6 Twin Otter 300,False
+3129,3129,Lockheed C-130H Hercules,False
+3130,3130,Ilyushin Il-14,False
+3131,3131,Hawker Siddeley HS-748,False
+3132,3132,Canadair CL-44D4-6,False
+3133,3133,Fokker F-27 Friendship 600RF,False
+3134,3134,de Havilland Canada DHC-6 Twin Otter 300,False
+3135,3135,Douglas C-53D-DO,False
+3136,3136,McDonnell Douglas DC-9-32,False
+3137,3137,Boeing B-737-222,False
+3138,3138,Antonov AN-24RV / Soviet Air Force TU-16,False
+3139,3139,Vickers Viscount 745D,False
+3140,3140,Yakovlev YAK-40,False
+3141,3141,Embraer 110P1 Bandeirante,False
+3142,3142,Yakovlev YAK-40 / Mil Mi-8,False
+3143,3143,Lockheed C-130H Hercules,False
+3144,3144,Northrop F-5A,False
+3145,3145,Lockheed C-130H,False
+3146,3146,Learjet 24,False
+3147,3147,Fokker F-28 Fellowship 4000,False
+3148,3148,Cessna 404 Titan,False
+3149,3149,Lockheed L-749A Constellation,False
+3150,3150,de Havilland Canada DHC-6 Twin Otter 300,False
+3151,3151,McDonnell Douglas DC-9-32,False
+3152,3152,Tupolev TU-154B-2,False
+3153,3153,Pilatus PC-6/B2-H2 Turbo-Porter,False
+3154,3154,Douglas DC-6A,False
+3155,3155,McDonnell Douglas MD-81,False
+3156,3156,Beech C-45H,False
+3157,3157,Aerospatiale Puma,False
+3158,3158,de Havilland Canada DHC-6 Twin Otter 300,False
+3159,3159,LET  410M Turbojet,False
+3160,3160,Boeing B-737-222,False
+3161,3161,Antonov AN-26,False
+3162,3162,McDonnell Douglas DC-10-30CF,False
+3163,3163,Antonov An-24RV,False
+3164,3164,Nord 2501 Noratlas,False
+3165,3165,Fairchild C-123,False
+3166,3166,Fairchild C-119G,False
+3167,3167,Douglas DC-3 (C-47A-70-DL),False
+3168,3168,McDonnell Douglas DC-8-61,False
+3169,3169,Douglas DC-6BF,False
+3170,3170,de Havilland DHC -6-100,False
+3171,3171,de Havilland Canada DHC-6 Twin Otter 300,False
+3172,3172,Boeing KC-135C,False
+3173,3173,Beechcraft Bonanza F35,False
+3174,3174,Fokker F-28 Fellowship 1000,False
+3175,3175,Vickers Viscount 745D,False
+3176,3176,Hughes 369D,False
+3177,3177,Lockheed C-130H,False
+3178,3178,Hawker Siddeley Trident 2E,False
+3179,3179,Sikorsky S-76,False
+3180,3180,de Havilland Canada DHC-7-103,False
+3181,3181,Lockheed C-130E Hercules,False
+3182,3182,Westland Sea King HC-4 (helicopter),True
+3183,3183,Boeing B-737-200,False
+3184,3184,Aerospatiale 330G Puma,False
+3185,3185,Fairchild C-123,False
+3186,3186,Boeing B-727-212A,False
+3187,3187,Fairchild-Hiller FH-227B-LCD,False
+3188,3188,Boeing B-707-437,False
+3189,3189,Boeing B-747,False
+3190,3190,Yakovlev YAK-42,False
+3191,3191,Cessna 404 Titan,False
+3192,3192,Ilyushin IL-62M,False
+3193,3193,Boeing B-727-235,False
+3194,3194,Hawker Siddeley HS-748-209 Srs. 2,False
+3195,3195,Bell UH-1B Huey Helicopter,True
+3196,3196,Boeing B-747-121,False
+3197,3197,de Havilland Canada DHC-6 Twin Otter 300,False
+3198,3198,Arava 201,False
+3199,3199,Let 410UVP Turbojet / Tupolev TU-134V,False
+3200,3200,de Havilland Canada DHC-4A Caribou,False
+3201,3201,Gates Learjet 25B,False
+3202,3202,Boeing Vertol CH-47C (helicopter),True
+3203,3203,McDonnell Douglas DC-10-30CF,False
+3204,3204,Ilyushin IL-62M,False
+3205,3205,Bell 212,False
+3206,3206,Antonov AN-26,False
+3207,3207,de Havilland Canada DHC-6 Twin Otter 310,False
+3208,3208,Swearingen SA.227AC Metro III,False
+3209,3209,Fairchild F-27J,False
+3210,3210,Mil Mi-8 (helicopter),True
+3211,3211,Antonov AN-26,False
+3212,3212,Ilyushin IL-18B,False
+3213,3213,Convair 580-11A,False
+3214,3214,McDonnell Douglas DC-8-54F37,False
+3215,3215,Boeing B-727-2F2,False
+3216,3216,Lockheed C-130H Hercules,False
+3217,3217,Bell 212,False
+3218,3218,de Havilland Canada DHC-6 Twin Otter 300,False
+3219,3219,McDonnell Douglas DC-9-32,False
+3220,3220,Learjet 25,False
+3221,3221,Britten-Norman BN-2A-8 Islander,False
+3222,3222,Hawker Siddeley HS-748-329 Srs. 2A,False
+3223,3223,Yakovlev YAK-40,False
+3224,3224,Kawasaki C-1 / Kawasaki C-1,False
+3225,3225,Shin Meiwa PS-1,False
+3226,3226,Sud Aviation SE-210 Caravelle VIR,False
+3227,3227,Convair CV-340,False
+3228,3228,Fairchild C-123K,False
+3229,3229,Lockheed L-1011,False
+3230,3230,Antonov An-26,False
+3231,3231,Fokker F-28 Fellowship 3000RC,False
+3232,3232,McDonnell Douglas DC-9-32,False
+3233,3233,Fairchild C-199G,False
+3234,3234,Lockheed L-188C Electra,False
+3235,3235,Lockheed P-3B Orion,False
+3236,3236,de Havilland Canada DHC-6 Twin Otter 300,False
+3237,3237,Lockheed C-130H Hercules,False
+3238,3238,Ilyushin IL-62M,False
+3239,3239,Boeing B-737-2V2,False
+3240,3240,Sikorsky S-61N-II,False
+3241,3241,Boeing B-767-233ER,False
+3242,3242,Piper PA-31-350 Chieftain,False
+3243,3243,Tupolev TU-134A,False
+3244,3244,Boeing B-747-230B,False
+3245,3245,Britten-Norman BN-2A-21 Islander,False
+3246,3246,Hawker Siddeley Trident 2E /  II-28,False
+3247,3247,Boeing B-737-2P6,False
+3248,3248,Britten-Norman BN-2A-26 Trislander,False
+3249,3249,Embraer 110C Bandeirante,False
+3250,3250,de Havilland Canada DHC-6 Twin Otter 300,False
+3251,3251,Hawker Siddeley HS-748-FAA,False
+3252,3252,Shorts 330-200,False
+3253,3253,Boeing B-737-200,False
+3254,3254,de Havilland Canada DHC-6 Twin Otter 300,False
+3255,3255,Boeing B-747-283B,False
+3256,3256,Fokker F-28 Fellowship 2000,False
+3257,3257,Boeing B-727-200 / DC9-32,False
+3258,3258,Boeing 707-373C,False
+3259,3259,de Havilland Canada DHC-6 Twin Otter 200,False
+3260,3260,Antonov AN-24,False
+3261,3261,CASA 212-A3 Aviocar 100,False
+3262,3262,Mi-6,False
+3263,3263,Douglas DC-3,False
+3264,3264,Tupolev TU-134A,False
+3265,3265,Douglas EC-54U,False
+3266,3266,Antonov An-24RV,False
+3267,3267,Swearingen SA.226TC Metro II,False
+3268,3268,Antonov AN-12,False
+3269,3269,Bell UH-1H / Bell UH-1H,False
+3270,3270,McDonnell Douglas DC-10-30,False
+3271,3271,Curtiss C-46A,False
+3272,3272,Fairchild F-27M,False
+3273,3273,Douglas C-54,False
+3274,3274,Sikorsky CH-53D,False
+3275,3275,Cessna 402B,False
+3276,3276,Embraer 110EJ Band./Embraer 110P Band.,False
+3277,3277,McDonnel F-4E Phantom II,False
+3278,3278,Lockheed L-188AF Electra,False
+3279,3279,Learjet 23A,False
+3280,3280,Aerospeciale AS-350D,False
+3281,3281,Embraer 110C Bandeirante,False
+3282,3282,Bell UH-1H,False
+3283,3283,Lockheed C-141B,False
+3284,3284,de Havilland Canada DHC-6 Twin Otter 300,False
+3285,3285,Britten-Norman BN-2A Islander,False
+3286,3286,Antonov AN-12BP,False
+3287,3287,Fokker F-27 Friendship 600,False
+3288,3288,Douglas DC-3,False
+3289,3289,Douglas C-47A,False
+3290,3290,Beechcraft C99 / Rockwell 112TC,False
+3291,3291,Boeing B-737-2H7C,False
+3292,3292,Britten-Norman BN-2A-20 Islander,False
+3293,3293,Cessna 402C,False
+3294,3294,Handley Page Dart Herald 202,False
+3295,3295,Antonov An-2T,False
+3296,3296,McDonnell Douglas DC-8F-55,False
+3297,3297,Antonov AN-12,False
+3298,3298,de Havilland Canada DHC-6 Twin Otter 100,False
+3299,3299,Tupolev TU-154B,False
+3300,3300,de Havilland Canada DHC-6 Twin Otter 100,False
+3301,3301,Ilyushin IL-76M,False
+3302,3302,Douglas C-47B,False
+3303,3303,de Havilland Canada DHC-6 Twin Otter 300,False
+3304,3304,LET 410 M,False
+3305,3305,Embraer 110P1 Bandeirante,False
+3306,3306,de Havilland Canada DHC-6 Twin Otter 300,False
+3307,3307,de Havilland Canada DHC-6 Twin Otter 300,False
+3308,3308,Tupolev TU-154B-2,False
+3309,3309,Boeing B-727-225 Adv,False
+3310,3310,Lockheed L-188AF Electra,False
+3311,3311,Antonov AN-24B,False
+3312,3312,Ilyushin IL-18D,False
+3313,3313,Bell 206 L-1,False
+3314,3314,Lockheed L-188A Electra,False
+3315,3315,Lockheed C-130A,False
+3316,3316,de Havilland Canada DHC-6 Twin Otter 300,False
+3317,3317,Embraer 110P1 Bandeirante,False
+3318,3318,Tupolev TU-134A,False
+3319,3319,Beech Queen Air 65-A80,False
+3320,3320,Boeing B-747-SP-09,False
+3321,3321,Boeing B-727-256,False
+3322,3322,Antonov AN-24V,False
+3323,3323,Boeing RC-135T,False
+3324,3324,Lockheed C-130E Hercules,False
+3325,3325,Fokker F-28 Fellowship 3000,False
+3326,3326,HS-125-700B,False
+3327,3327,Boeing B-737-200,False
+3328,3328,Boeing B-727-227,False
+3329,3329,Convair CV-440,False
+3330,3330,Fokker F-27 Friendship 100,False
+3331,3331,Tupolev TU-134A / Antonov An-26,False
+3332,3332,CH-53D,False
+3333,3333,Convair CV-580,False
+3334,3334,Grumman G-159 Gulfstream I,False
+3335,3335,Boeing B-727-231,False
+3336,3336,Embraer 110P Bandeirante,False
+3337,3337,Boeing B-747-237B,False
+3338,3338,Tupolev TU-154B-2,False
+3339,3339,Douglas DC-6B,False
+3340,3340,Lockheed L-1011-1 TriStar,False
+3341,3341,Boeing B-747-SR46,False
+3342,3342,de Havilland Canada DHC-6 Twin Otter 300,False
+3343,3343,Boeing 707-336C,False
+3344,3344,Boeing B-737-236,False
+3345,3345,Beechcraft 99,False
+3346,3346,Boeing KC-135A,False
+3347,3347,Antonov AN-26,False
+3348,3348,McDonnell Douglas DC-9-14,False
+3349,3349,Antonov AN-12,False
+3350,3350,Antonov An-12,False
+3351,3351,Cessna 208 Caravan I,False
+3352,3352,Embraer 110C Bandeirante,False
+3353,3353,IAI 1124 Westwind,False
+3354,3354,Yakovlev YAK-40,False
+3355,3355,Curtiss C-46D,False
+3356,3356,de Havilland Canada DHC-6 Twin Otter 200,False
+3357,3357,Fokker F-27 Friendship 600,False
+3358,3358,Convair CV-340,False
+3359,3359,Lockheed C-130H Hercules,False
+3360,3360,Boeing B-737-266,False
+3361,3361,Antonov AN-26,False
+3362,3362,McDonnell Douglas DC-8 Super 63PF,False
+3363,3363,Short SC7- Skyvan,False
+3364,3364,Douglas DC-3,False
+3365,3365,Sud-Aviation  Caravelle VI-N,False
+3366,3366,Bell 296B,False
+3367,3367,Boeing B-737-2A1,False
+3368,3368,Douglas DC-3A-178,False
+3369,3369,Lockheed L-188AF Electra,False
+3370,3370,Boeing B-737-281,False
+3371,3371,Antonov AN-24B,False
+3372,3372,Embraer 110P1 Bandeirante,False
+3373,3373,CASA 212 Aviocar 100,False
+3374,3374,de Havilland Canada DHC-3 Otter,False
+3375,3375,Antonov An-12AP,False
+3376,3376,Sepecat Jaguar A,False
+3377,3377,Antonov AN-26,False
+3378,3378,Boeing B-727-264,False
+3379,3379,Boeing B-727,False
+3380,3380,Lockheed HC-130P Hercules,False
+3381,3381,de Havilland Canada DHC-6 Twin Otter 300,False
+3382,3382,Douglas DC-6,False
+3383,3383,Bell UH-1H / Bell UH-1H (helicopters),True
+3384,3384,Lockheed L-1011-100,False
+3385,3385,Dassault Breguet Atlantique,False
+3386,3386,Douglas C-47,False
+3387,3387,Fokker F-27 Friendship 500,False
+3388,3388,de Havilland Canada DHC-6 Twin Otter 300,False
+3389,3389,de Havilland Can. DHC-6 -300/ Bell 206B,False
+3390,3390,Tupolev TU-134A,False
+3391,3391,Douglas C-47A,False
+3392,3392,de Havilland Canada DHC-6 Twin Otter 300,False
+3393,3393,Lockheed C130D,False
+3394,3394,Fokker F-27 Friendship 400M,False
+3395,3395,Howard 250,False
+3396,3396,MD Douglas DC-9-32 / Piper PA-28-181,False
+3397,3397,Boeing B-747-121,False
+3398,3398,Lockheed C-130A Hercules,False
+3399,3399,Embraer 120RT Brasilia,False
+3400,3400,Short SC-7 Skyvan Variant,False
+3401,3401,Lockheed L-100-30 Hercules,False
+3402,3402,LET 410MT Turbojet,False
+3403,3403,Boeing 737-286,False
+3404,3404,Tupolev TU-134A,False
+3405,3405,Tupolev TU-134A,False
+3406,3406,Enstrom F-28F,False
+3407,3407,Fokker F-27 Friendship 600,False
+3408,3408,Mil Mi-17 (helicopter),True
+3409,3409,Lockheed C-130,False
+3410,3410,Boeing-Vertol Chinook,False
+3411,3411,Ilyushin IL-18,False
+3412,3412,Tupolev TU-134A,False
+3413,3413,Antonov AN-24RV,False
+3414,3414,Boeing B-737-270C,False
+3415,3415,de Havilland DH-114 Heron 2B,False
+3416,3416,CASA 212-100,False
+3417,3417,Boeing B-707-379C,False
+3418,3418,Antonov AN-12,False
+3419,3419,Swearingen SA-226TC / Mooney M-20C,False
+3420,3420,Yakovlev YAK-40,False
+3421,3421,Embraer 110P2 Bandeirante,False
+3422,3422,Antonov AN-26,False
+3423,3423,CASA 212 Aviocar 200,False
+3424,3424,Antonov An-26,False
+3425,3425,Boeing KC-135,False
+3426,3426,F-4C Phantom jet fighter,False
+3427,3427,Antonov AN-26,False
+3428,3428,McDonnell Douglas DC-9-32,False
+3429,3429,Boeing 707-351C,False
+3430,3430,Swearingen SA-26TC Metro II,False
+3431,3431,Cessna 404 Titan II,False
+3432,3432,CASA 212 Aviocar 200,False
+3433,3433,Ilyushin IL-62M,False
+3434,3434,Douglas C-47B,False
+3435,3435,de Havilland Canada DHC-6 Twin Otter 300,False
+3436,3436,de Havilland Canada DHC-6 Twin Otter 300,False
+3437,3437,de Havilland Canada DHC-6 Twin Otter 100,False
+3438,3438,Antonov AN-26,False
+3439,3439,Antonov AN-26,False
+3440,3440,Yakovlev YAK-40,False
+3441,3441,Fokker F-27 Friendship 200,False
+3442,3442,Hawker Siddeley HS-748-209 Srs. 2,False
+3443,3443,Lockheed C-130E Hercules,False
+3444,3444,McDonnell Douglas DC-10-30,False
+3445,3445,Boeing B-377 Stratofreighter,False
+3446,3446,Boeing B-737-2A1,False
+3447,3447,McDonnell Douglas MD-82,False
+3448,3448,Boeing B-737-2P5,False
+3449,3449,Hawker Siddeley HS-125-403B,False
+3450,3450,Antonov AN-26,False
+3451,3451,Airbus A.300B4-203,False
+3452,3452,de Havilland Canada DHC-6 Twin Otter 310,False
+3453,3453,Fokker F-27 Friendship 500,False
+3454,3454,Aerospatiale Alenia ATR-42-312,False
+3455,3455,Antonov An-12B,False
+3456,3456,A-7D Corsair,False
+3457,3457,Shorts SC-7 Skyvan 3-100,False
+3458,3458,McDonnell Douglas DC-9-14,False
+3459,3459,Beechcraft 1900C,False
+3460,3460,Boeing B-747-244B Combi,False
+3461,3461,Boeing B-707-3B5C,False
+3462,3462,Cessna 404 Titan,False
+3463,3463,British Aerospace BAe-146-200A,False
+3464,3464,Fokker F-27 Friendship 400M,False
+3465,3465,Shorts 360-300,False
+3466,3466,Lockheed C-130H,False
+3467,3467,Embraer 120 Brasilia,False
+3468,3468,Aerospatiale SA-330J,False
+3469,3469,de Havilland Canada DHC-6 Twin Otter 300,False
+3470,3470,Boeing B-737-230A,False
+3471,3471,Curtiss C-46A-55,False
+3472,3472,Tupolev TU 154B-2,False
+3473,3473,Ilyushin IL-18D,False
+3474,3474,Swearingen SA.227AC Metro,False
+3475,3475,Britten-Norman BN-2A-26 Trislander,False
+3476,3476,Yakovlev YAK-40,False
+3477,3477,CASA 212 Aviocar 200,False
+3478,3478,Swearingen SA.227AC Metro III,False
+3479,3479,Swearingen SA227-AC,False
+3480,3480,Tupolev TU-134A,False
+3481,3481,Boeing B-727-2H9A,False
+3482,3482,Embraer 110P1 Bandeirante,False
+3483,3483,Fairchild FH-227B,False
+3484,3484,Sikorsky UH-60A / Sikorsky UH-60A,False
+3485,3485,Boeing B-727-21,False
+3486,3486,Douglas DC-8-55F,False
+3487,3487,Boeing B-747-200,False
+3488,3488,Antonov AN-26,False
+3489,3489,Douglas DC-3C,False
+3490,3490,Let 410UVP Turolet,False
+3491,3491,Antonov AN-26,False
+3492,3492,Boeing B-737-297,False
+3493,3493,de Havilland Canada DHC-7-102,False
+3494,3494,Boeing B-737-3T0,False
+3495,3495,Douglas DC-6,False
+3496,3496,Fokker F-27 Friendship 600,False
+3497,3497,McDonnell Douglas MD-81,False
+3498,3498,Mil Mi-8 (helicopter),True
+3499,3499,Airbus A320-111,False
+3500,3500,Airbus A300B2-203,False
+3501,3501,Canadair CL-44J,False
+3502,3502,Douglas C-118A,False
+3503,3503,Boeing 707-328C,False
+3504,3504,Yakovlev YAK-40,False
+3505,3505,Antonov AN-22,False
+3506,3506,Lockheed C-130B Hercules,False
+3507,3507,Let 410MU,False
+3508,3508,Convair CV-240,False
+3509,3509,Hawker Siddeley HS-121 Trident 2E,False
+3510,3510,Boeing B-727-232 Adv,False
+3511,3511,Embraer 110P1 Bandeirante,False
+3512,3512,Tupolev TU-134A,False
+3513,3513,Lockheed L-188A Electra,False
+3514,3514,Boeing B-737-230,False
+3515,3515,Antonov AN-26,False
+3516,3516,Beech King Air F90,False
+3517,3517,Antonov 12BP,False
+3518,3518,Ilyushin IL-14P,False
+3519,3519,Boeing KC-135A,False
+3520,3520,Boeing B-707-338C,False
+3521,3521,Boeing B-737-2A8,False
+3522,3522,Fokker F-27 Friendship 100,False
+3523,3523,Fokker F-28 Fellowship 1000,False
+3524,3524,Antonov AN-24B,False
+3525,3525,Embraer 110P1 Bandeirante,False
+3526,3526,Swearingen SA-226TC Metro II,False
+3527,3527,de Havilland Canada DHC-6 Twin Otter 300,False
+3528,3528,Let 410UVP,False
+3529,3529,Douglas DC-7CF,False
+3530,3530,Antonov AN-32,False
+3531,3531,Ilyushin IL-76 / Mi-8 (helicopter),True
+3532,3532,Boeing B-707-321C,False
+3533,3533,Boeing B-747-121A,False
+3534,3534,Boeing B-737-4Y0,False
+3535,3535,Boeing KC-135A,False
+3536,3536,Fokker F-27 Friendship 600,False
+3537,3537,Vickers 952F Vanguard,False
+3538,3538,Boeing B-707-331B,False
+3539,3539,Boeing 747-249F,False
+3540,3540,Boeing B-747-122,False
+3541,3541,Douglas C-47A,False
+3542,3542,Britten Norman BN-2A Trislander,False
+3543,3543,Fokker F-28 Fellowship 1000,False
+3544,3544,NAMC YS-11A-300F,False
+3545,3545,McDonnell Douglas DC-9-33RC,False
+3546,3546,Sikorsky CH-53D,False
+3547,3547,Boeing B-707-349C,False
+3548,3548,Fairchild FH-227B,False
+3549,3549,Pilatus PC-6 Turbo Porter,False
+3550,3550,Aérospatiale SE-210 Caravelle,False
+3551,3551,Britten Norman BN-2A Trislander II,False
+3552,3552,Beechcraft 99,False
+3553,3553,Bell 412,False
+3554,3554,McDonnell Douglas DC-8 Super 62,False
+3555,3555,de Havilland Canada DHC-6 Twin Otter 300,False
+3556,3556,Ilyushin IL-62MK,False
+3557,3557,Antonov AN-26,False
+3558,3558,de Havilland Canada DHC-5D Buffalo,False
+3559,3559,Cessna 404 Titan Courier II,False
+3560,3560,Hawker Siddeley HS-748-435 Srs. 2,False
+3561,3561,Fokker F-27 Friendship 600RF,False
+3562,3562,Dassault Falcon 20,False
+3563,3563,Beech E18S,False
+3564,3564,Antonov AN-26,False
+3565,3565,McDonnell Douglas DC-10-10,False
+3566,3566,de Havilland Canada DHC-6 Twin Otter 300,False
+3567,3567,BAC One-Eleven 516FP,False
+3568,3568,Mil Mi-8 / Mil Mi-8,False
+3569,3569,Antonov AN-26,False
+3570,3570,Sikorsky S-58T,False
+3571,3571,McDonnell Douglas DC-10-30,False
+3572,3572,Convair CV-580,False
+3573,3573,Shorts 330-200,False
+3574,3574,de Havilland DHC-6 Twin Otter 300,False
+3575,3575,Britten-Norman BN-2A-26 Trislander,False
+3576,3576,Cessna 177RG,False
+3577,3577,Antonov AN-24RV,False
+3578,3578,Fokker F-27 Friendship 200,False
+3579,3579,Boeing B-737-241,False
+3580,3580,Ilyushin IL-62M,False
+3581,3581,Convair CV-580,False
+3582,3582,Beech King Air B100,False
+3583,3583,de Havilland Canada DHC-6 Twin Otter 300,False
+3584,3584,McDonnell Douglas DC-10-30,False
+3585,3585,Military - U.S. Air Force,False
+3586,3586,Boeing B-737-401,False
+3587,3587,Mil Mi-8 (helicopter),True
+3588,3588,Mil Mi-17 ( helicopter),True
+3589,3589,Dornier Do-288-201,False
+3590,3590,Swearingen SA.227AC Metro III,False
+3591,3591,de Havilland Canada DHC-6 Twin Otter 300,False
+3592,3592,Antonov An-32,False
+3593,3593,Boeing KC-135A,False
+3594,3594,Cessna 208 Caravan I,False
+3595,3595,Agusta A109A MK II,False
+3596,3596,Cessna 402C Utililiner,False
+3597,3597,Ilyushin IL-76MD,False
+3598,3598,Ilyushin IL-76TD,False
+3599,3599,Boeing B-727-224,False
+3600,3600,Antonov AN-26,False
+3601,3601,Boeing B-737-209,False
+3602,3602,de Havilland DHC-6 Twin Otter 300,False
+3603,3603,Britten-Norman BN-2A Islander,False
+3604,3604,Casa 212 Aviocar,False
+3605,3605,Antonov AN-24,False
+3606,3606,Mil Mi-4 / Mil Mi-4,False
+3607,3607,Fokker F-28 Fellowship 4000,False
+3608,3608,Boeing B-727-21,False
+3609,3609,Lockheed L-100-20 Hercules,False
+3610,3610,Cessna 402,False
+3611,3611,Britten-Norman BN-2A Islander,False
+3612,3612,CASA 212 Aviocar 200,False
+3613,3613,Lockheed C-130A,False
+3614,3614,British Aerospace 3101 Jetstream 31,False
+3615,3615,Antonov An-24RV,False
+3616,3616,Cessna 207 / Cessna 207,False
+3617,3617,CASA 212 Aviocar 200,False
+3618,3618,Tupolev TU-134A,False
+3619,3619,CASA 212 Aviocar 200,False
+3620,3620,Cessna 208A Caravan I Cargomaster,False
+3621,3621,CASA 212-200 Aviocar,False
+3622,3622,Hawker Siddeley HS-748-2A,False
+3623,3623,Boeing B-707-321B,False
+3624,3624,Antonov AN-26V,False
+3625,3625,Nord 262C-66,False
+3626,3626,Cessna 208B Caravan I,False
+3627,3627,Cessna 208B Caravan I Super Cargomaster,False
+3628,3628,Grumman G-159 Gulfstream I,False
+3629,3629,Fokker 27 Friendship 200,False
+3630,3630,Airbus A320-231,False
+3631,3631,DHC-5 Buffalo,False
+3632,3632,Cessna 208A Caravan I Cargomaster,False
+3633,3633,MiG-23,False
+3634,3634,Sikorsky S-58ET (helilcopter),False
+3635,3635,Lockheed L-188CF Electra,False
+3636,3636,Antonov AN-26,False
+3637,3637,Ilyushin IL-76MD,False
+3638,3638,CASA 212 Aviocar 300,False
+3639,3639,de Havilland Canada DHC-6 Twin Otter 300,False
+3640,3640,de Havilland Canada DHC-6 Twin Otter 200,False
+3641,3641,Lockheed C-130H,False
+3642,3642,Douglas DC-3 (C-47A-30-DK),False
+3643,3643,Beechcraft C99,False
+3644,3644,Avro Shackleton AEW-2,False
+3645,3645,Douglas DC-6BF,False
+3646,3646,Fairchild F-27,False
+3647,3647,Transall C-160D,False
+3648,3648,Boeing B-737-3Y0,False
+3649,3649,Beechcraft 1900C-1,False
+3650,3650,Fairchild FH-227B,False
+3651,3651,de Havilland Canada DHC-6 Twin Otter 300,False
+3652,3652,BAC One-Eleven 528FL,False
+3653,3653,Britten-Norman 2B-21 Islander,False
+3654,3654,Mil Mi-8 (helicopter),True
+3655,3655,Beech King Air B90,False
+3656,3656,Yakovlev YAK-40,False
+3657,3657,Antonov AN-12,False
+3658,3658,Bell BHT-206-B Helicopter,True
+3659,3659,Lockheed C-5A,False
+3660,3660,Piper PA-31-325 Navajo,False
+3661,3661,Boeing B-727-247,False
+3662,3662,Cessna 441 Conquest II,False
+3663,3663,Yakovlev YAK-42,False
+3664,3664,Embraer 110P1 Bandeirante,False
+3665,3665,Cessna 501 Citation,False
+3666,3666,Boeing B-737-247 / Boeing B-757-21B,False
+3667,3667,McDonnell Douglas DC-9-31,False
+3668,3668,Douglas C-47B-40-DK,False
+3669,3669,Yakovlev YAK-40,False
+3670,3670,McDonnell Douglas DC-9-32,False
+3671,3671,CASA 212 Aviocar 200,False
+3672,3672,Mil Mi-8T,False
+3673,3673,de Havilland Canada DHC-8-103,False
+3674,3674,Aerospatiale 330J Puma,False
+3675,3675,Boeing B-727-251 / MD Douglas DC-9-14,False
+3676,3676,Boeing B-707-320F,False
+3677,3677,IPTN 332C Super Puma,False
+3678,3678,CASA 212 Aviocar 200,False
+3679,3679,CASA 212 Aviocar 200,False
+3680,3680,Military - U.S. Air Force,False
+3681,3681,Boeing B-737-300 / Swearingen SA-227AC,False
+3682,3682,Lockheed C-130H,False
+3683,3683,de Havilland Canada DHC-6 Twin Otter 300,False
+3684,3684,McDonnell Douglas DC-9-15RC,False
+3685,3685,British Aerospace BAE-146-200A,False
+3686,3686,Antonov AN-26,False
+3687,3687,Boeing B-737-291,False
+3688,3688,McDonnell Douglas DC-9-32,False
+3689,3689,Hawker-Siddeley DH-125-1A/522,False
+3690,3690,Lockheed L-100-30 Hercules,False
+3691,3691,Lockheed C-130H,False
+3692,3692,Lockheed P-3C / Lockheed P-3C,False
+3693,3693,Antonov AN-24B,False
+3694,3694,Hindustan Aeronautics 748-2,False
+3695,3695,Douglas C-47B-15-DK,False
+3696,3696,Piper Aerostar 601 / Bell 412SP,False
+3697,3697,Embraer 120RT- Brasilia,False
+3698,3698,Dornier Do-228-212,False
+3699,3699,Fokker F-27 Friendship 600,False
+3700,3700,Cessna 207A,False
+3701,3701,Douglas C-47B,False
+3702,3702,Tupolev TU-154B-1,False
+3703,3703,Ilyushin 76TD,False
+3704,3704,Boeing B-767-3Z9ER,False
+3705,3705,GAF Nomad N24A,False
+3706,3706,Lockheed L-382B Hercules,False
+3707,3707,Douglas DC-6BF,False
+3708,3708,Antonov AN-24,False
+3709,3709,BAC One-Eleven 402AP,False
+3710,3710,de Havilland Canada DHC-6 Twin Otter 300,False
+3711,3711,CASA 212 Aviocar 200,False
+3712,3712,Beechcraft BE-99-C99,False
+3713,3713,McDonnell Douglas DC-8 Super 61,False
+3714,3714,Britten-Norman BN-2A-6 Islander,False
+3715,3715,Britten-Norman BN-2A-6 Islander,False
+3716,3716,Ilyushin IL-18V,False
+3717,3717,Boeing B-737-2A8,False
+3718,3718,Britten-Norman BN-2A-6 Islander,False
+3719,3719,Aerospatiale 350B1,False
+3720,3720,Britten-Norman BN-2A-21,False
+3721,3721,Shorts SC-7 Skyvan 3-100,False
+3722,3722,Embraer 120RT Brasilia,False
+3723,3723,Antonov AN-72,False
+3724,3724,Lockheed L-100-30 Hercules,False
+3725,3725,Convair CV-580,False
+3726,3726,Antonov 12BP,False
+3727,3727,Antonov AN-26,False
+3728,3728,de Havilland Canada DHC-6 Twin Otter 300,False
+3729,3729,Curtiss C-46A,False
+3730,3730,Lockheed C-130H-30,False
+3731,3731,Bell 214 ST,False
+3732,3732,Bell 206B helicopter,True
+3733,3733,Britten-Norman BN2A-III-2 Trislander,False
+3734,3734,Lockheed CC-130E,False
+3735,3735,Mil Mi-8 (helicopter),True
+3736,3736,Yakovlev YAK-40,False
+3737,3737,Embraer 110P1 Bandeirante,False
+3738,3738,Antonov AN-12V,False
+3739,3739,Bell 206B,False
+3740,3740,Mil Mi-8 (helicopter),True
+3741,3741,Douglas C-47B-DK,False
+3742,3742,Antonov AN-24,False
+3743,3743,Embraer C-95C Bandeirante,False
+3744,3744,Douglas DC-3A,False
+3745,3745,Mc Donnell Douglas MD-81,False
+3746,3746,Boeing B-747-2R7F,False
+3747,3747,Airbus A320-111,False
+3748,3748,Mil Mi-8 (helicopter),True
+3749,3749,Embraer 110C Bandeirante,False
+3750,3750,Convair CV- 640,False
+3751,3751,McDonnell Douglas DC-8-63F,False
+3752,3752,Boeing B-747,False
+3753,3753,Curtiss C-46T,False
+3754,3754,de Havilland Canada DHC-6 Twin Otter 300,False
+3755,3755,Fokker F-28 Fellowship 4000,False
+3756,3756,Boeing 707-321C,False
+3757,3757,Let 410UVP,False
+3758,3758,Antonov AN-24RV,False
+3759,3759,Britten Norman BN-2A-26 Trislander,False
+3760,3760,de Havilland DHC-5 Buffalo,False
+3761,3761,Embraer 110P1 Bandeirante,False
+3762,3762,de Havilland Canada DHC-6 Twin Otter 200,False
+3763,3763,Beechcraft E18S,False
+3764,3764,Fokker F-27 Friendship 400M,False
+3765,3765,Boeing B-737-204,False
+3766,3766,CASA 212 Aviocar 200,False
+3767,3767,Boeing 737-2A1C,False
+3768,3768,Antonov AN-12,False
+3769,3769,Shaanxi Y-8D,False
+3770,3770,Shorts SC-7 Skyvan 3A-200,False
+3771,3771,Antonov AN-12V,False
+3772,3772,Antonov An-12,False
+3773,3773,Tupolev TU-154B,False
+3774,3774,Antonov 12BK,False
+3775,3775,Vickers Viscount 816,False
+3776,3776,Vickers 798D Viscount,False
+3777,3777,Lockheed L-1011,False
+3778,3778,Airbus A310-304,False
+3779,3779,Yakovlev YAK-42D,False
+3780,3780,Convair CV-440-80,False
+3781,3781,Swearingen SA-227AC Metro III,False
+3782,3782,de Havilland Canada DHC-6 Twin Otter 300,False
+3783,3783,de Havilland Canada DHC-4T Caribou,False
+3784,3784,Tupolev TU-134A,False
+3785,3785,Douglas DC-3,False
+3786,3786,Fokker F-27 Friendship 500,False
+3787,3787,Mil Mi-8 (helicopter),True
+3788,3788,Aerospatiale AS-350B,False
+3789,3789,Douglas C-118A,False
+3790,3790,Curtiss C-46F-1-CU,False
+3791,3791,Mil Mi-8 (helicopter),True
+3792,3792,Lockheed C-130H,False
+3793,3793,Airbus A300B4-203,False
+3794,3794,Boeing B-747-258F,False
+3795,3795,Lockheed C-130E Hercules,False
+3796,3796,Avia 14M-40,False
+3797,3797,Antonov 32,False
+3798,3798,CASA 235-10,False
+3799,3799,Antonov AN-28,False
+3800,3800,de Havilland Canada DHC-6 Twin Otter 300,False
+3801,3801,Antonov AN-8,False
+3802,3802,Mil Mi-8 (helicopter),True
+3803,3803,Antonov AN-22A,False
+3804,3804,Yakovlev YAK-40,False
+3805,3805,Ilyushin IL-18D,False
+3806,3806,Boeing B-737-3Y0,False
+3807,3807,Lockheed C-141B / Lockheed C141B,False
+3808,3808,Britten-Norman BN-2B-27 Islander,False
+3809,3809,Fokker F-27 Friendship 400M,False
+3810,3810,Mil Mi 8T (helicopter),True
+3811,3811,McDonnell Douglas DC-10-30CF,False
+3812,3812,Boeing B-727-2L5 / MiG23UB,False
+3813,3813,Bell 206B3,False
+3814,3814,de Havilland Canada DHC-8-301,False
+3815,3815,Hawker Siddeley HS-748-234,False
+3816,3816,Embraer 110P1 Bandeirante,False
+3817,3817,Douglas C-47A,False
+3818,3818,Nord 262A-44,False
+3819,3819,Shorts SC-7 Skyvan 3-100,False
+3820,3820,Tupolev TU-154M / Sukhoi Su-24,False
+3821,3821,Mil Mi-8,False
+3822,3822,Convair CV-440,False
+3823,3823,Dornier 228-201,False
+3824,3824,Fokker 100,False
+3825,3825,Embraer EMB-110 Bandeirante,False
+3826,3826,Boeing B-747-466,False
+3827,3827,Fairchild SA227-TT,False
+3828,3828,McDonnell Douglas DC-9-15,False
+3829,3829,McDonnell Douglas MD-11,False
+3830,3830,Mitsubishi MU-2B-60,False
+3831,3831,Antonov AN-26B,False
+3832,3832,Boeing B-737-2A8,False
+3833,3833,de Havilland  Canada  DHC-5D Buffalo,False
+3834,3834,Antonov AN-32,False
+3835,3835,Britten-Norman BN-2A-6 Islander,False
+3836,3836,Douglas DC-6BF,False
+3837,3837,Boeing B-727-46,False
+3838,3838,de Havilland Canada DHC-6 Twin Otter 300,False
+3839,3839,Britten-Norman  BN-2A-20 Trislander,False
+3840,3840,de Havilland Canada DHC-6 Twin Otter 300,False
+3841,3841,Antonov AN-26,False
+3842,3842,Fokker F-28 Fellowship 3000,False
+3843,3843,Mil Mi-8,False
+3844,3844,"Helicopter, Hughes 369HS",True
+3845,3845,British Aerospace 146-300,False
+3846,3846,Boeing B-737-5L9,False
+3847,3847,Shorts SC-7 Skyvan 3-100,False
+3848,3848,Dornier Do-228-101,False
+3849,3849,McDonnell Douglas DC-8-61,False
+3850,3850,Let 410UVP-E,False
+3851,3851,Yakovlev YAK-40,False
+3852,3852,Airbus A320-211,False
+3853,3853,Tupolev TU-134A,False
+3854,3854,Tupolev TU-154B,False
+3855,3855,Mil Mi-8 (helicopter),True
+3856,3856,GAF Nomad N-22,False
+3857,3857,McDonnell Douglas MD-82,False
+3858,3858,de Havilland Canada DHC-6 Twin Otter 300,False
+3859,3859,Hawker Siddeley HS-748-234 Srs. 2A,False
+3860,3860,McDonnell Douglas MD-82,False
+3861,3861,Antonov AN-124,False
+3862,3862,Yakovlev YAK-42D,False
+3863,3863,British Aerospace Jetstream BA-3100,False
+3864,3864,Britten Norman BN-2A Trislander7,False
+3865,3865,DHC-6 Twin Otter 300 / NAMC YS-11,False
+3866,3866,Yunshuji Y-12-II,False
+3867,3867,Lockheed C-130H,False
+3868,3868,Antonov AN-26,False
+3869,3869,Tupolev TU-154M,False
+3870,3870,British Aerospace Jetstream 4101,False
+3871,3871,Antonov AN-12V,False
+3872,3872,Vickers 813 Viscount,False
+3873,3873,Yakovlev YAK-40,False
+3874,3874,McDonnell Douglas MD-82,False
+3875,3875,Boeing 737-2R4C,False
+3876,3876,Lockheed C-130H Hercules,False
+3877,3877,Lockheed Hercules C-130,False
+3878,3878,Grumman G-73T Turbo Mallard,False
+3879,3879,Douglas DC-3C,False
+3880,3880,Britten-Norman BN-2A-21 Trislander,False
+3881,3881,Airbus A310-304,False
+3882,3882,Bell 206B3,False
+3883,3883,Saab 340B,False
+3884,3884,Dassault Falcon 50,False
+3885,3885,de Havilland Canada DHC-6 Twin Otter 300,False
+3886,3886,Sikorsky UH-60 / Sikorsky UH-60,False
+3887,3887,Britten Norman BN-2A-21 Trislander,False
+3888,3888,Airbus A300B4-622R,False
+3889,3889,Embraer 110 Bandeirante,False
+3890,3890,Pilatus Britten-Norman BN-2B-27 Islander,False
+3891,3891,Douglas DC-3 (C-53D-DO),False
+3892,3892,Boeing Vertol Chinook HC-2 (helicopter),True
+3893,3893,Tupolev TU-154M,False
+3894,3894,Swearingen SA.226TC Metro II,False
+3895,3895,Fokker F-27 Friendship 500F,False
+3896,3896,Learjet 25D,False
+3897,3897,Fokker F-27 Friendship 400M,False
+3898,3898,Antonov AN-32,False
+3899,3899,Airbus A330-321,False
+3900,3900,Fokker F-28 Fellowship 4000,False
+3901,3901,McDonnell Douglas DC-9-30,False
+3902,3902,Aerospatiale AS350D,False
+3903,3903,Britten-Norman BN-2B-26 Islander,False
+3904,3904,Yakovlev 40D,False
+3905,3905,Embraer 110P1 Bandeirante,False
+3906,3906,Sikorsky S-58ET,False
+3907,3907,Antonov AN-12,False
+3908,3908,de Havilland DHC-2,False
+3909,3909,Airbus A300B4-622R,False
+3910,3910,de Havilland DHC-2,False
+3911,3911,Bell 206L-4,False
+3912,3912,Aerospatiale ATR-42-300,False
+3913,3913,Boeing B-737-3B7,False
+3914,3914,de Havilland Canada DHC-6 Twin Otter 300,False
+3915,3915,de Havilland Canada DHC-6 Twin Otter 100,False
+3916,3916,BAC One-Eleven 515FB,False
+3917,3917,Lockheed L-100-30 Hercules,False
+3918,3918,Yakovlev YAK-40,False
+3919,3919,Douglas C-47D,False
+3920,3920,Antonov AN-8,False
+3921,3921,Antonov AN-32B,False
+3922,3922,Fokker F-28 Fellowship 1000,False
+3923,3923,Lockheed C-130E,False
+3924,3924,Mil Mi-8MTV (helicopter),True
+3925,3925,Antonov AN-12A,False
+3926,3926,Antonov AN-2,False
+3927,3927,ATR-72-212,False
+3928,3928,Bell 212,False
+3929,3929,de Havilland Canada DHC-6 Twin Otter 100,False
+3930,3930,Yakovlev YAK-40,False
+3931,3931,Beechcraft C99,False
+3932,3932,Britten Norman BN-2A Trislander,False
+3933,3933,McDonnell Douglas DC-9-82 / Cessna 441,False
+3934,3934,Mil Mi-17 (helicopter),True
+3935,3935,Boeing B-747-200,False
+3936,3936,British Aerospace Jetstream 3201,False
+3937,3937,Douglas DC-3,False
+3938,3938,Douglas C-47A-10-DK,False
+3939,3939,de Havilland Canada DHC-6 Twin Otter 200,False
+3940,3940,Boeing 737-2D6C,False
+3941,3941,Airbus A300B2-1C,False
+3942,3942,Boeing B-737-4Y0,False
+3943,3943,Lockheed 1329 Jetstar 8,False
+3944,3944,de Havilland Canada DHC-6 Twin Otter 300,False
+3945,3945,McDonnell Douglas DC-9-14,False
+3946,3946,Bell 206B,False
+3947,3947,de Havilland Canada DHC-6 Twin Otter 300,False
+3948,3948,Let 410UVP,False
+3949,3949,Dassault Falcon 20E,False
+3950,3950,McDonnell Douglas DC-8-63F,False
+3951,3951,Antonov 26B,False
+3952,3952,Airbus A310-324,False
+3953,3953,de Havilland Canada DHC-6 Twin Otter 300,False
+3954,3954,Hawker Siddeley HS-748-357/2B SCD,False
+3955,3955,Swear. SA-227CC Metro 23/Piper Navajo,False
+3956,3956,Grumman Gulfstream II,False
+3957,3957,Curtiss C-46F,False
+3958,3958,Lockheed C-130E Hercules,False
+3959,3959,Embraer 110 P1 Bandeirante,False
+3960,3960,Douglas DC-3C,False
+3961,3961,Piper PA-31-310 Navajo,False
+3962,3962,de Havilland Canada DHC-8-102,False
+3963,3963,Antonov 2R,False
+3964,3964,Antonov AN-2,False
+3965,3965,CASA 212-200 Aviocar,False
+3966,3966,Tupolev TU-134A,False
+3967,3967,Convair CV-440,False
+3968,3968,de Havilland Canada C-7A Caribou,False
+3969,3969,de Havilland Canada DHC-6 Twin Otter 300,False
+3970,3970,de Havilland Canada DHC-6 Twin Otter 300,False
+3971,3971,Douglas C-47A,False
+3972,3972,Britten-Norman BN-2A Islander,False
+3973,3973,Antonov An-2R,False
+3974,3974,Hawker Siddeley HS-748 2A,False
+3975,3975,Boeing B-737-2H6,False
+3976,3976,Embraer 110P1 Bandeirante,False
+3977,3977,Embraer 120-RT Brasilia,False
+3978,3978,Shorts SC-7 Skyvan,False
+3979,3979,Cessna 421C Golden Eagle,False
+3980,3980,British Aerospace Nimrod MR-2P,False
+3981,3981,CASA 212 Aviocar 200,False
+3982,3982,Antonov AN-26B,False
+3983,3983,Antonov AN-32,False
+3984,3984,Fokker 50,False
+3985,3985,Antonov AN-24RV,False
+3986,3986,Boeing B-707 (E-3B),False
+3987,3987,Mil Mi-8T,False
+3988,3988,De Havilland Dash-3,False
+3989,3989,CASA 212,False
+3990,3990,Mil Mi-8MTV-1,False
+3991,3991,Fokker F-27 Friendship 500,False
+3992,3992,Boeing B-737-2F9,False
+3993,3993,Antonov AN-32,False
+3994,3994,Bell 412 (helicopter),True
+3995,3995,Boeing 707-323C,False
+3996,3996,Boeing B-737-2K9,False
+3997,3997,Tupolev TU-134B-3,False
+3998,3998,Tupolev TU-154B,False
+3999,3999,Antonov AN-24B,False
+4000,4000,Lockheed L-188C Electra,False
+4001,4001,Boeing B-757-223,False
+4002,4002,Britten Norman BN-2A-21 Trislander,False
+4003,4003,Britten-Norman BN-2A-27 Islander,False
+4004,4004,Antonov AN-32B,False
+4005,4005,British Aerospace BAe-125-700B,False
+4006,4006,Mil Mi-17 (helicopter),True
+4007,4007,McDonnell Douglas DC-8-55F,False
+4008,4008,ConvairCV-440,False
+4009,4009,Boeing B-757-225,False
+4010,4010,,
+4011,4011,GAF Nomad N-24A,False
+4012,4012,Lockheed C-130H,False
+4013,4013,Antonov 12BP,False
+4014,4014,Boeing B-737-222,False
+4015,4015,Mil Mi-17,False
+4016,4016,Mil Mi-8T (helicopter),True
+4017,4017,Boeing B-737-T43,False
+4018,4018,Ilyushin IL-76TD,False
+4019,4019,Dornier 228-212,False
+4020,4020,Cessna 177B,False
+4021,4021,Antonov AN-24,False
+4022,4022,de Havilland Canada DHC-3 Otter,False
+4023,4023,de Havilland Canada DHC-6 Twin Otter 200,False
+4024,4024,McDonnell Douglas DC-9-32,False
+4025,4025,Britten Norman BN-2A-20 Trislander,False
+4026,4026,Britten-Norman BN-2A-26 Islander,False
+4027,4027,Ilyushin 76MD,False
+4028,4028,Boeing 727-286,False
+4029,4029,Sikorsky S-70 / Sikorsky S-70,False
+4030,4030,McDonnell Douglas DC-10-30,False
+4031,4031,Harbin Yunshuji Y-12-II,False
+4032,4032,McDonnell Douglas MD-88,False
+4033,4033,de Havilland Canada DHC-6 Twin Otter 300,False
+4034,4034,Let 410,False
+4035,4035,Lockheed C-130H,False
+4036,4036,de Havilland Canada DHC-6 Twin Otter 300,False
+4037,4037,Boeing B-747-131,False
+4038,4038,Douglas DC-6A,False
+4039,4039,Fokker F-27 Friendship 600,False
+4040,4040,de Havilland Canada DHC-6 Twin Otter 300,False
+4041,4041,Douglas DC-4,False
+4042,4042,Lockheed C-130H Hercules,False
+4043,4043,de Havilland Canada DHC-3 Turbo Otter,False
+4044,4044,Ilyushin IL-76T,False
+4045,4045,Tupolev TU-154M,False
+4046,4046,Douglas DC-3C,False
+4047,4047,Boeing B-757-200,False
+4048,4048,de Havilland Canada DHC-6 Twin Otter 200,False
+4049,4049,Antonov 12B,False
+4050,4050,Antonov An-124,False
+4051,4051,Boeing B-707-323C,False
+4052,4052,Yakovlev YAK-40,False
+4053,4053,Fokker 100,False
+4054,4054,Embraer 110P1 Bandeirante,False
+4055,4055,Boeing B-727-231,False
+4056,4056,Cessna 421C Golden Eagle,False
+4057,4057,Boeing B-747-168B / Ilyushin IL-76TD,False
+4058,4058,Antonov AN-2,False
+4059,4059,Beechcraft 1900-C / Beech King Air A90,False
+4060,4060,Lockheed HC-130P Hercules,False
+4061,4061,Boeing B-767-260ER,False
+4062,4062,Ilyushin IL-76MD,False
+4063,4063,de Havilland Canada DHC-6 Twin Otter 300,False
+4064,4064,CASA 212 Aviocar 100,False
+4065,4065,Douglas C-47A,False
+4066,4066,Antonov AN-12,False
+4067,4067,Antonov An-32B,False
+4068,4068,McDonnell Douglas DC-8-63F,False
+4069,4069,Learjet 35A,False
+4070,4070,Hindustan Aeronautics 748-2,False
+4071,4071,de Havilland Canada DHC-6 Twin Otter 300,False
+4072,4072,Embraer 120RT Brasilia,False
+4073,4073,de Havilland Canada DHC-4A Caribou,False
+4074,4074,Embraer 110P1A Bandeirante,False
+4075,4075,Hawker Siddeley HS-748-353 Srs.2a,False
+4076,4076,CASA 212 Aviocar 200,False
+4077,4077,Sikorsky CH53D / Sikorsky CH53D,False
+4078,4078,Boeing B-737-2C3,False
+4079,4079,IAI 1124 Westwind,False
+4080,4080,Antonov AN-12B,False
+4081,4081,Lockheed C-130HF,False
+4082,4082,Antonov AN-24RV,False
+4083,4083,Lockheed C-130H Hercules,False
+4084,4084,Aviation Traders ATL-98 Carvair,False
+4085,4085,Cessna 208B Caravan I,False
+4086,4086,Fokker F-27 Friendship 600,False
+4087,4087,Yakovlev 40,False
+4088,4088,Lockheed C-130H Hercules,False
+4089,4089,British Aerospace ATP,False
+4090,4090,Antonov AN-26,False
+4091,4091,Boeing B-737-31B,False
+4092,4092,Vickers Viscount 781D,False
+4093,4093,Harbin Yunshuji Y-12 II,False
+4094,4094,Fokker F-27 Friendship 200,False
+4095,4095,Mil Mi-17 (helicopter),True
+4096,4096,Fokker 100,False
+4097,4097,Antonov AN-24,False
+4098,4098,Fokker F-27 Friendship 600,False
+4099,4099,de Havilland Canada DHC-6 Twin Otter 300,False
+4100,4100,BAC One-Eleven 203AE,False
+4101,4101,Aerospatiale ATR-42-512,False
+4102,4102,Boeing B-747-300,False
+4103,4103,McDonnell Douglas DC-8-61F,False
+4104,4104,Dornier DO-228-212,False
+4105,4105,Pilatus PC-6 Turbo Porter / Cessna 206,False
+4106,4106,Tupolev TU-134,False
+4107,4107,Dornier 228-212,False
+4108,4108,de Havilland Canada DHC-6 Twin Otter 300,False
+4109,4109,Tupolev TU-154M / C-141 Starlifter,False
+4110,4110,Airbus A300-B4-200,False
+4111,4111,Cessna 208B Caravan I,False
+4112,4112,McDonnell Douglas DC-9-32,False
+4113,4113,Lockheed C-130H Hercules,False
+4114,4114,Rutan Long EZ (experimental aircraft),False
+4115,4115,Yakovlev YAK-40,False
+4116,4116,Cessna 208B Caravan I,False
+4117,4117,Antonov AN-124-100,False
+4118,4118,Embraer 110P1 Bandeirante,False
+4119,4119,Swearingen SA-226T Metro II,False
+4120,4120,Tupolev TU-154,False
+4121,4121,Yakovlev YAK-42,False
+4122,4122,Boeing B-737-300,False
+4123,4123,Lockheed C-130H Hercules,False
+4124,4124,Antonov An-72,False
+4125,4125,Boeing B-747-122,False
+4126,4126,Britten Norman BN-2A Trislander,False
+4127,4127,Let 410UVP,False
+4128,4128,Antonov AN-12BP,False
+4129,4129,Fokker F-27 Friendship 600,False
+4130,4130,McDonnell Douglas DC-9-32,False
+4131,4131,Grummand EA-6B,False
+4132,4132,Antonov 12BP,False
+4133,4133,CASA 212-S1 Aviocar 100,False
+4134,4134,Antonov AN-32,False
+4135,4135,Airbus A300-622R,False
+4136,4136,Boeing 707-336C,False
+4137,4137,Saab340B,False
+4138,4138,Boeing B-727-228,False
+4139,4139,Airbus A.320-214,False
+4140,4140,Antonov AN-32,False
+4141,4141,Convair CV-240-53,False
+4142,4142,Boeing B-727-230,False
+4143,4143,Boeing B-737-282,False
+4144,4144,Xian Yunshuji Y-7-100C,False
+4145,4145,Yakovlev YAK-40,False
+4146,4146,Bell 206L-3,False
+4147,4147,Harbin Yunshuji Y-12 II,False
+4148,4148,Swearingen SA-226TC Metroliner II,False
+4149,4149,Eurocopter AS-350-BA,False
+4150,4150,Ilyushin 76MD,False
+4151,4151,Rockwell Sabreliner 60,False
+4152,4152,Ilyushin II-76,False
+4153,4153,Shorts SC-7 Skyvan 3-100,False
+4154,4154,Consolidated PBY-5A Catalina,False
+4155,4155,Swearingen SA.227AC Metro III,False
+4156,4156,Embraer 110 Bandeirante,False
+4157,4157,Beechcraft 1900D / Cessna 177,False
+4158,4158,Dornier 228-201,False
+4159,4159,de Havilland Dash-2 Beaver,False
+4160,4160,Antonov An-12BP,False
+4161,4161,Cessna 402C,False
+4162,4162,de Havilland Canada DHC-6 Twin Otter 300,False
+4163,4163,DC-3-65TP,False
+4164,4164,Fokker F-27 Friendship 600,False
+4165,4165,Tupolev TU-154M,False
+4166,4166,McDonnell Douglas MD-11,False
+4167,4167,Antonov AN-26,False
+4168,4168,de Havilland Dash-2 float plane,False
+4169,4169,Lockheed C-130B Hercules,False
+4170,4170,British Aerospace BAe-146-100,False
+4171,4171,de Havilland Canada DHC-6 Twin Otter 300,False
+4172,4172,Antonov AN-24RV,False
+4173,4173,Douglas DC-3C,False
+4174,4174,Boeing B-727-30,False
+4175,4175,Yakovlev YAK-40,False
+4176,4176,Britten-Norman BN-2A-3 Islander,False
+4177,4177,Douglas DC-3C,False
+4178,4178,Antonov AN-12,False
+4179,4179,Burgess RV-6 experimental,False
+4180,4180,Britten-Norman Trislander,False
+4181,4181,Airbus A-310-204,False
+4182,4182,Antonov AN-12BP,False
+4183,4183,Antonov 12,False
+4184,4184,Antonov 32B,False
+4185,4185,Lockheed Martin L-100-30 Hercules,False
+4186,4186,Lockheed L-100-30 Hercules,False
+4187,4187,Fokker F-27 Friendship 600,False
+4188,4188,Boeing KC-135E,False
+4189,4189,Douglas DC-3C,False
+4190,4190,Britten Norman BN-2A-26,False
+4191,4191,Antonov AN-26,False
+4192,4192,Antonov AN-12,False
+4193,4193,Britten Norman BN-2A Trislander,False
+4194,4194,Lockheed L-188A Electra,False
+4195,4195,Tupolev TU-154,False
+4196,4196,Dornier 328-110,False
+4197,4197,Antonov AN-32 Transport,False
+4198,4198,Douglas DC-3C (C-47A-DK),False
+4199,4199,de Havilland Canada DHC-6 Twin Otter 300,False
+4200,4200,Learjet 24D,False
+4201,4201,Boeing 737-4Q8,False
+4202,4202,de Havilland Canada DHC-6 Twin Otter 300,False
+4203,4203,McDonnell Douglas MD-11,False
+4204,4204,de Havilland Canada DHC-6 Twin Otter 300,False
+4205,4205,de Havilland Canada DHC-4A,False
+4206,4206,Let 410UVP-E,False
+4207,4207,McDonnell Douglas MD-82,False
+4208,4208,Antonov 32,False
+4209,4209,Britten-Norman BN-2A-21 Islander,False
+4210,4210,Eurocopter AS-350BA,False
+4211,4211,Embraer 110P2 Bandeirante,False
+4212,4212,de Havilland Canada DHC-3 Otter,False
+4213,4213,Antonov 12B,False
+4214,4214,Fokker F-27 Friendship 600,False
+4215,4215,Douglas DC-6A,False
+4216,4216,Boeing 727-243F,False
+4217,4217,Hawker Siddeley HS-125,False
+4218,4218,Piper PA-32-R301 Saratoga II HP,False
+4219,4219,Boeing B-747,False
+4220,4220,de Havilland Canada DHC-7-102,False
+4221,4221,Embraer 110P1 Bandeirante,False
+4222,4222,Dornier 228-201,False
+4223,4223,McDonnell Douglas MD-11,False
+4224,4224,McDonnell Douglas MD-90-30,False
+4225,4225,Yakovlev YAK-40,False
+4226,4226,Boeing B-737-204C,False
+4227,4227,Hawker Siddeley HS-748-501 Super 2B,False
+4228,4228,Boeing 757-204,False
+4229,4229,Dassault Falcon 900B,False
+4230,4230,Embraer 110 Bandeirante,False
+4231,4231,Lockheed C-130A Hercules,False
+4232,4232,Bell 214ST helicopter,True
+4233,4233,Arava 201,False
+4234,4234,Gates Learjet 35,False
+4235,4235,Boeing B-767-366ER,False
+4236,4236,McDonnell Douglas DC-9-31,False
+4237,4237,Aerospatiale Alenia ATR-42,False
+4238,4238,Ilyushin 114T,False
+4239,4239,Let 410UVP,False
+4240,4240,Lockheed C-130H,False
+4241,4241,British Aerospace APT,False
+4242,4242,McDonnell Douglas DC-10-30,False
+4243,4243,Boeing 747-2B5F,False
+4244,4244,Airbus A300B2-101,False
+4245,4245,Yakovlev YAK-42D,False
+4246,4246,de Havilland Canada DHC-6 Twin Otter,False
+4247,4247,Antonov 28,False
+4248,4248,Embraer 110P1A Bandeirante,False
+4249,4249,Saab 340B,False
+4250,4250,Shorts 360-300,False
+4251,4251,Let 410UVP-E,False
+4252,4252,AirbusA310-304,False
+4253,4253,McDonnell Douglas MD-83,False
+4254,4254,Lockheed C-130 Hercules,False
+4255,4255,McDonnell Douglas DC-8-71F,False
+4256,4256,Boeing B-737-3T5,False
+4257,4257,Yakovlev YAK-40,False
+4258,4258,de Havilland Canada DHC-6 Twin Otter 300,False
+4259,4259,Douglas C-47A-5-DK,False
+4260,4260,CASA 212-DE Aviocar 200,False
+4261,4261,Antonov AN-12 (freighter),False
+4262,4262,Antonov AN-32,False
+4263,4263,Antonov An-26,False
+4264,4264,Learjet 35A,False
+4265,4265,Boeing B-737-2H4,False
+4266,4266,Antonov AN-8,False
+4267,4267,Britten-Norman BN-2A-20 Islander,False
+4268,4268,Learjet 35A,False
+4269,4269,Britten-Norman BN-2A-9 Islander,False
+4270,4270,Rockwell Sabreliner 65,False
+4271,4271,Beechcraft 1900C-1,False
+4272,4272,BAe Jetstream 3101-31,False
+4273,4273,Airbus A.330-301,False
+4274,4274,Piper PA-31-350 Navajo,False
+4275,4275,Fokker F-27 Friendship 600,False
+4276,4276,Xian Yunshuji Y-7-100C,False
+4277,4277,Learjet 55,False
+4278,4278,Kawasaki C-1A,False
+4279,4279,GAF Nomad N-22C,False
+4280,4280,British Aerospace  BAe Jetstream 32EP,False
+4281,4281,Curtiss C-46A-60-CS,False
+4282,4282,de Havilland Canada DHC-6 Twin Otter 200,False
+4283,4283,Boeing B-737-2A8 Advanced,False
+4284,4284,Grumman G-159 Gulfstream I,False
+4285,4285,Douglas C-47A-10-DK,False
+4286,4286,Aerospatiale AS355-F1,False
+4287,4287,Aerospatiale BAe Concorde 101,False
+4288,4288,Lockheed C-130H Hercules,False
+4289,4289,de Havilland Canada DHC-6 Twin Otter 300,False
+4290,4290,Sikorsky S-76,False
+4291,4291,Casa 212-AB10 Aviocar,False
+4292,4292,Piper Navajo PA-31/ Piper Seminole PA-44,False
+4293,4293,Antonov AN-26B,False
+4294,4294,Airbus A320-212,False
+4295,4295,Douglas C-47,False
+4296,4296,Beechcraft SKA 200,False
+4297,4297,Mil Mi-17,False
+4298,4298,McDonnell Douglas DC-9-31,False
+4299,4299,Shorts SC.7 Skyvan 3-100,False
+4300,4300,Canadair CL-600-2B16 Challenger 604,False
+4301,4301,Cessna 335,False
+4302,4302,Harbin Yunshuji Y-12-II,False
+4303,4303,Ilyushin IL-18D,False
+4304,4304,Boeing B-747-412,False
+4305,4305,Antonov AN-26,False
+4306,4306,Antonov 32B,False
+4307,4307,Swearingen SA.226TC Metro II,False
+4308,4308,Antonov AN-26,False
+4309,4309,Airbus A300-600R,False
+4310,4310,Cessna 206,False
+4311,4311,Shaanxi Yunshuji Y-8/Yunshuji Y-8,False
+4312,4312,CASA 212-MP Aviocar 200,False
+4313,4313,Douglas C-47A-30-DK (DC-3C),False
+4314,4314,Douglas DC-3C (C47A-DL),False
+4315,4315,Beech King Air 200 Catpass,False
+4316,4316,Sud Aviation SE-210 Caravelle 10R,False
+4317,4317,Learjet 35A,False
+4318,4318,Swearingen SA.227AT Merlin IVC,False
+4319,4319,GAF Nomad N24A,False
+4320,4320,Shorts 360-100,False
+4321,4321,Short 360,False
+4322,4322,Boeing B-737-4D7,False
+4323,4323,Tupolev 154M,False
+4324,4324,de Havilland Canada DHC-6 Twin Otter,False
+4325,4325,Fokker F-27 Friendship 500F,False
+4326,4326,Grummand Gulfstream III,False
+4327,4327,Antonov AN-24,False
+4328,4328,Mil Mi-18 Helicopter,True
+4329,4329,Cessna  208B Grand Caravan,False
+4330,4330,CASA CN-235M-10,False
+4331,4331,Yakovlev YAK-40,False
+4332,4332,Fokker F-27 Friendship 400M,False
+4333,4333,Antonov 12MGA,False
+4334,4334,Transall C-160NG,False
+4335,4335,Tupolev TU-154M,False
+4336,4336,Sikorsky S-76B helicopter,True
+4337,4337,Antonov AN-28 PZL-Mielec M-28 Sky Truck,False
+4338,4338,Ilyushin IL-76,False
+4339,4339,Dassault Falcon 20C,False
+4340,4340,Aerospatiale AS350 Eurocopter  helicoper,True
+4341,4341,Antonov 28,False
+4342,4342,Learjet 25,False
+4343,4343,Airbus A-330-243,False
+4344,4344,CASA  CN-235-200,False
+4345,4345,Boeing B-757-223,False
+4346,4346,Boeing 767-223ER,False
+4347,4347,Boeing B-767-222,False
+4348,4348,Boeing B-757-222,False
+4349,4349,LET 410UVP,False
+4350,4350,Fokker 100,False
+4351,4351,LET 410UVP-E,False
+4352,4352,Tupolev Tu-154M,False
+4353,4353,de Havilland DHC-2 Mk 1 Beaver,False
+4354,4354,MD-87 / Cessna 525A Citation II,False
+4355,4355,Swearingen SA-226AT Merlin IV,False
+4356,4356,Cessna 208 Caravan,False
+4357,4357,Swearingen SA.226TC Metro I,False
+4358,4358,Bell 206L,False
+4359,4359,Airbus A-300-605R,False
+4360,4360,Ilyushin 18V,False
+4361,4361,Learjet 25B,False
+4362,4362,Antonov AN-28,False
+4363,4363,BAE Avro RJ100,False
+4364,4364,Boeing 747-246F,False
+4365,4365,Ilyushin IL- 76TD,False
+4366,4366,Let 410A,False
+4367,4367,Let 410UVP-E,False
+4368,4368,Britten Norman BN-2B Trislander,False
+4369,4369,Canadair CL-604,False
+4370,4370,Lockheed Hercules KC-130R,False
+4371,4371,Embraer EMB-120 Brasilia,False
+4372,4372,de Havilland DHC-6 Twin Otter 300,False
+4373,4373,Boeing B-737-3Q8,False
+4374,4374,Fairchild FH-227E,False
+4375,4375,Antonov AN-12,False
+4376,4376,Boeing B-727-134,False
+4377,4377,Tupolev TU-154,False
+4378,4378,Antonov 12BP,False
+4379,4379,Antonov AN-26,False
+4380,4380,MH-47 Chinook helicopter,True
+4381,4381,Antonov 2TP,False
+4382,4382,Antonov AN-2,False
+4383,4383,Let 410UVP-E,False
+4384,4384,Swearingen SA.227AC Metro III,False
+4385,4385,Boeing B-767-200ER,False
+4386,4386,Antonov AN-32A,False
+4387,4387,Mi-8 helicopter,True
+4388,4388,BAC One-Eleven 525FT,False
+4389,4389,Boeing B-737-566,False
+4390,4390,McDonnell Douglas MD-82,False
+4391,4391,LET 410UVP,False
+4392,4392,Boeing B-747-209B,False
+4393,4393,de Havilland Canada DHC-6 Twin Otter 300,False
+4394,4394,Hawker Siddeley HS-748-372,False
+4395,4395,Mi-17,False
+4396,4396,Lockheed MC-130H Hercules,False
+4397,4397,Tupolev TU-154M / Boeing B-757-23APF,False
+4398,4398,Boeing B-707-123B,False
+4399,4399,Britten-Norman BN-2A Islander,False
+4400,4400,Sikorsky S-76A,False
+4401,4401,de Havilland Canada DHC-6 Twin Otter 300,False
+4402,4402,Sukhoi Su-27,False
+4403,4403,Iluyshin Il-86,False
+4404,4404,Lockheed MC-130H Hercules,False
+4405,4405,Yunshuji Y-8D,False
+4406,4406,Mil Mi-26,False
+4407,4407,de Havilland Canada DHC-6-300 Twin Otter,False
+4408,4408,Antonov AN-28,False
+4409,4409,Embraer 120ER Brasilia,False
+4410,4410,ATR 42-300,False
+4411,4411,de Havilland Canada DHC-3 Otter,False
+4412,4412,Ilyushin IL-38 / Ilyushin IL-38,False
+4413,4413,Fokker 50,False
+4414,4414,Britten-Norman BN-2A-21,False
+4415,4415,IAI 1124A Westwind,False
+4416,4416,Fokker F27 Friendship 100,False
+4417,4417,Let 410UVP-E20,False
+4418,4418,Britten-Norman BN-2A-26 Islander,False
+4419,4419,Cessna 208B Caravan I Super Cargomaster,False
+4420,4420,Aérospatiale/Aeritalia ATR-72-202,False
+4421,4421,Antonov AN-140,False
+4422,4422,Embraer-110 C-95B Bandeirante,False
+4423,4423,Let 410UVP,False
+4424,4424,Beech BE-1900D,False
+4425,4425,BAe Avro RJ-100,False
+4426,4426,Fokker 28 Fellowship 1000,False
+4427,4427,Antonov 24B,False
+4428,4428,Grumman G-159 Gulfstream I,False
+4429,4429,Ilyushin II-76TD,False
+4430,4430,Antonov 12BP,False
+4431,4431,Antonov AN-28,False
+4432,4432,Cessna 421,False
+4433,4433,Ilyushin Il-76MD,False
+4434,4434,Fokker F-27 Friendship 200,False
+4435,4435,Let L-410UVP,False
+4436,4436,Boeing B-737-2T4,False
+4437,4437,de Havilland Canada DHC-6 Twin Otter,False
+4438,4438,Beech A36,False
+4439,4439,Illyushin 76,False
+4440,4440,Yakovlev 42D,False
+4441,4441,Cessna 185,False
+4442,4442,Gates Learjet 45,False
+4443,4443,EMB 721C Sertanejo,False
+4444,4444,Piper PA-31-350 Navajo Chieftain,False
+4445,4445,Embraer 820C Navajo,False
+4446,4446,McDonnell Douglas 369D,False
+4447,4447,Canadair CRJ-100ER,False
+4448,4448,Lockheed C-130 Hercules,False
+4449,4449,Cessna 180H,False
+4450,4450,Cessna 208B Grand Caravan,False
+4451,4451,Lockheed C-130H Hercules,False
+4452,4452,Mitsubishi MU 2B 35,False
+4453,4453,Sikorsky  S 76 A,False
+4454,4454,Boeing 737-2J8C,False
+4455,4455,Let 410UVP-E,False
+4456,4456,Cessna 402C,False
+4457,4457,Swearingen SA-226T Metro II,False
+4458,4458,Bell 206B,False
+4459,4459,Gates Learjet 35A,False
+4460,4460,Cessna 208B Grand Caravan,False
+4461,4461,Reims Aviation 406,False
+4462,4462,Mi-8 helicopter,True
+4463,4463,Let 420UVP-E,False
+4464,4464,Beechcraft 1900D,False
+4465,4465,Cessna 208B Grand Caravan,False
+4466,4466,Lockheed C-130A Hercules,False
+4467,4467,Learjet 25B,False
+4468,4468,Aerospatiale AS350BA,False
+4469,4469,Piper PA31-310,False
+4470,4470,EMB 721C Sertanejo,False
+4471,4471,Convair CV-580F,False
+4472,4472,Antonov AN-2TP,False
+4473,4473,Fairchild Hiller FH-227B,False
+4474,4474,Hawker 800A,False
+4475,4475,Cessna 208B Caravan I Super Cargomaster,False
+4476,4476,CH-47 Chinook,False
+4477,4477,Robertson R44 helicopter,True
+4478,4478,Shorts SC-7 Skyvan 3M Variant 100,False
+4479,4479,UH-60 Black Hawk / UH-60 Black Hawk,False
+4480,4480,Swearingen SA227AT Merlin IVC,False
+4481,4481,Antonov AN-26,False
+4482,4482,de Havilland DHC-3 Otter,False
+4483,4483,Douglas DC-9-15F,False
+4484,4484,Gates Learjet 24B,False
+4485,4485,Boeing B-727-223,False
+4486,4486,Boeing B-737-3Q8,False
+4487,4487,Yakovlev YAK-40,False
+4488,4488,Beechcraft Super King Air 200,False
+4489,4489,Fokker F-50,False
+4490,4490,Ilyushin II-76,False
+4491,4491,Beechcraft 1900C,False
+4492,4492,Bell 407,False
+4493,4493,Rockwell Gulfstream Jetprop 840,False
+4494,4494,Swearingen SA227AC Metro III,False
+4495,4495,Let 410UVP,False
+4496,4496,Antonov AN-12,False
+4497,4497,Embraer 120ER Brasilia,False
+4498,4498,Ilyushin II-76TD,False
+4499,4499,PZL-Mielec AN-2R,False
+4500,4500,Let 410UVP,False
+4501,4501,de Havilland DHC-6 Twin Otter 300,False
+4502,4502,BAe HS-748-232 Srs 2A,False
+4503,4503,Mi-8MTV-1,False
+4504,4504,Convair CV-440,False
+4505,4505,Sikorsky S 76,False
+4506,4506,de Havilland DHC-6 Twin Otter 300,False
+4507,4507,Convair CV-580,False
+4508,4508,Shorts 360,False
+4509,4509,Tupolev 154B-2,False
+4510,4510,Tupolev 134A-3,False
+4511,4511,de Havilland DHC-3 Otter,False
+4512,4512,Rockwell CT-39A Sabreliner,False
+4513,4513,CH-47D Chinook,False
+4514,4514,Pilatus-Britten Norman BN-2A-27 Islander,False
+4515,4515,Antonov AN-12,False
+4516,4516,Boeing 747-244B-SF,False
+4517,4517,Canadair CRJ200LR RegionalJet,False
+4518,4518,Douglas DC-3C,False
+4519,4519,Pilatus Britten-Norman BN-2A-21 Islander,False
+4520,4520,Bae Jetstream 3201,False
+4521,4521,Learjet 35A,False
+4522,4522,Beech 200 Super King Air,False
+4523,4523,BAe 3101 Jetstream 31,False
+4524,4524,Bombardier CRJ200,False
+4525,4525,Grumman Gulfstream G3,False
+4526,4526,CASA 212-CC,False
+4527,4527,Canadair CL-601-2A12 Challenger,False
+4528,4528,McDonnell-Douglas MD-82,False
+4529,4529,PZL-Mielec M28,False
+4530,4530,Ilyushin II-76TD,False
+4531,4531,Embraer EMB-110 Bandeirante,False
+4532,4532,Antonov AN-2,False
+4533,4533,Black Hawk helicopter,True
+4534,4534,Embraer EMB-110 Bandeirante,False
+4535,4535,CH53E Sea Stallion,False
+4536,4536,Let 410UVP-E4,False
+4537,4537,Lockheed Hercules C.1,False
+4538,4538,Boeing B-737-200,False
+4539,4539,Ilyushin 76TD,False
+4540,4540,Cessna 560 Citation V,False
+4541,4541,de Havilland DHC-6 Twin Otter 300,False
+4542,4542,CASA 212 Aviocar,False
+4543,4543,Cessna 500 Citation I,False
+4544,4544,Pilatus-Britten Norman BN-2B-26 Islander,False
+4545,4545,Antonov 24,False
+4546,4546,Ilyushin IL-76TD,False
+4547,4547,Let-410UVP-E,False
+4548,4548,Lockheed Hercules MC-130H,False
+4549,4549,de Havilland Canada DHC-6 Twin Otter 100,False
+4550,4550,Boeing B-707-3J9C,False
+4551,4551,Mil Mi-8,False
+4552,4552,Let 410UVP,False
+4553,4553,Swearingen SA.227AC Metro III,False
+4554,4554,Antonov AN-26,False
+4555,4555,Swearingen SA-227AC Metro III,False
+4556,4556,Beech 65-A80 Queenaire,False
+4557,4557,Yunshuji Y-12,False
+4558,4558,Antonov AN-12BP,False
+4559,4559,Antonov AN-24B,False
+4560,4560,Antonov AN-24B,False
+4561,4561,Airbus A-340,False
+4562,4562,ATR-72-202,False
+4563,4563,Sikorsky S-76C,False
+4564,4564,Boeing 737-31S,False
+4565,4565,McDonnell Douglas MD-82,False
+4566,4566,Boeing B-737-244,False
+4567,4567,Boeing 737-230,False
+4568,4568,Antonov 26B,False
+4569,4569,Antonov AN-26A,False
+4570,4570,Antonov 12V,False
+4571,4571,Boeing B-737-2L9,False
+4572,4572,Lockheed C-130B Hercules,False
+4573,4573,Boeing B-737-7H4,False
+4574,4574,McDonnell DC-9-32,False
+4575,4575,Grumman G73T Turbo Mallard,False
+4576,4576,Antonov AN-140-100,False
+4577,4577,British Aerospace BAe-125-700A,False
+4578,4578,UH-60L Black Hawk,False
+4579,4579,Antonov 12,False
+4580,4580,Dassault Falcon 20,False
+4581,4581,Antonov AN-24V,False
+4582,4582,Shorts 360-100 /Shorts 360-300,False
+4583,4583,Swearingen SA.226TC Metro II,False
+4584,4584,Let L410UVP-E20,False
+4585,4585,Harbin Yunshuji Y-12-II,False
+4586,4586,Antonov 74TK-200,False
+4587,4587,Antonov AN-32B,False
+4588,4588,Airbus A320-211,False
+4589,4589,Convair CV-580,False
+4590,4590,de Havilland Canada DHC-6 Twin Otter 300,False
+4591,4591,KJ-2000,False
+4592,4592,Lockheed C-130 Hercules,False
+4593,4593,de Havilland Canada DHC-6 Twin Otter 300,False
+4594,4594,Antonov AN-12B,False
+4595,4595,Airbus A-310-324ET,False
+4596,4596,Fokker F-27 Friendship 200,False
+4597,4597,Mil Mi-8,False
+4598,4598,Antonov AN-28,False
+4599,4599,Embraer 110 Bandeirante,False
+4600,4600,Lockheed L-100-30 Hercules,False
+4601,4601,Tupolev Tu-154M,False
+4602,4602,Canadair CRJ-200ER,False
+4603,4603,Tupolev Tu-154M,False
+4604,4604,British Aerospace Nimrod MR-2,False
+4605,4605,Mi-8 helicopter,True
+4606,4606,Dornier 228,False
+4607,4607,Boeing B-737-8EH /EMB-135JB,False
+4608,4608,BAe 146-200,False
+4609,4609,Antonov An-2,False
+4610,4610,Boeing 737-2B7,False
+4611,4611,de Havilland Canada DHC-6 Twin Otter 300,False
+4612,4612,Boeing 727-23F,False
+4613,4613,Antonov 74T-200,False
+4614,4614,Bell 412,False
+4615,4615,Boeing B-737-4Q8,False
+4616,4616,Antonov 26B-100,False
+4617,4617,Sikorsky UH-60L Black Hawk,False
+4618,4618,Fokker 100,False
+4619,4619,Boeing B-737-497,False
+4620,4620,Aerospatiale AS350BA Rotocraft,False
+4621,4621,Mc Donnell Douglas 369FF Rotocraft,False
+4622,4622,Rockwell 500S Shrike Commander,False
+4623,4623,Tuolev 134AK,False
+4624,4624,Ilushin Il-76TD,False
+4625,4625,Pilatus Britten Norman BN-2A-27 Islander,False
+4626,4626,Mi 8,False
+4627,4627,Boeing B-737-8AL,False
+4628,4628,de Havilland Canada DHC-6 Twin Otter,False
+4629,4629,Let 410UVP,False
+4630,4630,de Havilland Canada DHC-6 Twin Otter 300,False
+4631,4631,Mi-8,False
+4632,4632,Cessna 550 Citation II,False
+4633,4633,Mi-8,False
+4634,4634,Let 410UVP,False
+4635,4635,Antonov AN-24V,False
+4636,4636,Boeing 737-2M2,False
+4637,4637,North American CT-39A Sabreline,False
+4638,4638,de Havilland DHC-6 Twim Otter 100,False
+4639,4639,Airbus A-320-233,False
+4640,4640,Antonov AN-26V,False
+4641,4641,de Havilland DHC-2 MK.1 Beaver,False
+4642,4642,Antonov AN-12BP,False
+4643,4643,de Havilland Canada DHC-6 Twin Otter 300,False
+4644,4644,de Havilland Canada DHC-2 Beaver,False
+4645,4645,Boeing 737-809,False
+4646,4646,Embraer EMB-110P1 Bandeirant,False
+4647,4647,UH-60 Blackhawk helilcopter,False
+4648,4648,Antonov AN-32,False
+4649,4649,Antonov AN-12BP,False
+4650,4650,McDonnell Douglas MD-82,False
+4651,4651,Let 410,False
+4652,4652,Antonov AN-26,False
+4653,4653,Let 410 UVP-E10A,False
+4654,4654,Antonov 12,False
+4655,4655,McDonnell Douglas MD-83,False
+4656,4656,Eurocopter Deutschland BK117C1,False
+4657,4657,Cessna 208B Caravan I Super Cargomaster,False
+4658,4658,Let 410 UVP-E3,False
+4659,4659,Mi-17 Helicopter,True
+4660,4660,Boeing 777-236ER,False
+4661,4661,CASA C-295M,False
+4662,4662,CASA NC-212-200,False
+4663,4663,ATR-42-300,False
+4664,4664,Eurocopter  AS332L2 Super Puma,False
+4665,4665,Mi-17,False
+4666,4666,Antonov An-28,False
+4667,4667,Swearingen SA227AC Metroliner III,False
+4668,4668,Antonov An-32,False
+4669,4669,McDonnell Douglas DC-9-51,False
+4670,4670,Antonov An-32B,False
+4671,4671,Mil Mi-8T,False
+4672,4672,de Havilland Canada DHC-2 Mark I Beaver,False
+4673,4673,Eurocopter AS350D Astar,False
+4674,4674,Antonov An-12,False
+4675,4675,Bell UN-1N Huey,False
+4676,4676,Airbus A-320-233,False
+4677,4677,Bell 407,False
+4678,4678,Airbus A-310-324,False
+4679,4679,de Havilland Canada DHC-6 Twin Otter 100,False
+4680,4680,Bell UH-1N,False
+4681,4681,CASA NC-212,False
+4682,4682,Antonov 12BK,False
+4683,4683,Bell 407 / Bell 407,False
+4684,4684,Ilysushin Il-76TD,False
+4685,4685,Douglas DC9-15F,False
+4686,4686,Boeing B-747-209BSF,False
+4687,4687,British Aerospace BAe-125-800A,False
+4688,4688,Grumman G-21A Goose,False
+4689,4689,Sikorsky S-61N,False
+4690,4690,Bell Huey UH-1H,False
+4691,4691,Fokker F-27 Friendship 500,False
+4692,4692,McDonnell Douglas MD-82,False
+4693,4693,Boeing B-737-219,False
+4694,4694,Boeing B-737-291,False
+4695,4695,Convair CV-580,False
+4696,4696,Bell 212,False
+4697,4697,Boeing B-737-505,False
+4698,4698,Learjet 60,False
+4699,4699,Aerospatiale SA365N-1 Dauphin II,False
+4700,4700,de Havilland Canada DHC-6 Twin Otter 300,False
+4701,4701,Bell 222,False
+4702,4702,Antonov An-12,False
+4703,4703,Grumman G-21A Goose,False
+4704,4704,Airbus A320-232,False
+4705,4705,Rockwell International 690B,False
+4706,4706,Bell 206-L4 Jet Ranger III,False
+4707,4707,Britten Norman BN-2A Trislander Mk3,False
+4708,4708,Boeing 737-500,False
+4709,4709,ATR-42-320,False
+4710,4710,Sikorsky S-76C++,False
+4711,4711,Mil Mi-17,False
+4712,4712,Airbus A320-214,False
+4713,4713,Bandeirante EMB-110P1,False
+4714,4714,Bombardier DHC-8-402 Q400,False
+4715,4715,Bell UH-1H,False
+4716,4716,Antonov 12V,False
+4717,4717,Boeing 737-8F2,False
+4718,4718,Ilyushin Il-76T,False
+4719,4719,Sikorsky S-92A,False
+4720,4720,Pilatus PC-12/45,False
+4721,4721,McDonnell Douglas MD-11,False
+4722,4722,Eurocopter AS 332L2 Super Puma 2,False
+4723,4723,Fokker F-27 Friendship 400M,False
+4724,4724,British Aerospace BAe-146-300,False
+4725,4725,Boeing B-737-200,False
+4726,4726,Mi-35,False
+4727,4727,Lockheed C-130 Hercules,False
+4728,4728,Antonov An-26,False
+4729,4729,Airbus A330-203,False
+4730,4730,Britten-Norman BN-2A-27 Islander,False
+4731,4731,Antonov An-32,False
+4732,4732,de Havilland Canada DHC-6 Twin Otter 300,False
+4733,4733,Airbus A310-324,False
+4734,4734,Mil Mi-17,False
+4735,4735,Tupolev 154M,False
+4736,4736,Mil Mi-8,False
+4737,4737,Ilyushin Il-62M,False
+4738,4738,de Havilland Canada DHC-6 Twin Otter 300,False
+4739,4739,ATR-72-212A,False
+4740,4740,Eurocopter AS-350BA / Piper PA-32R-300,False
+4741,4741,de Havilland Canada DHC-6 Twin Otter 300,False
+4742,4742,Antonov An-12BK,False
+4743,4743,Mil Mi-8,False
+4744,4744,British Aerospace Jetstream 41,False
+4745,4745,Eurocopter AS350-B2,False
+4746,4746,Douglas DC-3C,False
+4747,4747,Boeing 707-330C,False
+4748,4748,Britten-Norman BN-2A-8 Island,False
+4749,4749,Tupolev Tu-142M3,False
+4750,4750,Ilyushin Il-76,False
+4751,4751,Canadair CRJ-100ER,False
+4752,4752,Aerospatiale AS350,False
+4753,4753,McDonnell Douglas MD-11F,False
+4754,4754,de Havilland Canada DHC-2 Beaver MK- 1,False
+4755,4755,Beechcraft 1900C-1,False
+4756,4756,Boeing 737-8AS,False
+4757,4757,Embraer EMB-110C Bandeirante,False
+4758,4758,GAF N22B Nomad,False
+4759,4759,Helicopter,True
+4760,4760,Tupolev 154M,False
+4761,4761,Mi-8,False
+4762,4762,Airbus A300B4-203F,False
+4763,4763,Antonov An-12BP,False
+4764,4764,Airbus A330-202,False
+4765,4765,Antonv An-28,False
+4766,4766,Antonv An-24B,False
+4767,4767,Boeing 737-8HG,False
+4768,4768,CASA 212 Aviocar,False
+4769,4769,Beechcraft A100 King Air,False
+4770,4770,Antonov AN-2,False
+4771,4771,Airbus A321-231,False
+4772,4772,McDonnell Douglas C-17A Globemaster III,False
+4773,4773,Fairchild C-123K,False
+4774,4774,Antonov An-24 V,False
+4775,4775,de Havilland Canada DH-3T Otter,False
+4776,4776,Boeing B-737-73V,False
+4777,4777,de Havilland Canada DHC-2 Beaver,False
+4778,4778,Dornier 228-101,False
+4779,4779,Embraer ERJ-190-100LR,False
+4780,4780,Let 410UVP-E,False
+4781,4781,Mi 17V-5,False
+4782,4782,Boeing B747-44AF,False
+4783,4783,Fletcher FU-24-954,False
+4784,4784,ATR 42-320,False
+4785,4785,Sikorsky UH-60 Black Hawk,False
+4786,4786,Mi-8,False
+4787,4787,Lockheed L-100 Hercules,False
+4788,4788,Let 410UVP,False
+4789,4789,ATR-72-212,False
+4790,4790,Beechcraft 1900C-1,False
+4791,4791,Mil Mi-8T,False
+4792,4792,Ilyushin Il-76TD,False
+4793,4793,Tupolev Tu-154M,False
+4794,4794,de Havilland Canada DHC-6 Twin Otter,False
+4795,4795,Tupolev Tu-154B-2,False
+4796,4796,Boeing B-727-286,False
+4797,4797,Pilatus PC-12/47,False
+4798,4798,Swearingen SA-227BC Metro III,False
+4799,4799,Let L-410 UVPE-20,False
+4800,4800,Antonov 12BP,False
+4801,4801,Canadair CL-600 CRJ-100ER,False
+4802,4802,Mil Mi-172,False
+4803,4803,Embraer/Piper EMB-810C Seneca,False
+4804,4804,Xian MA-60,False
+4805,4805,Saab 340A,False
+4806,4806,Tupolev Tu-134,False
+4807,4807,Ilyushin76TD,False
+4808,4808,Boeing B-727-100,False
+4809,4809,Antonov An-24RV,False
+4810,4810,Let L-401UVP-20,False
+4811,4811,Lockheed C-130 Hercule,False
+4812,4812,Boeing B-747-48EF,False
+4813,4813,Boeing CH-47 Chinook,False
+4814,4814,Antonov 12,False
+4815,4815,Boeing B-737-210C(A) Combi,False
+4816,4816,Eurocopter AS350B2,False
+4817,4817,CASA C-212 Aviocar 300DF,False
+4818,4818,Swearingen SA-227BC Metroliner III,False
+4819,4819,Yakovlev 42D,False
+4820,4820,Embraer 120ER Brasilia,False
+4821,4821,North American P-51D-15-NA Mustang,False
+4822,4822,De Havilland Canada DHC-6-300 Twin Otter,False
+4823,4823,Beechcraft 1900D,False
+4824,4824,CASA NC-212 Aviocar 200,False
+4825,4825,de Havilland Canada DHC-8-102,False
+4826,4826,Beechcraft 100 King Air,False
+4827,4827,Eurocopter EC-130 B4,False
+4828,4828,Aerospatiale AS 332L1 Super Puma,False
+4829,4829,Aerospatiale AS-350 B2 Ecureuil,False
+4830,4830,Bell 206B,False
+4831,4831,Antonov AN-28,False
+4832,4832,Convair CV-340,False
+4833,4833,Sikorsky S-70A-28,False
+4834,4834,ATR 72-201,False
+4835,4835,Boeing 737-236,False
+4836,4836,Bell 212,False
+4837,4837,Sukhoi Superjet 100-95,False
+4838,4838,Dornier 228-212,False
+4839,4839,Boeing B-727-200,False
+4840,4840,McDonnell Douglas MD-83,False
+4841,4841,Sikorsly S-58ET,False
+4842,4842,Antonov An-2R,False
+4843,4843,Fokker F-27 Friendship 400M,False
+4844,4844,PA-34-200 Seneca I,False
+4845,4845,Antonov An-26-100,False
+4846,4846,Antonov An-28,False
+4847,4847,Dornier 228-202,False
+4848,4848,Antonov An-12BP,False
+4849,4849,Britten-Norman BN-2A-26 Islander,False
+4850,4850,Antonov An-26,False
+4851,4851,Ilysushin Il-76T,False
+4852,4852,Douglas C47-TP,False
+4853,4853,Learjet 25,False
+4854,4854,Antonov AN-72-100D,False
+4855,4855,Fokker 100,False
+4856,4856,Tupolev TU-204-100V,False
+4857,4857,Bell 407,False
+4858,4858,Britten Norman BN-2A-27 Islander,False
+4859,4859,Canadair CRJ-200ER,False
+4860,4860,Antonov AN-24RV,False
+4861,4861,Fokker 50,False
+4862,4862,Beechcraft 1900C,False
+4863,4863,Boeing B-737-8GP,False
+4864,4864,Boeing B-747-428BCF,False
+4865,4865,Sikorsky S-76,False
+4866,4866,MI 172 V5 helicopter,True
+4867,4867,Boeing B-777-28EER,False
+4868,4868,de Havilland Canada DHC-3T,False
+4869,4869,Antonov An-12,False
+4870,4870,Airbus A300F-622R,False
+4871,4871,Embraer 120RT Brasilia,False
+4872,4872,de Havilland Canada DHC-6 Twin Otter 310,False
+4873,4873,ATR-72-50,False
+4874,4874,Swearingen SA227-AC Metro III,False
+4875,4875,Mil- Mi-17B-5,False
+4876,4876,Swearingen SA227-AC Metro II,False
+4877,4877,Boeing 737-53A,False
+4878,4878,Eurocopter EC135 T2,False
+4879,4879,Embraer ERJ-190AR,False
+4880,4880,Britten Norman BN-2A-3 Islander,False
+4881,4881,Antonov 12,False
+4882,4882,Britten Norman BN-2A-27 Islander,False
+4883,4883,Lockheed C-130H-30 Hercules,False
+4884,4884,de Havilland Canada DHC-6 Twin Otter 300,False
+4885,4885,Antonov 26,False
+4886,4886,Boeing 777-200,False
+4887,4887,Urocopter AS350 B2,False
+4888,4888,British Aerospace BAe 125-700A Hawker,False
+4889,4889,Aerocomp Comp Air 8,False
+4890,4890,Douglas DC-3C,False
+4891,4891,Antonov 74TK-300,False
+4892,4892,Ilyushin 76MD,False
+4893,4893,Fokker 50,False
+4894,4894,Mil Mi-171,False
+4895,4895,Boeing 777-2H6ER,False
+4896,4896,ATR 72-500,False
+4897,4897,Mc Donnell Douglas MD-83,False
+4898,4898,HESA Iran-140-100,False
+4899,4899,Antonov An-12BK,False
+4900,4900,Fokker F-27 MK 500,False
+4901,4901,de Havilland Canada DHC-6 Twin Otter 300,False
+4902,4902,Bell 206L,False
+4903,4903,Antonov An-26,False
+4904,4904,Airbus A-320-216,False
+4905,4905,Antonov An-26,False
+4906,4906,ATR 72-600,False
+4907,4907,Both Eurocopter AS350B3,False
+4908,4908,Airbus A320-211,False
+4909,4909,de Havilland DHC-3T Vazar TurbineOtter,False
+4910,4910,Lockheed C130-B Hercules,False
+4911,4911,CASA CN-235-100,False
+4912,4912,Pacific Aerospace,False
+4913,4913,ATR 42-300,False
+4914,4914,Hawker Siddeley HS-125,False
+4915,4915,de Havilland Canada DHC 3T Turbine Otter,False
+4916,4916,Lockheed C-130J Hercules,False
+4917,4917,de Havilland DHC-6 Twin Otter,False
+4918,4918,de Havilland DCH-4T Caribou,False
+4919,4919,Airbus A321-231,False
+4920,4920,Antonov 12BK,False
+4921,4921,Aerospatiale AS 350B2 Ecureuil,False
+4922,4922,Mil MI-8T,False
+4923,4923,Canadair CRJ-200,False
+4924,4924,Airbus A321-111,False
+4925,4925,de Havilland DHC-6 Twin Otter 400,False
+4926,4926,PAC 750XL,False
+4927,4927,Antonov AN-26,False
+4928,4928,IAI Attava 201,False
+4929,4929,Boeing 737-8KN (WL),False
+4930,4930,Mitsubishi MU-2B 60 Marquise,False
+4931,4931,Bell 206L,False
+4932,4932,Britten-Norman Islander,False
+4933,4933,Eurocopter EC225LP Super Puma M2+,False
+4934,4934,Airbus A320-232,False
+4935,4935,Antonov 32,False
+4936,4936,Kubicek BB85Z Hot Air Balloon,False
+4937,4937,Boeing 777-31H,False
+4938,4938,Cessna 208 Grand Caravan,False
+4939,4939,Swearingen SA277-AT Expditer,False
+4940,4940,Avro RJ-85,False
+4941,4941,M28 Skytruck,False
+4942,4942,ATR-42-500,False
+4943,4943,Lockheed C-130H Hercules,False
+4944,4944,Boeing 727-2JOF,False
+4945,4945,Tupolev 154B-2,False
+4946,4946,Boeing 747-412F,False
+4947,4947,Beechcraft B200 Super King Air,False
+4948,4948,Sikorsky S-76C,False
+4949,4949,Britten-Norman BN2 Islander,False
+4950,4950,Shorts 300-200,False
+4951,4951,Let L-410UVP-E20,False
+4952,4952,Shaanxi Y-8F-200W,False
+4953,4953,Socata TB1-10 Tobago,False
+4954,4954,Lockheed KC-130T Hercules,False
+4955,4955,Antonov An-12B,False
+4956,4956,Embraer EMB-120ER,False
+4957,4957,Antonov AN-26-100,False
+4958,4958,Cessna 208B Grand Caravan,False
+4959,4959,ATR42-320,False
+4960,4960,Cessna 208B Grand Caravan,False
+4961,4961,Shaanxi Y-8GX-3,False
+4962,4962,Eurocopter EC 130B4,False
+4963,4963,Antonov AN-148-100,False
+4964,4964,ATR 72-212,False
+4965,4965,Antonov An-26,False
+4966,4966,Eurocopter AS 350B2,False
+4967,4967,Canadair CL-600-2B16 Challenger 604,False
+4968,4968,de Havilland Canada DHC-8-402Q Dash 8,False
+4969,4969,Ilyushin 76-TD,False
+4970,4970,Boeing 737-7H4,False
+4971,4971,Lockheed HC-130H Hercules,False
+4972,4972,Boeing 737-201,False
+4973,4973,Cessna 208B Grand Carivan,False
+4974,4974,Convair CV-340,False
+4975,4975,Junkers JU-52,False
+4976,4976,Ilyushin Il-20M,False
+4977,4977,Boeing 737-8BK,False
+4978,4978,Boeing 737-MAX 8,False
+4979,4979,Boeing 757-N23,False
+4980,4980,Boeing 707-3J9C,False
+4981,4981,Boeing 767-375ER,False
+4982,4982,Douglas DC-3,False
+4983,4983,Boeing 737 Max 8,False
+4984,4984,Pilatus-Britten Norman BN-2B-27 Islander,False
+4985,4985,Canadair CL-600-2B16-Challenger,False
+4986,4986,Sukhoi Superjet-100-95B,False
+4987,4987,Antonov An-32,False
+4988,4988,Beechcraft B300 King Air,False
+4989,4989,Convair CV-440F,False
+4990,4990,Antonov An-12BK,False
+4991,4991,Dornier 228-201,False
+4992,4992,Fokker 100,False
+4993,4993,Antonov An12-A,False
+4994,4994,Boeing 737-8KV WL,False
+4995,4995,Boeing 737-86J,False
+4996,4996,IAI 1124A Westwind II,False
+4997,4997,Airbus A320-214,False
+4998,4998,Boeing 737-8HG,False
+4999,4999,Antonov 26B,False
+5000,5000,Antonov An26SH,False
+5001,5001,Boeing 737-524,False
+5002,5002,Let L-410UVP-E,False
+5003,5003,Eurocopter AS350B3 Ecureuil,False
+5004,5004,Beechcraft B300 King Air 350i,False
+5005,5005,Beechcraft 1900D,False
+5006,5006,Lockheed C-130H Hercules,False
+5007,5007,Antonov An 26B-100,False
