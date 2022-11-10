@@ -1,4 +1,4 @@
-flight_id,flight_id,people_onboard,passengers_onboard,crew_onboard,people_dead,passenger_dead,crew_dead,ground,total_fatalities
+,flight_id,people_onboard,passengers_onboard,crew_onboard,people_dead,passenger_dead,crew_dead,ground,total_fatalities
 0,0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
 1,1,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0
 2,2,5.0,0.0,5.0,5.0,0.0,5.0,0.0,5.0

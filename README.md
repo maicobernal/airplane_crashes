@@ -71,7 +71,7 @@ Todos los datos procesados en estos 3 notebooks fue a posterior cargado en una b
 
 #### 6) Visualización y análisis en Power BI
 
-Se puede visualizar en el archivo *dashboard.pbix*. El mismo consta de varias secciones donde se profundiza acerca de la temática. 
+Se puede visualizar en el archivo *dashboard.pbix*, en el siguiente [link](https://app.powerbi.com/links/RShO0V5e-U?ctid=fd9e16cd-eee5-473b-a983-83b993473c40&pbi_source=linkShare) o en el *archivo PDF* que se adjunta. El mismo consta de varias secciones donde se profundiza acerca de la temática. 
 
 El objetivo del dashboard es evaluar el impacto de los accidentes aéreos en la cotización de las principales aerolíneas comerciales y fabricantes de aeronaves y evaluar aspectos respecto a la seguridad de los vuelos aéreos en función del tiempo y eventos clave. 
 
